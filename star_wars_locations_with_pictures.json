@@ -1,0 +1,658 @@
+[
+  {
+    "lat": 18.102175,
+    "lon": -89.430977,
+    "Placename": "Calakmul Biosphere Reserve, Mexico",
+    "Category": "Filming Location",
+    "Description": "Calakmul Biosphere Reserve in Campeche, Mexico provided jungle backdrops for establishing shots of the Rebel base on Yavin IV in *Star Wars: A New Hope*.",
+    "pictures": []
+  },
+  {
+    "lat": 52.097984,
+    "lon": -0.374574,
+    "Placename": "Cardington Airship Sheds, Bedfordshire, UK",
+    "Category": "Studio/Stage",
+    "Description": "Cardington Airship Sheds in Bedfordshire were used to film interior hangar scenes for the Rebel base on Yavin IV in *A New Hope* and later reused for other Star Wars films.",
+    "pictures": []
+  },
+  {
+    "lat": 36.505413,
+    "lon": -117.079403,
+    "Placename": "Death Valley National Park, USA",
+    "Category": "Filming Location",
+    "Description": "Death Valley National Park in California doubled as part of the desert planet Tatooine for *A New Hope*, with filming at sites like Dante's View, Desolation Canyon and Mesquite Flat Dunes.",
+    "pictures": []
+  },
+  {
+    "lat": 33.722164,
+    "lon": 10.732224,
+    "Placename": "Ajim (Djerba), Tunisia",
+    "Category": "Filming Location",
+    "Description": "The town of Ajim on the island of Djerba, Tunisia served as the exterior of Mos Eisley's cantina and other streets of Tatooine in *A New Hope*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.641481,
+    "lon": -0.263794,
+    "Placename": "Elstree Film Studios, Borehamwood, UK",
+    "Category": "Studio",
+    "Description": "Elstree Film Studios near Borehamwood hosted interior sets for *A New Hope*, *The Empire Strikes Back*, and *Return of the Jedi* and later prequel/sequel films.",
+    "pictures": []
+  },
+  {
+    "lat": 34.387524,
+    "lon": 7.843795,
+    "Placename": "La Grande Dune (Nefta, Tunisia)",
+    "Category": "Filming Location",
+    "Description": "The linear dunes near Nefta, Tunisia (known as La Grande Dune) were used for the lifepod crash site and krayt-dragon skeleton shots on Tatooine in *A New Hope*.",
+    "pictures": []
+  },
+  {
+    "lat": 17.221191,
+    "lon": -89.623199,
+    "Placename": "Tikal National Park, Guatemala",
+    "Category": "Filming Location",
+    "Description": "Tikal's ancient Mayan temples provided exterior establishing shots of the Rebel base on Yavin IV at the end of *A New Hope*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.409443,
+    "lon": -0.466009,
+    "Placename": "Shepperton Studios, Surrey, UK",
+    "Category": "Studio",
+    "Description": "Shepperton Studios near London housed additional interior sets for the original trilogy and prequel films.",
+    "pictures": []
+  },
+  {
+    "lat": 32.97321,
+    "lon": -115.17314,
+    "Placename": "Imperial Sand Dunes (Buttercup Valley), California, USA",
+    "Category": "Filming Location",
+    "Description": "The Imperial Sand Dunes near Yuma, Arizona-specifically Buttercup Valley-provided the location for the Great Pit of Carkoon and Jabba's sail-barge scenes in *Return of the Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 33.54253,
+    "lon": 9.967341,
+    "Placename": "Hotel Sidi Idriss (Matmata), Tunisia",
+    "Category": "Filming Location",
+    "Description": "Hotel Sidi Idriss in Matmata is a troglodyte hotel that served as the interior of the Lars homestead on Tatooine in *A New Hope* and was revisited for Shmi Skywalker's funeral scene in *Attack of the Clones*.",
+    "pictures": [
+      {
+        "url": "009_Hotel_Sidi_Idriss__Matmata___Tunisia_3.jpg"
+      },
+      {
+        "url": "009_Hotel_Sidi_Idriss__Matmata___Tunisia_3.jpg"
+      },
+      {
+        "url": "009_Hotel_Sidi_Idriss__Matmata___Tunisia_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 33.347272,
+    "lon": 10.492051,
+    "Placename": "Ksar Medenine, Tunisia",
+    "Category": "Filming Location",
+    "Description": "The fortified granary Ksar Medenine in Médenine, Tunisia appeared as the slave quarters and Anakin Skywalker's childhood home in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 32.788361,
+    "lon": 10.514989,
+    "Placename": "Ksar Ouled Soltane, Tunisia",
+    "Category": "Filming Location",
+    "Description": "Ksar Ouled Soltane near Tataouine served as additional slave-quarters buildings for the Mos Espa scenes in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 33.842823,
+    "lon": 7.779038,
+    "Placename": "Chott el Djerid (Lars Homestead Exterior), Tunisia",
+    "Category": "Filming Location",
+    "Description": "The salt flats of Chott el Djerid hosted the exterior of the Lars homestead in *A New Hope*, *Attack of the Clones* and *Revenge of the Sith*; an igloo facade was built on the site.",
+    "pictures": [
+      {
+        "url": "012_Chott_el_Djerid__Lars_Homestead_Exterior___Tunisia_3.png"
+      },
+      {
+        "url": "012_Chott_el_Djerid__Lars_Homestead_Exterior___Tunisia_3.png"
+      },
+      {
+        "url": "012_Chott_el_Djerid__Lars_Homestead_Exterior___Tunisia_3.png"
+      }
+    ]
+  },
+  {
+    "lat": 33.994296,
+    "lon": 7.842677,
+    "Placename": "Mos Espa Set (Tozeur, Tunisia)",
+    "Category": "Filming Location",
+    "Description": "A purpose-built set in the Eriguet dunes near Tozeur formed the Mos Espa marketplace and slave-quarter streets for *The Phantom Menace* and was reused in *Attack of the Clones*.",
+    "pictures": []
+  },
+  {
+    "lat": 34.015353,
+    "lon": 7.911444,
+    "Placename": "Oung Jmel (Camel Head Rock), Tunisia",
+    "Category": "Filming Location",
+    "Description": "The rock formation Oung Jmel (Camel Head) near Tozeur was used as the landing site for Darth Maul's Sith Infiltrator and other desert shots in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 34.033572,
+    "lon": 8.281771,
+    "Placename": "Sidi Bouhlel (Star Wars Canyon), Tunisia",
+    "Category": "Filming Location",
+    "Description": "The gorge of Sidi Bouhlel-nicknamed Star Wars Canyon-was used for the Jundland Wastes where Tusken Raiders attack Luke in *A New Hope* and for podrace sniper shots in *The Phantom Menace*.",
+    "pictures": [
+      {
+        "url": "015_Sidi_Bouhlel__Star_Wars_Canyon___Tunisia_3.jpg"
+      },
+      {
+        "url": "015_Sidi_Bouhlel__Star_Wars_Canyon___Tunisia_3.jpg"
+      },
+      {
+        "url": "015_Sidi_Bouhlel__Star_Wars_Canyon___Tunisia_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 33.740833,
+    "lon": 10.734951,
+    "Placename": "Ben's Hermitage (Amghar Mosque), Djerba, Tunisia",
+    "Category": "Filming Location",
+    "Description": "The Amghar Mosque on Djerba served as the exterior of Obi-Wan Kenobi's hut overlooking the Dune Sea in *A New Hope*.",
+    "pictures": []
+  },
+  {
+    "lat": 33.831411,
+    "lon": 10.747936,
+    "Placename": "Sidi Jemour Mosque (Tosche Station), Djerba, Tunisia",
+    "Category": "Filming Location",
+    "Description": "The Sidi Jemour Mosque near Djerba appeared as Tosche Station (seen in deleted scenes) in *A New Hope*.",
+    "pictures": [
+      {
+        "url": "017_Sidi_Jemour_Mosque__Tosche_Station___Djerba__Tunis_3.jpg"
+      },
+      {
+        "url": "017_Sidi_Jemour_Mosque__Tosche_Station___Djerba__Tunis_3.jpg"
+      },
+      {
+        "url": "017_Sidi_Jemour_Mosque__Tosche_Station___Djerba__Tunis_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 36.84264,
+    "lon": 10.166737,
+    "Placename": "CTV Productions, Tunisia",
+    "Category": "Studio",
+    "Description": "CTV Productions in Tunisia provided production facilities for *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.658066,
+    "lon": -0.269268,
+    "Placename": "Elstree Film Studios (Episode I)",
+    "Category": "Studio",
+    "Description": "Elstree Film Studios were again used for interior sets in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 33.10014,
+    "lon": 10.314213,
+    "Placename": "Ksar Hadada, Tunisia",
+    "Category": "Filming Location",
+    "Description": "Ksar Hadada's covered alleys were used as the Mos Espa slave-quarter backyards in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 41.073219,
+    "lon": 14.326521,
+    "Placename": "Reggia di Caserta, Italy",
+    "Category": "Filming Location",
+    "Description": "The 18th-century Royal Palace of Caserta stood in for the Naboo Royal Palace interior in *The Phantom Menace*.",
+    "pictures": [
+      {
+        "url": "021_Reggia_di_Caserta__Italy_2.jpg"
+      },
+      {
+        "url": "021_Reggia_di_Caserta__Italy_2.jpg"
+      },
+      {
+        "url": "021_Reggia_di_Caserta__Italy_2.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 51.690876,
+    "lon": -0.420719,
+    "Placename": "Warner Bros. Studios Leavesden, UK",
+    "Category": "Studio",
+    "Description": "Leavesden Studios near Watford housed extensive sets and visual-effects stages for *The Phantom Menace* and other films.",
+    "pictures": []
+  },
+  {
+    "lat": 51.669575,
+    "lon": -0.445353,
+    "Placename": "Whippendell Woods, UK",
+    "Category": "Filming Location",
+    "Description": "Whippendell Woods near Watford provided the forest backdrop for Gungan scenes on Naboo in *The Phantom Menace*.",
+    "pictures": []
+  },
+  {
+    "lat": 45.958997,
+    "lon": 9.2015,
+    "Placename": "Villa del Balbianello (Lake Como), Italy",
+    "Category": "Filming Location",
+    "Description": "Villa del Balbianello on Lake Como was used as the lakeside retreat where Anakin and Padmé hide on Naboo in *Attack of the Clones*.",
+    "pictures": []
+  },
+  {
+    "lat": 37.377197,
+    "lon": -5.986893,
+    "Placename": "Plaza de España, Seville, Spain",
+    "Category": "Filming Location",
+    "Description": "The Plaza de España in Seville served as the Naboo palace courtyard through which Anakin and Padmé walk in *Attack of the Clones*.",
+    "pictures": []
+  },
+  {
+    "lat": 46.617,
+    "lon": 12.3,
+    "Placename": "Tre Cime di Lavaredo (Dolomites), Italy",
+    "Category": "Filming Location",
+    "Description": "The snowy peaks of the Tre Cime di Lavaredo in the Italian Dolomites portrayed the planet Vandor in *Solo: A Star Wars Story* and provided the backdrop for the conveyex heist.",
+    "pictures": [
+      {
+        "url": "026_Tre_Cime_di_Lavaredo__Dolomites___Italy_1.jpg"
+      },
+      {
+        "url": "026_Tre_Cime_di_Lavaredo__Dolomites___Italy_1.jpg"
+      },
+      {
+        "url": "026_Tre_Cime_di_Lavaredo__Dolomites___Italy_1.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 50.816696,
+    "lon": -1.328881,
+    "Placename": "Fawley Power Station, Hampshire, UK",
+    "Category": "Filming Location",
+    "Description": "The decommissioned Fawley Power Station on Southampton Water doubled as the industrial planet Corellia in *Solo: A Star Wars Story*.",
+    "pictures": [
+      {
+        "url": "027_Fawley_Power_Station__Hampshire__UK_1.png"
+      },
+      {
+        "url": "027_Fawley_Power_Station__Hampshire__UK_1.png"
+      },
+      {
+        "url": "027_Fawley_Power_Station__Hampshire__UK_1.png"
+      }
+    ]
+  },
+  {
+    "lat": 28.4,
+    "lon": -14.0,
+    "Placename": "Fuerteventura, Canary Islands, Spain",
+    "Category": "Filming Location",
+    "Description": "The island of Fuerteventura in the Canary Islands provided desert landscapes for the planet Savareen in *Solo: A Star Wars Story*.",
+    "pictures": []
+  },
+  {
+    "lat": 33.780277,
+    "lon": 8.390037,
+    "Placename": "Chott el Djerid (Episode III)",
+    "Category": "Filming Location",
+    "Description": "Chott el Djerid's salt flats were revisited for the Lars homestead exterior and other Tatooine scenes in *Revenge of the Sith*.",
+    "pictures": [
+      {
+        "url": "029_Chott_el_Djerid__Episode_III__3.png"
+      },
+      {
+        "url": "029_Chott_el_Djerid__Episode_III__3.png"
+      },
+      {
+        "url": "029_Chott_el_Djerid__Episode_III__3.png"
+      }
+    ]
+  },
+  {
+    "lat": -33.893066,
+    "lon": 151.223877,
+    "Placename": "Disney Studios Australia, Sydney",
+    "Category": "Studio",
+    "Description": "Disney Studios Australia in Sydney hosted interior sets and bluescreen stages for *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 46.622784,
+    "lon": 8.039089,
+    "Placename": "Grindelwald, Switzerland",
+    "Category": "Filming Location",
+    "Description": "Footage of the alpine scenery around Grindelwald was composited into the planet Alderaan in *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 25.268642,
+    "lon": 110.28051,
+    "Placename": "Guilin, China",
+    "Category": "Filming Location",
+    "Description": "Shots of Guilin's karst mountains were used for Kashyyyk's backdrop in *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 37.751045,
+    "lon": 14.993218,
+    "Placename": "Mount Etna, Sicily, Italy",
+    "Category": "Filming Location",
+    "Description": "Footage of eruptions on Mount Etna inspired the fiery landscape of Mustafar in *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 7.883494,
+    "lon": 98.388054,
+    "Placename": "Phuket, Thailand",
+    "Category": "Filming Location",
+    "Description": "Phuket's tropical scenery was combined with digital elements for the planet Kashyyyk in *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.407543,
+    "lon": -0.463723,
+    "Placename": "Shepperton Studios (Episode III)",
+    "Category": "Studio",
+    "Description": "Shepperton Studios once again hosted interior sets for *Revenge of the Sith*.",
+    "pictures": []
+  },
+  {
+    "lat": 60.533,
+    "lon": 7.417,
+    "Placename": "Hardangerjøkulen Glacier, Norway",
+    "Category": "Filming Location",
+    "Description": "The Hardangerjøkulen glacier near Finse provided the icy landscape of Hoth for *The Empire Strikes Back*.",
+    "pictures": []
+  },
+  {
+    "lat": 40.48528,
+    "lon": -123.90611,
+    "Placename": "Cheatham Grove (Grizzly Creek Redwoods State Park), California, USA",
+    "Category": "Filming Location",
+    "Description": "Cheatham Grove in Grizzly Creek Redwoods State Park was used as the forest moon Endor in *Return of the Jedi* for the speeder-bike chase and Ewok village scenes.",
+    "pictures": [
+      {
+        "url": "037_Cheatham_Grove__Grizzly_Creek_Redwoods_State_Park__2.png"
+      },
+      {
+        "url": "037_Cheatham_Grove__Grizzly_Creek_Redwoods_State_Park__3.png"
+      },
+      {
+        "url": "037_Cheatham_Grove__Grizzly_Creek_Redwoods_State_Park__3.png"
+      }
+    ]
+  },
+  {
+    "lat": 24.448885,
+    "lon": 54.375397,
+    "Placename": "Abu Dhabi Desert, United Arab Emirates",
+    "Category": "Filming Location",
+    "Description": "Desert near Abu Dhabi stood in for the planet Jakku in *The Force Awakens*.",
+    "pictures": []
+  },
+  {
+    "lat": 34.019066,
+    "lon": -118.482384,
+    "Placename": "Bad Robot Productions, Santa Monica, USA",
+    "Category": "Production Facility",
+    "Description": "Bad Robot's headquarters in Santa Monica served as production offices for *The Force Awakens*.",
+    "pictures": [
+      {
+        "url": "039_Bad_Robot_Productions__Santa_Monica__USA_2.jpg"
+      },
+      {
+        "url": "039_Bad_Robot_Productions__Santa_Monica__USA_3.jpg"
+      },
+      {
+        "url": "039_Bad_Robot_Productions__Santa_Monica__USA_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 54.577309,
+    "lon": -3.150203,
+    "Placename": "Derwentwater, Lake District, UK",
+    "Category": "Filming Location",
+    "Description": "The scenic Derwentwater in England's Lake District was used for aerial plates during the attack on Starkiller Base in *The Force Awakens*.",
+    "pictures": []
+  },
+  {
+    "lat": 65.717079,
+    "lon": -16.754702,
+    "Placename": "Krafla, Iceland",
+    "Category": "Filming Location",
+    "Description": "Iceland's Krafla volcanic region provided otherworldly landscapes for Starkiller Base and was later reused in *Rogue One*.",
+    "pictures": [
+      {
+        "url": "041_Krafla__Iceland_2.jpg"
+      },
+      {
+        "url": "041_Krafla__Iceland_2.jpg"
+      },
+      {
+        "url": "041_Krafla__Iceland_2.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 51.548618,
+    "lon": -0.534968,
+    "Placename": "Pinewood Studios, Buckinghamshire, UK",
+    "Category": "Studio",
+    "Description": "Pinewood Studios has hosted many Star Wars films, including *The Force Awakens*, *The Last Jedi* and *The Rise of Skywalker*, providing sound stages such as the 007 Stage.",
+    "pictures": [
+      {
+        "url": "042_Pinewood_Studios__Buckinghamshire__UK_3.jpg"
+      },
+      {
+        "url": "042_Pinewood_Studios__Buckinghamshire__UK_3.jpg"
+      },
+      {
+        "url": "042_Pinewood_Studios__Buckinghamshire__UK_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 51.779903,
+    "lon": -2.610213,
+    "Placename": "Puzzlewood (Forest of Dean), England",
+    "Category": "Filming Location",
+    "Description": "Puzzlewood's moss-covered gulleys and twisted trees represented Takodana's forest where Rey first faced Kylo Ren in *The Force Awakens*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.378887,
+    "lon": -1.280979,
+    "Placename": "RAF Greenham Common, Berkshire, UK",
+    "Category": "Filming Location",
+    "Description": "The disused RAF Greenham Common airfield served as the Resistance base on D'Qar in *The Force Awakens*.",
+    "pictures": [
+      {
+        "url": "044_RAF_Greenham_Common__Berkshire__UK_3.jpg"
+      },
+      {
+        "url": "044_RAF_Greenham_Common__Berkshire__UK_3.jpg"
+      },
+      {
+        "url": "044_RAF_Greenham_Common__Berkshire__UK_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 51.770672,
+    "lon": -10.540626,
+    "Placename": "Skellig Michael, Ireland",
+    "Category": "Filming Location",
+    "Description": "The monastic island of Skellig Michael off Ireland's west coast appears as Luke Skywalker's refuge on Ahch-To in *The Force Awakens* and *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.550411,
+    "lon": -0.535395,
+    "Placename": "007 Stage (Pinewood Studios), UK",
+    "Category": "Studio",
+    "Description": "Pinewood's 007 Stage housed large interior sets for *The Last Jedi*, including the interiors of Supreme Leader Snoke's ship and the Crait base.",
+    "pictures": []
+  },
+  {
+    "lat": 51.457592,
+    "lon": -9.75499,
+    "Placename": "Brow Head, County Cork, Ireland",
+    "Category": "Filming Location",
+    "Description": "Brow Head on the Mizen Peninsula provided dramatic coastal cliffs for Ahch-To scenes in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 52.183567,
+    "lon": -10.465336,
+    "Placename": "Ceann Sibéal, County Kerry, Ireland",
+    "Category": "Filming Location",
+    "Description": "Ceann Sibéal (Sybil Head) on the Dingle Peninsula hosted the set of the ancient Jedi temple on Ahch-To in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 52.208427,
+    "lon": -10.217192,
+    "Placename": "Dingle Peninsula, Ireland",
+    "Category": "Filming Location",
+    "Description": "Locations around the Dingle Peninsula were used for additional Ahch-To coastline shots in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 42.650639,
+    "lon": 18.091074,
+    "Placename": "Dubrovnik, Croatia",
+    "Category": "Filming Location",
+    "Description": "The old town of Dubrovnik doubled as the luxury casino city of Canto Bight in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 55.382072,
+    "lon": -7.373021,
+    "Placename": "Malin Head, County Donegal, Ireland",
+    "Category": "Filming Location",
+    "Description": "Malin Head in County Donegal served as another Ahch-To location, providing rugged cliffside scenery in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": -20.061922,
+    "lon": -67.901077,
+    "Placename": "Salar de Uyuni, Bolivia",
+    "Category": "Filming Location",
+    "Description": "Bolivia's Salar de Uyuni, the world's largest salt flat, represented the mineral planet Crait during the climactic battle in *The Last Jedi*.",
+    "pictures": []
+  },
+  {
+    "lat": 52.108459,
+    "lon": -0.422439,
+    "Placename": "Cardington Studios, Bedfordshire, UK",
+    "Category": "Studio",
+    "Description": "Cardington Studios' vast airship hangars were used to construct large sets for *The Rise of Skywalker* and *Rogue One*.",
+    "pictures": [
+      {
+        "url": "053_Cardington_Studios__Bedfordshire__UK_1.jpg"
+      },
+      {
+        "url": "053_Cardington_Studios__Bedfordshire__UK_2.jpg"
+      },
+      {
+        "url": "053_Cardington_Studios__Bedfordshire__UK_2.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 29.57345,
+    "lon": 35.419563,
+    "Placename": "Wadi Rum, Jordan",
+    "Category": "Filming Location",
+    "Description": "The sandstone desert of Wadi Rum served as the planet Pasaana in *The Rise of Skywalker* and doubled as the moon Jedha in *Rogue One*.",
+    "pictures": []
+  },
+  {
+    "lat": 1.967663,
+    "lon": 73.536903,
+    "Placename": "Baresdhoo Island, Maldives",
+    "Category": "Filming Location",
+    "Description": "Baresdhoo is an uninhabited island in Laamu Atoll that formed part of the tropical battle scenes on Scarif in *Rogue One*.",
+    "pictures": []
+  },
+  {
+    "lat": 1.918367,
+    "lon": 73.542732,
+    "Placename": "Gan Island, Maldives",
+    "Category": "Filming Location",
+    "Description": "Gan Island in Laamu Atoll provided additional beaches for Scarif's rebel assault in *Rogue One*.",
+    "pictures": [
+      {
+        "url": "056_Gan_Island__Maldives_3.jpg"
+      },
+      {
+        "url": "056_Gan_Island__Maldives_3.jpg"
+      },
+      {
+        "url": "056_Gan_Island__Maldives_3.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 51.182468,
+    "lon": -1.029611,
+    "Placename": "Black Hangar Studios, Hampshire, UK",
+    "Category": "Studio",
+    "Description": "Black Hangar Studios at Lasham Airfield housed interior sets for *Rogue One*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.72147,
+    "lon": -0.550066,
+    "Placename": "Bovingdon Airfield, Hertfordshire, UK",
+    "Category": "Filming Location",
+    "Description": "Bovingdon Airfield near Hemel Hempstead served as the Yavin 4 Rebel Base in *Rogue One*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.503479,
+    "lon": -0.019074,
+    "Placename": "Canary Wharf Underground Station, London, UK",
+    "Category": "Filming Location",
+    "Description": "London's Canary Wharf Underground station was used as the Imperial security complex on Scarif in *Rogue One*.",
+    "pictures": []
+  },
+  {
+    "lat": 51.61771,
+    "lon": -0.06981,
+    "Placename": "Pymmes Park, London, UK",
+    "Category": "Filming Location",
+    "Description": "Pymmes Park in London provided greenery for some Yavin 4 base scenes in *Rogue One*.",
+    "pictures": [
+      {
+        "url": "060_Pymmes_Park__London__UK_1.jpg"
+      },
+      {
+        "url": "060_Pymmes_Park__London__UK_1.jpg"
+      },
+      {
+        "url": "060_Pymmes_Park__London__UK_1.jpg"
+      }
+    ]
+  },
+  {
+    "lat": 63.405666,
+    "lon": -19.072594,
+    "Placename": "Reynisfjara Beach, Iceland",
+    "Category": "Filming Location",
+    "Description": "Iceland's Reynisfjara black sand beach portrayed the storm-swept planet Lah'mu in *Rogue One*.",
+    "pictures": []
+  }
+]

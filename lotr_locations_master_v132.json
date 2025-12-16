@@ -1,0 +1,5149 @@
+[
+  {
+    "name": "Hobbiton™ Movie Set (The Shire) – Matamata",
+    "lat": -37.857567,
+    "lon": 175.680557,
+    "countrycode": "NZ",
+    "short_description": "Rolling Waikato farmland transformed into the Shire; home of Bag End and Hobbiton.",
+    "description": "Private farmland near Matamata was scouted and transformed into Hobbiton, the pastoral heart of the Shire. Dozens of hobbit-holes, the Party Tree and the Green Dragon Inn appear across all three films. Fun fact: the set was rebuilt in permanent materials for The Hobbit and is now a year‑round attraction.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hobbiton_Movie_Set_2019.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hobbiton_-_The_Party_Tree.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hobbiton_-_Green_Dragon_Inn.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rolling Waikato farmland transformed into the Shire; home of Bag End and Hobbiton."
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "private",
+    "region": "North Island (unspecified)",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "the set was rebuilt in permanent materials for The Hobbit and is now a year‑round attraction.",
+    "source_links": []
+  },
+  {
+    "name": "Mount Victoria – Hobbiton Woods (Hobbits hide from Nazgûl)",
+    "lat": -41.298,
+    "lon": 174.79,
+    "countrycode": "NZ",
+    "short_description": "Wellington city forest used for the Shire’s woods; the ‘Get off the road!’ scene.",
+    "description": "Close to downtown Wellington, the beech forest on Mount Victoria doubled for Hobbiton Woods in FOTR. This is where the hobbits tumble down the bank and hide from the first Ringwraith. Fun fact: it was among the first scenes shot on the trilogy.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mount_Victoria_forest%2C_Wellington.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mt_Victoria_Lookout_Wellington.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Wellington city forest used for the Shire’s woods; the ‘Get off the road!’ scene."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "it was among the first scenes shot on the trilogy.",
+    "source_links": []
+  },
+  {
+    "name": "Kaitoke Regional Park – Rivendell",
+    "lat": -41.057222,
+    "lon": 175.193611,
+    "countrycode": "NZ",
+    "short_description": "Native forest glade became Rivendell; signage marks the exact clearing.",
+    "description": "North of Upper Hutt, a grassy clearing in Kaitoke Regional Park became the elven realm of Rivendell. Frodo recovers here and the Fellowship is formed. The park now features an elvish arch replica and interpretive panels. Fun fact: scenes of the Fords of Isen were also shot in the area.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Rivendell_%281%29.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Kaitoke_Regional_Park_bridge.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kaitoke_Regional_Park_forest.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Native forest glade became Rivendell; signage marks the exact clearing."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "scenes of the Fords of Isen were also shot in the area.",
+    "source_links": []
+  },
+  {
+    "name": "Hutt River (Upper Hutt) – River Anduin section",
+    "lat": -41.129,
+    "lon": 175.055,
+    "countrycode": "NZ",
+    "short_description": "Section of the Hutt River used as the Anduin as the Fellowship depart Lothlórien.",
+    "description": "Between Moonshine Bridge and Poet’s Park in Upper Hutt, the Hutt River played the River Anduin as the Fellowship paddle south in FOTR. Fun fact: the nearby region hosted multiple sets, including Bree (at Fort Dorset) and the Gardens of Isengard (Harcourt Park).",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hutt_River_Upper_Hutt.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Section of the Hutt River used as the Anduin as the Fellowship depart Lothlórien."
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "public",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "the nearby region hosted multiple sets, including Bree (at Fort Dorset) and the Gardens of Isengard (Harcourt Park).",
+    "source_links": []
+  },
+  {
+    "name": "Harcourt Park – Gardens of Isengard",
+    "lat": -41.1262,
+    "lon": 175.0829,
+    "countrycode": "NZ",
+    "short_description": "Public park in Upper Hutt where Gandalf meets Saruman in Isengard’s gardens.",
+    "description": "Harcourt Park doubled as the Gardens of Isengard in FOTR, where Gandalf first confides in Saruman. The tree‑lined lawns became the manicured surroundings of Orthanc before Saruman’s deforestation. Fun fact: The ‘great wheel of Isengard’ scenes were later shot in a nearby quarry set.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Harcourt_Park_Upper_Hutt.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Public park in Upper Hutt where Gandalf meets Saruman in Isengard’s gardens."
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "private",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "The ‘great wheel of Isengard’ scenes were later shot in a nearby quarry set.",
+    "source_links": []
+  },
+  {
+    "name": "Putangirua Pinnacles – Dimholt Road (Paths of the Dead)",
+    "lat": -41.447683,
+    "lon": 175.244567,
+    "countrycode": "NZ",
+    "short_description": "Eerie badlands spires where Aragorn, Legolas & Gimli ride toward the Paths of the Dead.",
+    "description": "In Aorangi Forest Park on the Wairarapa coast, the Putangirua Pinnacles portray the approach to the Paths of the Dead in ROTK. Their eroded siltstone hoodoos needed little movie magic. Fun fact: heavy rain can reshape the pinnacles between visits.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Putangirua_Pinnacles%2C_NZ.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Putangirua_Pinnacles.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Eerie badlands spires where Aragorn, Legolas & Gimli ride toward the Paths of the Dead."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "heavy rain can reshape the pinnacles between visits.",
+    "source_links": []
+  },
+  {
+    "name": "Whakapapa Ski Area (Tongariro NP) – Mordor outlook",
+    "lat": -39.235233,
+    "lon": 175.5587,
+    "countrycode": "NZ",
+    "short_description": "Volcanic slopes near Whakapapa became parts of Mordor and Emyn Muil.",
+    "description": "On the slopes above Whakapapa Village, several angles provided the harsh volcanic vistas of Mordor and Emyn Muil for both TTT and ROTK. Fun fact: Mount Ngāuruhoe was the primary reference for Mount Doom (Orodruin).",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Whakapapa_Ski_Area.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mount_Ngauruhoe_from_Sh1.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Volcanic slopes near Whakapapa became parts of Mordor and Emyn Muil."
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "unknown",
+    "region": "Waikato / Bay of Plenty",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "Mount Ngāuruhoe was the primary reference for Mount Doom (Orodruin).",
+    "source_links": []
+  },
+  {
+    "name": "Tukino Skifield Road (Ruapehu) – Gates of Mordor outlook",
+    "lat": -39.277783,
+    "lon": 175.610433,
+    "countrycode": "NZ",
+    "short_description": "Eastern Ruapehu slopes used for the ‘Gates of Mordor’ lookout shot.",
+    "description": "On the drier eastern side of Mount Ruapehu, a viewpoint off the Tukino Skifield Road was used when Frodo and Sam survey the Gates of Mordor before skirting the mountains. Fun fact: this spot is often windy and starkly barren—perfect Mordor vibes.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Mount_Ruapehu_Tukino_Road.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Eastern Ruapehu slopes used for the ‘Gates of Mordor’ lookout shot."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Waikato / Bay of Plenty",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "this spot is often windy and starkly barren—perfect Mordor vibes.",
+    "source_links": []
+  },
+  {
+    "name": "Kepler Mire (Te Anau) – The Dead Marshes",
+    "lat": -45.438,
+    "lon": 167.713,
+    "countrycode": "NZ",
+    "short_description": "Vast bog south of Te Anau became the Dead Marshes (ROTK/TTT).",
+    "description": "The sphagnum bog known as Kepler Mire (or Bog) provided ground‑level plates for the Dead Marshes. Fun fact: much of the ghostly water and corpses were created with scaled sets and digital compositing.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kepler_Mire_bog.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Vast bog south of Te Anau became the Dead Marshes (ROTK/TTT)."
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "much of the ghostly water and corpses were created with scaled sets and digital compositing.",
+    "source_links": []
+  },
+  {
+    "name": "Waiau River (Te Anau–Manapouri) – River Anduin aerials",
+    "lat": -45.445,
+    "lon": 167.68,
+    "countrycode": "NZ",
+    "short_description": "Broad river valley filmed for Anduin aerials as the Fellowship paddle south.",
+    "description": "The Waiau River provided sweeping aerial shots of the Anduin in FOTR, between Te Anau and Manapouri. Fun fact: a famous New Zealand jet‑boat pioneer, Bill Hamilton, once tested boats on this river.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Waiau_River_between_Te_Anau_and_Manapouri.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Broad river valley filmed for Anduin aerials as the Fellowship paddle south."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "a famous New Zealand jet‑boat pioneer, Bill Hamilton, once tested boats on this river.",
+    "source_links": []
+  },
+  {
+    "name": "Mararoa Swingbridge (South Mavora) – Anduin/Silverlode",
+    "lat": -45.3165,
+    "lon": 168.1905,
+    "countrycode": "NZ",
+    "short_description": "Swingbridge & river flats used as the Fellowship depart Lothlórien onto the Anduin.",
+    "description": "At the south end of South Mavora Lake, the Mararoa River swingbridge and adjacent flats formed part of the Anduin/Silverlode departure sequence. Fun fact: the same park hosts multiple LOTR spots within a short drive.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mararoa_River_Swing_Bridge.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Swingbridge & river flats used as the Fellowship depart Lothlórien onto the Anduin."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "the same park hosts multiple LOTR spots within a short drive.",
+    "source_links": []
+  },
+  {
+    "name": "North Mavora Lake – Nen Hithoel (lakeside mooring)",
+    "lat": -45.26655,
+    "lon": 168.1735,
+    "countrycode": "NZ",
+    "short_description": "Shoreline where the boats land at the end of the Anduin journey (FOTR).",
+    "description": "The shore of North Mavora Lake stood in for Nen Hithoel as the Fellowship land and make camp. Fun fact: you can still match tree lines visible in the film.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/North_Mavora_Lake.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Shoreline where the boats land at the end of the Anduin journey (FOTR)."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "you can still match tree lines visible in the film.",
+    "source_links": []
+  },
+  {
+    "name": "North Mavora Lake – Nen Hithoel (hobbits hide from Uruk-hai)",
+    "lat": -45.267067,
+    "lon": 168.175,
+    "countrycode": "NZ",
+    "short_description": "Nearby glade where Merry & Pippin hide before being captured by the Uruk‑hai.",
+    "description": "Just south of the mooring spot at North Mavora, a small glade was used when the Uruk‑hai attack and seize Merry and Pippin. Fun fact: fans have pinpointed the exact glade via tree patterns on satellite imagery.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mavora_Lakes_beech_forest.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Nearby glade where Merry & Pippin hide before being captured by the Uruk‑hai."
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "fans have pinpointed the exact glade via tree patterns on satellite imagery.",
+    "source_links": []
+  },
+  {
+    "name": "Snowdon Forest (Takaro Road) – Fangorn Forest",
+    "lat": -45.271,
+    "lon": 167.969,
+    "countrycode": "NZ",
+    "short_description": "Beech forest near Te Anau used for Fangorn, where Merry & Pippin flee the Orcs.",
+    "description": "Sections of Snowdon Forest along Takaro Road portrayed Fangorn in TTT. Fun fact: remote wire‑rig cameras were strung through the trees for smooth shots of the hobbits running.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Beech_forest_Southland.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Beech forest near Te Anau used for Fangorn, where Merry & Pippin flee the Orcs."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "fun_fact": "remote wire‑rig cameras were strung through the trees for smooth shots of the hobbits running.",
+    "source_links": []
+  },
+  {
+    "name": "Twelve Mile Delta – Ithilien Camp outlook",
+    "lat": -45.0668,
+    "lon": 168.544717,
+    "countrycode": "NZ",
+    "short_description": "Overlook where Frodo, Sam & Gollum watch the Oliphaunts and Gondor rangers.",
+    "description": "On Lake Wakatipu’s western shore, Twelve Mile Delta provided Ithilien’s vista as Faramir ambushes Haradrim. Fun fact: nearby is the exact ‘tater’ & coney‑cooking spot used by Sam.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Twelve_Mile_Delta_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Overlook where Frodo, Sam & Gollum watch the Oliphaunts and Gondor rangers."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "nearby is the exact ‘tater’ & coney‑cooking spot used by Sam.",
+    "source_links": []
+  },
+  {
+    "name": "Twelve Mile Delta – Sam’s ‘coney & taters’ spot",
+    "lat": -45.069183,
+    "lon": 168.543117,
+    "countrycode": "NZ",
+    "short_description": "The little campsite where Sam cooks ‘coneys’ and talks about ‘taters’.",
+    "description": "A few hundred meters from the lookout, the small clearing by the shore is where Sam stirs his rabbit stew. Fun fact: fans often re‑enact Sam’s ‘boil ‘em, mash ‘em, stick ‘em in a stew’ speech here.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Twelve_Mile_Delta_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "The little campsite where Sam cooks ‘coneys’ and talks about ‘taters’."
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "fans often re‑enact Sam’s ‘boil ‘em, mash ‘em, stick ‘em in a stew’ speech here.",
+    "source_links": []
+  },
+  {
+    "name": "Paradise (Glenorchy) – Isengard valley (Dan’s Paddock)",
+    "lat": -44.673617,
+    "lon": 168.34095,
+    "countrycode": "NZ",
+    "short_description": "The grassy flats near Glenorchy became Isengard’s approach valley.",
+    "description": "The Rees-Dart valley flats at ‘Dan’s Paddock’ near Paradise were used for wide shots of Isengard’s approach. Fun fact: the valley is also famous for numerous other productions, but LOTR signage is minimal to protect the landscape.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Paradise%2C_Glenorchy%2C_New_Zealand.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Glenorchy_New_Zealand.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "The grassy flats near Glenorchy became Isengard’s approach valley."
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "the valley is also famous for numerous other productions, but LOTR signage is minimal to protect the landscape.",
+    "source_links": []
+  },
+  {
+    "name": "Skippers Canyon (Shotover River) – Ford of Bruinen",
+    "lat": -44.8454,
+    "lon": 168.684233,
+    "countrycode": "NZ",
+    "short_description": "Arwen races across the river and summons the flood to wash away the Nazgûl.",
+    "description": "The dramatic canyon of the Shotover River stood in for the Ford of Bruinen in FOTR. Fun fact: the hazardous Skippers Road is one of NZ’s most notorious 19th‑century mining routes.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Skippers_Canyon%2C_New_Zealand.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Skippers_Canyon_Road.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Arwen races across the river and summons the flood to wash away the Nazgûl."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "the hazardous Skippers Road is one of NZ’s most notorious 19th‑century mining routes.",
+    "source_links": []
+  },
+  {
+    "name": "Kawarau Gorge Suspension Bridge – Anduin / Argonath viewpoint",
+    "lat": -45.063444,
+    "lon": 168.811472,
+    "countrycode": "NZ",
+    "short_description": "Vantage down the Kawarau where the CGI Pillars of the Kings (Argonath) were added.",
+    "description": "Near Gibbston, views down the Kawarau River doubled as the Anduin approaching the Argonath. The iconic statues were added digitally. Fun fact: the bridge is also the birthplace of commercial bungy jumping.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kawarau_Gorge_Suspension_Bridge.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kawarau_River_Gorge.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Vantage down the Kawarau where the CGI Pillars of the Kings (Argonath) were added."
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "unknown",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "the bridge is also the birthplace of commercial bungy jumping.",
+    "source_links": []
+  },
+  {
+    "name": "Wilcox Green, Arrowtown – Gladden Fields",
+    "lat": -44.9402,
+    "lon": 168.8401,
+    "countrycode": "NZ",
+    "short_description": "Riverside meadows used as the Gladden Fields in the prologue (Isildur loses the Ring).",
+    "description": "A park at Arrowtown called Wilcox Green served as the Gladden Fields. Fun fact: the marshy look in the film was achieved by filming in winter and clever set dressing.",
+    "pictures": [
+      {
+        "url": "https://live.staticflickr.com/3354/3531531870_24c8452266_b.jpg",
+        "credit": ""
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Arrow_River_Arrowtown.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Riverside meadows used as the Gladden Fields in the prologue (Isildur loses the Ring)."
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "public",
+    "region": "Southland / Fiordland",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "the marshy look in the film was achieved by filming in winter and clever set dressing.",
+    "source_links": []
+  },
+  {
+    "name": "Amon Hen Forest (Te Anau Downs / North Lake Wakatipu)",
+    "lat": -45.033,
+    "lon": 168.585,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Forest used for Amon Hen battle plates and chase shots.",
+    "description": "Several forested slopes around the northern reaches of Lake Wakatipu provided plates for the Amon Hen battle, including chases through the trees as the Fellowship is scattered. Fun fact: Much of the monument itself was a temporary set constructed on a separate site for stunts.",
+    "fun_fact": "Much of the monument itself was a temporary set constructed on a separate site for stunts.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Amon Hen battle plates"
+      },
+      {
+        "summary": "Uruk‑hai pursuit"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lake_Wakatipu_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Deer Park Heights – Refugees to Helm’s Deep crest",
+    "lat": -45.046,
+    "lon": 168.716,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Ridgeline where the Rohan refugee column winds toward Helm’s Deep.",
+    "description": "On the open ridgelines of Deer Park Heights above Queenstown, the long caravan of Rohan refugees is seen making for the safety of Helm’s Deep amidst sweeping vistas. Fun fact: Handlers trained dozens of horses to tolerate explosions for nearby battle beats.",
+    "fun_fact": "Handlers trained dozens of horses to tolerate explosions for nearby battle beats.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan refugee column"
+      },
+      {
+        "summary": "Ridgeline travel shots"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Queenstown_from_Deer_Park_Heights.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Wakatipu Shore – Amon Hen lakeside (alternate)",
+    "lat": -45.065,
+    "lon": 168.661,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Alternate lakeside plates for the Amon Hen shoreline and landing.",
+    "description": "Select shoreline angles on Lake Wakatipu doubled as additional Amon Hen lakeside plates, augmenting the primary Nen Hithoel work at North Mavora. Fun fact: Multiple lakes were stitched together in the edit to create the feel of Nen Hithoel.",
+    "fun_fact": "Multiple lakes were stitched together in the edit to create the feel of Nen Hithoel.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Boat landing plates"
+      },
+      {
+        "summary": "Pre‑battle intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lake_Wakatipu_from_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Nelson Lakes National Park – South of Rivendell flyovers",
+    "lat": -41.803,
+    "lon": 172.839,
+    "countrycode": "NZ",
+    "region": "Tasman / Nelson Lakes",
+    "short_description": "Aerials used for the Fellowship’s journey south of Rivendell.",
+    "description": "Alpine lakes and ridges in Nelson Lakes National Park contributed aerial plates for the Fellowship’s overland journey after leaving Rivendell. Fun fact: Aerial units often flew at first light to catch alpine glow on the peaks.",
+    "fun_fact": "Aerial units often flew at first light to catch alpine glow on the peaks.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Journey aerials"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lake_Rotoiti_Nelson_Lakes.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Rangipo Desert – Mordor plains",
+    "lat": -39.308,
+    "lon": 175.824,
+    "countrycode": "NZ",
+    "region": "Waikato / Bay of Plenty",
+    "short_description": "Barren volcanic plateau used for wide shots of Mordor’s plains.",
+    "description": "The stark, wind‑scoured Rangipo Desert on the Central Plateau provided sweeping ground plates of Mordor’s harsh plains. Fun fact: Rangipo receives frequent frosts despite being termed a ‘desert’.",
+    "fun_fact": "Rangipo receives frequent frosts despite being termed a ‘desert’.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Mordor plains wides"
+      },
+      {
+        "summary": "Approach to the Black Gate"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rangipo_Desert.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Ohakune Old Coach Road – Ithilien forest paths",
+    "lat": -39.376,
+    "lon": 175.433,
+    "countrycode": "NZ",
+    "region": "Waikato / Bay of Plenty",
+    "short_description": "Historic road through native/bush fringes used for Ithilien path shots.",
+    "description": "Sections of the Ohakune Old Coach Road, with its mix of native bush and old viaducts, were used as Ithilien pathway plates where Frodo, Sam and Gollum travel. Fun fact: The road features restored cobblestone sections from the early 1900s.",
+    "fun_fact": "The road features restored cobblestone sections from the early 1900s.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ithilien travel"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ohakune_Old_Coach_Road.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mangawhero Falls – Ithilien waterfall pool",
+    "lat": -39.36,
+    "lon": 175.455,
+    "countrycode": "NZ",
+    "region": "Waikato / Bay of Plenty",
+    "short_description": "Waterfall and plunge pool seen in Ithilien sequences.",
+    "description": "The scenic Mangawhero Falls in Tongariro National Park provided a tranquil pool backdrop in Ithilien scenes. Fun fact: This waterfall also appears in other NZ productions due to easy access.",
+    "fun_fact": "This waterfall also appears in other NZ productions due to easy access.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ithilien interludes"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mangawhero_Falls.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mangatepopo Valley – Emyn Muil approaches",
+    "lat": -39.13,
+    "lon": 175.595,
+    "countrycode": "NZ",
+    "region": "Waikato / Bay of Plenty",
+    "short_description": "Valley and lava flows used for Emyn Muil approach plates.",
+    "description": "The Mangatepopo Valley below Ngauruhoe provided twisted lava fields and barren slopes used as Emyn Muil approaches. Fun fact: Hikers here are often on the Tongariro Alpine Crossing track.",
+    "fun_fact": "Hikers here are often on the Tongariro Alpine Crossing track.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Emyn Muil approaches"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mangatepopo_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Flock Hill Station – Rohan musters (alternate wides)",
+    "lat": -43.186,
+    "lon": 171.684,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "High‑country station used for sweeping Rohirrim movement plates.",
+    "description": "On the Craigieburn Range, Flock Hill’s tussock basins provided alternate wides for Rohirrim movements and mustering shots. Fun fact: The station later hosted large fantasy battle shoots for other productions.",
+    "fun_fact": "The station later hosted large fantasy battle shoots for other productions.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan cavalry wides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Castle_Hill_Basin.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Kura Tāwhiti / Castle Hill – Rohan surrounds",
+    "lat": -43.233,
+    "lon": 171.746,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Limestone tors and basins used for surrounding shots of Rohan lands.",
+    "description": "Limestone tors of Kura Tāwhiti appear as evocative Rohan surrounds in transitional shots near Edoras. Fun fact: The area is a popular bouldering destination.",
+    "fun_fact": "The area is a popular bouldering destination.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan surrounds"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Castle_Hill_boulders.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Ashburton Lakes Basin – Rohan marches",
+    "lat": -43.481,
+    "lon": 171.07,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Chain of high‑country lakes used for marching intercuts in Rohan.",
+    "description": "The basin of small lakes and tarns west of Ashburton gave a range of horizons used in Rohan marching intercuts. Fun fact: The basin freezes in winter, shifting the light dramatically compared to summer shoots.",
+    "fun_fact": "The basin freezes in winter, shifting the light dramatically compared to summer shoots.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan marching intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ashburton_Lakes.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Aoraki / Tasman Glacier – Misty Mountains flyovers",
+    "lat": -43.592,
+    "lon": 170.206,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Glaciated peaks used for Misty Mountains aerials.",
+    "description": "Aerial second unit captured the Aoraki / Mount Cook region and the Tasman Glacier for Misty Mountains flyovers. Fun fact: Shots were often stabilized in post to smooth helicopter wobble.",
+    "fun_fact": "Shots were often stabilized in post to smooth helicopter wobble.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Misty Mountains aerials"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tasman_Glacier_Lake.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Hooker Valley – Snowbound journey plates",
+    "lat": -43.703,
+    "lon": 170.09,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Snowy basin used for cold‑weather trek intercuts.",
+    "description": "Hooker Valley’s alpine basins provided snowbound trek intercuts seen during high mountain crossings. Fun fact: The swinging bridges here are iconic day-walk features for visitors.",
+    "fun_fact": "The swinging bridges here are iconic day-walk features for visitors.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "High mountain trek intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hooker_Valley%2C_New_Zealand.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Milford Sound / Piopiotahi – Aerial plates",
+    "lat": -44.616,
+    "lon": 167.864,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Dramatic fiord used for generic journey aerials.",
+    "description": "The sheer cliffs and waterfalls of Milford Sound provided generic journey aerial plates used across transitions. Fun fact: Rainfall can exceed 6 meters annually here—perfect for waterfalls on camera.",
+    "fun_fact": "Rainfall can exceed 6 meters annually here—perfect for waterfalls on camera.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Journey transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Milford_Sound_panorama.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Doubtful Sound / Patea – Aerial plates",
+    "lat": -45.309,
+    "lon": 166.993,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Broader fiord system used to vary journey aerials.",
+    "description": "The expansive arms of Doubtful Sound were shot for additional aerial plates to diversify the film’s geography. Fun fact: Access is by boat and bus over Wilmot Pass—no direct road from the highway network.",
+    "fun_fact": "Access is by boat and bus over Wilmot Pass—no direct road from the highway network.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Aerial transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Doubtful_Sound.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Quarry near Wellington – Isengard pits set",
+    "lat": -41.171,
+    "lon": 174.989,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Quarry floor reworked into Saruman’s industrial pits.",
+    "description": "A working quarry near Lower Hutt was dressed as Isengard’s deforested pits and machinery, complementing Harcourt Park’s gardens. Fun fact: Large practical pyrotechnics were used for smoke and sparks around the ‘great wheel’.",
+    "fun_fact": "Large practical pyrotechnics were used for smoke and sparks around the ‘great wheel’.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Isengard deforestation"
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Quarry_face.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wētā Workshop & Stages (Miramar) – Miniatures & Props",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Studios where ‘bigatures’ like Minas Tirith were created and filmed.",
+    "description": "In Miramar, Wellington, Wētā Workshop and partner stages produced the large‑scale miniatures—‘bigatures’—including Minas Tirith, Orthanc, and Barad‑dûr. Fun fact: Some Minas Tirith sections were large enough to walk through for close‑up photography.",
+    "fun_fact": "Some Minas Tirith sections were large enough to walk through for close‑up photography.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Miniature photography"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wētā Cave (Public Visitor Centre) – Exhibits",
+    "lat": -41.3225,
+    "lon": 174.8246,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Public visitor centre showcasing props and behind‑the‑scenes from the trilogy.",
+    "description": "Adjacent to the working facilities, Wētā Cave lets the public see exhibits and buy replicas tied to the trilogy. Fun fact: The troll statues out front are a popular photo spot.",
+    "fun_fact": "The troll statues out front are a popular photo spot.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Exhibits and displays"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Weta_Cave.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Hutt River – Anduin reeds section",
+    "lat": -41.184,
+    "lon": 175.028,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Reedy banks dressed as a calm section of the Anduin.",
+    "description": "Another stretch of the Hutt River was used for quieter Anduin plates with reeds and gentle flow. Fun fact: Rowing doubles practiced for weeks to synchronize paddling beats for camera.",
+    "fun_fact": "Rowing doubles practiced for weeks to synchronize paddling beats for camera.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Anduin reeds plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hutt_River_Upper_Hutt.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stansborough Mill (Lower Hutt) – Elven cloaks fabric",
+    "lat": -41.207,
+    "lon": 174.905,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Mill that produced the distinctive grey fabric used for the Fellowship’s cloaks.",
+    "description": "The Stansborough Woollen Mill wove the unique grey cloth used to make the Fellowship’s elven cloaks and other textiles. Fun fact: The wool comes from a rare breed now called ‘Stansborough Grey’.",
+    "fun_fact": "The wool comes from a rare breed now called ‘Stansborough Grey’.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Costume production"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Old_woollen_mill.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Port Waikato – Hobbiton road (alternate angles)",
+    "lat": -37.425,
+    "lon": 174.748,
+    "countrycode": "NZ",
+    "region": "North Island (unspecified)",
+    "short_description": "Country lanes near Port Waikato used as rural Shire byways.",
+    "description": "Beyond Matamata, rural lanes near Port Waikato doubled as additional Shire byways for travel montages. Fun fact: Many shots used long lenses to compress the rolling hills.",
+    "fun_fact": "Many shots used long lenses to compress the rolling hills.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Shire travel montage"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Port_Waikato_landscape.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mount Hutt Foothills – Rohan approaches",
+    "lat": -43.541,
+    "lon": 171.648,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Canterbury foothills used for riders of Rohan approach shots.",
+    "description": "Foothill country near Methven provided transitional shots of riders crossing the Riddermark. Fun fact: Wind machines were sometimes used to whip capes for silhouette rides.",
+    "fun_fact": "Wind machines were sometimes used to whip capes for silhouette rides.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan riders transit"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mount_Hutt_Canterbury.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Clearwater & Lake Camp – Rohan lakeside",
+    "lat": -43.603,
+    "lon": 171.144,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "High‑country lakes used for Rohan’s lakeside riding shots.",
+    "description": "The paired lakes west of Hakatere were used for riding intercuts along Rohan’s imagined lakeshores. Fun fact: The gravel roads here are popular with cyclists; dust control was part of filming logistics.",
+    "fun_fact": "The gravel roads here are popular with cyclists; dust control was part of filming logistics.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan lakeside rides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lake_Clearwater.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "South Mavora Lakes – Uruk‑hai chase flats",
+    "lat": -45.316,
+    "lon": 168.197,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Open flats where the Uruk‑hai drive their captives toward Isengard.",
+    "description": "The southern flats of Mavora Lakes Park appear during the Uruk‑hai march with Merry and Pippin in tow. Fun fact: Orc armor was designed to flex to allow stunt running on rough ground.",
+    "fun_fact": "Orc armor was designed to flex to allow stunt running on rough ground.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Uruk‑hai march"
+      },
+      {
+        "summary": "Chase flats"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mavora_Lakes_flat.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Rakaia Gorge – Rohan gorge rides",
+    "lat": -43.587,
+    "lon": 171.558,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Turquoise river gorge used as dramatic Rohan riding backdrop.",
+    "description": "The Rakaia Gorge’s braided river and canyon walls provided dramatic backdrops for riders moving through Rohan. Fun fact: Braided rivers can shift channels year to year, changing the look between shoots.",
+    "fun_fact": "Braided rivers can shift channels year to year, changing the look between shoots.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan riders through gorge"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Rakaia_Gorge.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wairarapa Coast – Corsair ships coast plates",
+    "lat": -41.487,
+    "lon": 175.279,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Remote coast used for Corsair ship approach plates.",
+    "description": "Sections of the Wairarapa coastline were used as approach plates for the Corsair ships on their way to the Harlond. Fun fact: Large ship elements were shot as miniatures and composited over these plates.",
+    "fun_fact": "Large ship elements were shot as miniatures and composited over these plates.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Corsair approach plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wairarapa_coast.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Zealandia / Karori Sanctuary – Elven forest plates",
+    "lat": -41.29,
+    "lon": 174.744,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Predator‑fenced native bush used for ambient Elven forest plates.",
+    "description": "Close to central Wellington, Zealandia’s dense native bush provided additional ambient plates used to sell Rivendell’s lushness. Fun fact: The sanctuary is nocturnal‑bird friendly; crew kept light levels low for certain shots.",
+    "fun_fact": "The sanctuary is nocturnal‑bird friendly; crew kept light levels low for certain shots.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ambient forest plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zealandia%2C_Wellington.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Remarkables Backcountry – Emyn Muil ridge plates",
+    "lat": -45.1,
+    "lon": 168.8,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Jagged schist ridges used for Emyn Muil intercuts.",
+    "description": "Backcountry ridgelines behind The Remarkables doubled for harsh Emyn Muil rocks in intercut shots with principal actors on set. Fun fact: Climbing crews hauled lightweight cameras up scree to catch sunset silhouettes.",
+    "fun_fact": "Climbing crews hauled lightweight cameras up scree to catch sunset silhouettes.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Emyn Muil ridge intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Remarkables_ridge.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Earnslaw Burn – Ambient glacier plates",
+    "lat": -44.67,
+    "lon": 168.367,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Glacier and waterfalls used for general Middle‑earth aerial ambience.",
+    "description": "The glacier‑carved valley of Earnslaw Burn contributed ambient aerial plates to enrich Middle‑earth’s alpine feel. Fun fact: Helicopter rotor wash can create rainbow spray near the big waterfall.",
+    "fun_fact": "Helicopter rotor wash can create rainbow spray near the big waterfall.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ambient alpine plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Earnslaw_Burn.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Moke Lake – Amon Hen vicinity water plates",
+    "lat": -44.987,
+    "lon": 168.576,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Small lake west of Queenstown used as an Amon Hen water plate.",
+    "description": "Moke Lake’s still water provided a controllable surface for Amon Hen vicinity plates matched to Mavora. Fun fact: Sheltered valley reduced wind ripples to help continuity between shots.",
+    "fun_fact": "Sheltered valley reduced wind ripples to help continuity between shots.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Amon Hen water plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Moke_Lake.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Queenstown Hill Forest – Chase intercuts",
+    "lat": -45.038,
+    "lon": 168.676,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Pine/birch mix forest used for chase intercuts.",
+    "description": "Forested tracks on Queenstown Hill gave production easy-access forest textures for chase intercuts. Fun fact: Some trails were temporarily closed to keep hikers out of frame.",
+    "fun_fact": "Some trails were temporarily closed to keep hikers out of frame.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Forest chase intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Queenstown_Hill_track.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lindis Pass – Rohan transit wides",
+    "lat": -44.698,
+    "lon": 169.435,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Saddle country used for long-lens transit wides in Rohan.",
+    "description": "The tussock-clad Lindis Pass offered long-lens transit wides to portray the vastness of Rohan. Fun fact: Winter snow occasionally forced schedule shuffles for daylight exterior work.",
+    "fun_fact": "Winter snow occasionally forced schedule shuffles for daylight exterior work.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan transit wides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lindis_Pass.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Nevis Valley – Harsh upland plates",
+    "lat": -45.166,
+    "lon": 169.169,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Remote upland valley used for harsh Middle‑earth landscape plates.",
+    "description": "The Nevis Valley provided remote upland textures for harsh Middle‑earth exteriors used sparingly in transitions. Fun fact: The historic Nevis Road is 4WD-only most of the year.",
+    "fun_fact": "The historic Nevis Road is 4WD-only most of the year.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Harsh upland transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Nevis_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Tekapo – Aerial transitions",
+    "lat": -44.001,
+    "lon": 170.482,
+    "countrycode": "NZ",
+    "region": "South Island (unspecified)",
+    "short_description": "Turquoise lake used for general aerial transitions.",
+    "description": "Aerial passes over Lake Tekapo’s turquoise waters were used to transition between southern locations. Fun fact: Glacial flour gives the lake its distinctive color on sunny days.",
+    "fun_fact": "Glacial flour gives the lake its distinctive color on sunny days.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Aerial transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lake_Tekapo.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Alexandrina – Calm water plates",
+    "lat": -43.98,
+    "lon": 170.439,
+    "countrycode": "NZ",
+    "region": "South Island (unspecified)",
+    "short_description": "Small alpine lake used for calm water inserts.",
+    "description": "The sheltered Lake Alexandrina served as calm water insert plates matching larger bodies used elsewhere. Fun fact: Fishing jetties had to be framed out to preserve the fantasy world.",
+    "fun_fact": "Fishing jetties had to be framed out to preserve the fantasy world.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Calm water inserts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lake_Alexandrina.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Omarama Clay Cliffs – Rugged badlands plates",
+    "lat": -44.486,
+    "lon": 169.976,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Clay pinnacles used as rugged badlands plates.",
+    "description": "Eroded clay pinnacles near Omarama provided badlands textures used sparingly for transition plates. Fun fact: The formations are on private land with an honesty box for access.",
+    "fun_fact": "The formations are on private land with an honesty box for access.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Badlands transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Omarama_Clay_Cliffs.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Fox Glacier Valley – Misty Mountains variants",
+    "lat": -43.469,
+    "lon": 170.017,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Glacial valley used as alternate Misty Mountains plates.",
+    "description": "The Fox Glacier valley provided alternate glacial plates for the Misty Mountains feel in early journey sequences. Fun fact: Crevasse safety teams accompanied the aerial unit.",
+    "fun_fact": "Crevasse safety teams accompanied the aerial unit.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Misty Mountains alternates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Fox_Glacier_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Haast Pass – Forest and river transitions",
+    "lat": -44.08,
+    "lon": 169.39,
+    "countrycode": "NZ",
+    "region": "South Island (unspecified)",
+    "short_description": "West Coast gateway used for forest and river transition shots.",
+    "description": "On the southern West Coast, Haast Pass offered lush forest and river allowances for transitional travel montages. Fun fact: Sandflies were a notorious nuisance for crews along the rivers.",
+    "fun_fact": "Sandflies were a notorious nuisance for crews along the rivers.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Forest river transitions"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Haast_Pass.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Kawarau River – Argonath upstream bend (additional)",
+    "lat": -45.01,
+    "lon": 168.905,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Additional bend used to extend the Argonath approach.",
+    "description": "An upstream bend in the Kawarau River extended the boat journey approach to the Argonath. Fun fact: Camera boats were low-wake designs to preserve surface reflections.",
+    "fun_fact": "Camera boats were low-wake designs to preserve surface reflections.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Argonath approach extension"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kawarau_River_Gorge.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Arrowtown Chinese Settlement – Riverbank textures",
+    "lat": -44.94,
+    "lon": 168.835,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Historic riverbank area used for textured river close-ups.",
+    "description": "Along the Arrow River, historic stone huts and riverbanks offered textured close-ups for river-edge inserts. Fun fact: Production avoided recognizable structures to keep it timeless.",
+    "fun_fact": "Production avoided recognizable structures to keep it timeless.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "River close-ups"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Arrowtown_Chinese_Settlement.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Studios (Miramar) – Interior Soundstages",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Primary soundstages for interiors: Moria, Minas Tirith streets, Osgiliath, Shelob’s Lair.",
+    "description": "Stone Street Studios in Miramar housed major interior builds for the trilogy, including the Mines of Moria halls, Minas Tirith streets, Osgiliath ruins, and Shelob’s Lair. Fun fact: Some corridors were built with forced perspective so hobbits and humans could appear different sizes in the same shot.",
+    "fun_fact": "Some corridors were built with forced perspective so hobbits and humans could appear different sizes in the same shot.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Moria interiors"
+      },
+      {
+        "summary": "Minas Tirith streets"
+      },
+      {
+        "summary": "Osgiliath interiors"
+      },
+      {
+        "summary": "Shelob’s Lair"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Dry Creek Quarry Backlot – Osgiliath Ruins Set",
+    "lat": -41.157,
+    "lon": 174.972,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Large exterior backlot used for Osgiliath’s ruined streets and battlements.",
+    "description": "At the Dry Creek Quarry, an expansive backlot was constructed to depict the ruined city of Osgiliath, with modular walls and battlements for complex battle choreography. Fun fact: Massive water cannons simulated catapult splash impacts in the river scenes.",
+    "fun_fact": "Massive water cannons simulated catapult splash impacts in the river scenes.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Battle of Osgiliath"
+      },
+      {
+        "summary": "Retreat through the ruins"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Haywards_Hill%2C_Wellington.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Minas Tirith Upper Levels – Backlot & Bigature Photography",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Backlot sections tied to bigature photography for Minas Tirith’s upper levels.",
+    "description": "Sections of Minas Tirith were built on outdoor backlots for daylight scenes and matched to ‘bigature’ plates photographed at Wētā facilities. Fun fact: To match sunlight angles, miniature shoots were scheduled to mirror on‑location lighting.",
+    "fun_fact": "To match sunlight angles, miniature shoots were scheduled to mirror on‑location lighting.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Minas Tirith upper city exteriors"
+      }
+    ],
+    "set_type": "mixed",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mount Potts Station – Dunharrow Encampment",
+    "lat": -43.49,
+    "lon": 170.993,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "High country terraces below the mountains used for the Rohirrim camp at Dunharrow.",
+    "description": "Terraces near Mount Potts in the Hakatere Conservation area staged the Dunharrow encampment as Rohan mustered before the Paths of the Dead. Fun fact: Wind funnels down the valleys here; guy lines were everywhere off‑camera to secure tents.",
+    "fun_fact": "Wind funnels down the valleys here; guy lines were everywhere off‑camera to secure tents.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Dunharrow camp"
+      },
+      {
+        "summary": "Mustering of Rohan"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hakatere_Conservation_Park.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Heron Basin – Dunharrow Approaches",
+    "lat": -43.566,
+    "lon": 171.09,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Rolling basin used for approach shots to Dunharrow and Rohan rides.",
+    "description": "The Lake Heron basin’s rolling tussocklands were used for approach shots leading to Dunharrow and general Rohan travel sequences. Fun fact: Crews used mats to protect fragile tussock when laying tracks for dollies.",
+    "fun_fact": "Crews used mats to protect fragile tussock when laying tracks for dollies.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to Dunharrow"
+      },
+      {
+        "summary": "Rohan rides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lake_Heron.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Harrowdale (Mount Sunday Foothills) – Valley Sweeps",
+    "lat": -43.54,
+    "lon": 170.9,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Valley below Edoras used for sweeping approach shots of riders.",
+    "description": "The valleys surrounding Mount Sunday doubled for Harrowdale, the valley below Edoras, allowing sweeping approach shots of riders and columns. Fun fact: Telephoto lenses compressed the valley to make Edoras feel closer to the mountains.",
+    "fun_fact": "Telephoto lenses compressed the valley to make Edoras feel closer to the mountains.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to Edoras"
+      },
+      {
+        "summary": "Column rides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mount_Sunday_Canterbury.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Desert Road (Rangipo) – Black Gate Lookout",
+    "lat": -39.248,
+    "lon": 175.753,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Bleak volcanic flats used for Frodo & Sam’s lookout toward the Black Gate.",
+    "description": "Exposed flats off the Desert Road in the Rangipo Desert provided the lookout where Frodo and Sam witness the mustering at the Black Gate. Fun fact: Wind chill here can be severe even in summer—perfectly inhospitable for Mordor.",
+    "fun_fact": "Wind chill here can be severe even in summer—perfectly inhospitable for Mordor.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Black Gate lookout"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rangipo_Desert.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Ruapehu Eastern Slopes – Cirith Ungol Approach Plates",
+    "lat": -39.31,
+    "lon": 175.615,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Rocky outcrops used as approach plates toward Cirith Ungol.",
+    "description": "Rocky outcrops on Mount Ruapehu’s eastern slopes provided approach plates matched to studio-built steps and tunnels of Cirith Ungol. Fun fact: Night-for-night photography used cold blue light to sell altitude and exposure.",
+    "fun_fact": "Night-for-night photography used cold blue light to sell altitude and exposure.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to Cirith Ungol"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mount_Ruapehu_east.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Shelob’s Lair Interior Set",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Webbed cavern interior built on stage for Shelob confrontation.",
+    "description": "Shelob’s Lair was a sprawling interior set built on a Stone Street soundstage, with practical webs and goo to interact with actors. Fun fact: Some web strands were made from latex that would snap on cue for the camera.",
+    "fun_fact": "Some web strands were made from latex that would snap on cue for the camera.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Shelob confrontation"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Paths of the Dead Caverns",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Dimholt caverns interior constructed on stage for controlled atmosphere.",
+    "description": "The eerie caverns of the Paths of the Dead were constructed on stage to control smoke, lighting, and stunt wire rigs safely. Fun fact: Phosphorescent paint was used sparingly to pick out skull details in the gloom.",
+    "fun_fact": "Phosphorescent paint was used sparingly to pick out skull details in the gloom.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Dimholt caverns"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wētā Miniatures Stage – Black Gate Bigature Photography",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Large-scale Black Gate miniature photographed for composites.",
+    "description": "The Black Gate was built as a detailed large-scale miniature photographed at the Wētā facilities and composited over Rangipo plates. Fun fact: Miniature lava flows were achieved with heated gels and glycerin mixes.",
+    "fun_fact": "Miniature lava flows were achieved with heated gels and glycerin mixes.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Black Gate establishing"
+      },
+      {
+        "summary": "Army musters"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Twelve Mile Delta – Ithilien Rangers Hide (Ferns Gully)",
+    "lat": -45.07,
+    "lon": 168.545,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Ferns gully near the lakeshore used for rangers’ hide prior to ambush.",
+    "description": "A ferny gully close to the Twelve Mile campground doubled as the concealed hide where Faramir’s rangers gather before the ambush. Fun fact: The oliphaunt carriers were men on stilts for eyeline during shooting.",
+    "fun_fact": "The oliphaunt carriers were men on stilts for eyeline during shooting.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rangers prepare ambush"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Twelve_Mile_Delta_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Meduseld Throne Hall",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Grand interior of Meduseld constructed on stage for dialogue and stunts.",
+    "description": "The golden hall of Meduseld was built on stage for controlled lighting and intricate set dressing during key dialogues and confrontations. Fun fact: The carved horse motifs were hand-finished and aged to appear centuries old.",
+    "fun_fact": "The carved horse motifs were hand-finished and aged to appear centuries old.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Meduseld interiors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Fort Dorset Backlot – Bree Streets Expansion",
+    "lat": -41.323,
+    "lon": 174.833,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Extended street set built around the old fort buildings for Bree exteriors.",
+    "description": "Around the derelict buildings of Fort Dorset, a network of timber facades created Bree’s damp streets, including the Prancing Pony frontage. Fun fact: Rain towers were used continuously to keep the cobbles slick and reflective.",
+    "fun_fact": "Rain towers were used continuously to keep the cobbles slick and reflective.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Prancing Pony exterior"
+      },
+      {
+        "summary": "Bree streets"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seatoun_from_Breaker_Bay.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Weathertop Hilltop Set – Partial Ruins (Private Farmland)",
+    "lat": -37.43,
+    "lon": 174.735,
+    "countrycode": "NZ",
+    "region": "Waikato / Bay of Plenty",
+    "short_description": "Partial ruin set constructed on a hilltop; extended digitally for the attack sequence.",
+    "description": "A partial ring of ruins was constructed on a prominent limestone hill to represent Amon Sûl (Weathertop), with the tower extended digitally. Fun fact: Day-for-night techniques combined with digital skies created the moonlit attack look.",
+    "fun_fact": "Day-for-night techniques combined with digital skies created the moonlit attack look.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Weathertop night attack"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Port_Waikato_coast.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Miniature Water Tank – Flood of Bruinen Elements",
+    "lat": -41.323,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Water tank used to film scaled flood elements for the Ford of Bruinen.",
+    "description": "Scaled riverbanks and miniature horses were filmed in a water tank to augment the Ford of Bruinen flood, composited with Shotover River plates. Fun fact: Foam additives created lingering whitewater scaled to miniature size.",
+    "fun_fact": "Foam additives created lingering whitewater scaled to miniature size.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ford of Bruinen flood elements"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Amon Hen Seeing Seat – Hilltop Set (Private)",
+    "lat": -45.02,
+    "lon": 168.6,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Stone seeing seat and stairs built on a hilltop for the climax at Amon Hen.",
+    "description": "A stone seat and stairs were constructed on a hilltop to stage the climactic fight at Amon Hen, surrounded by forest plates from nearby locations. Fun fact: Set dressers trucked in moss and leaf litter to blend the build with surrounding forest.",
+    "fun_fact": "Set dressers trucked in moss and leaf litter to blend the build with surrounding forest.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Amon Hen climax"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lake_Wakatipu_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wētā Miniatures – Minas Morgul Bigature",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Fortress of Minas Morgul realized as a large-scale miniature with practical slime flows.",
+    "description": "Minas Morgul’s exterior was a highly detailed miniature, photographed under moody lighting and composited with live-action plates of the Stairs. Fun fact: The green ‘slime’ was a backlit fluid cycling through hidden channels inside the model.",
+    "fun_fact": "The green ‘slime’ was a backlit fluid cycling through hidden channels inside the model.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Minas Morgul exteriors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Kau Bay / Shelly Bay Road – Bree Gate Approach Plates",
+    "lat": -41.304,
+    "lon": 174.823,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Roadside forest and mist used as approach plates to Bree at night.",
+    "description": "Tree-lined bayside road segments around Miramar Peninsular were shot at night with atmosphere to extend approach shots to Bree. Fun fact: Wind gusts off the harbour made smoke direction a constant battle.",
+    "fun_fact": "Wind gusts off the harbour made smoke direction a constant battle.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to Bree at night"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Shelly_Bay_Road.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Red Rocks Reserve – Rugged Coast Plates",
+    "lat": -41.351,
+    "lon": 174.734,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "South coast boulder fields used for rugged coastline intercuts.",
+    "description": "The Red Rocks Reserve on Wellington’s south coast supplied rugged coastline textures for atmospheric intercuts. Fun fact: Fur seals sometimes wander through the boulders—crew kept respectful distance.",
+    "fun_fact": "Fur seals sometimes wander through the boulders—crew kept respectful distance.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Coastal intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Red_Rocks_Reserve_Wellington.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Poet’s Park (Upper Hutt) – Anduin Shore",
+    "lat": -41.128,
+    "lon": 175.06,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Riverside park used for calm Anduin shore plates.",
+    "description": "Poet’s Park provided easy access to low-slope riverbanks used for calm Anduin shore plates. Fun fact: Kayakers had to be held upstream during takes to avoid modern intrusions.",
+    "fun_fact": "Kayakers had to be held upstream during takes to avoid modern intrusions.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Anduin calm shores"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hutt_River_Upper_Hutt.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Moonshine Bridge – Anduin Section",
+    "lat": -41.146,
+    "lon": 175.041,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Reach of the Hutt River dressed as the River Anduin near Lothlórien.",
+    "description": "Near Moonshine Bridge, the Hutt River provided a picturesque reach dressed as the River Anduin. Fun fact: Branches were anchored below the surface to slow the current for canoe shots.",
+    "fun_fact": "Branches were anchored below the surface to slow the current for canoe shots.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Anduin paddling shots"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hutt_River_New_Zealand.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Temple Peak View Flats (Paradise) – Isengard Approach Variant",
+    "lat": -44.684,
+    "lon": 168.3,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Open flats with dramatic peak backdrop used for alternate Isengard approaches.",
+    "description": "Beyond Dan’s Paddock, wide flats with Temple Peak aligned provided an alternate approach to Isengard. Fun fact: Snowlines can drop quickly here; continuity required careful scheduling.",
+    "fun_fact": "Snowlines can drop quickly here; continuity required careful scheduling.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Isengard valley approaches"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Glenorchy_New_Zealand.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Dart River Bridge (Glenorchy) – Lothlórien Periphery Plates",
+    "lat": -44.852,
+    "lon": 168.393,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Beech forest by the Dart provided periphery plates around Lothlórien.",
+    "description": "Forests near the Dart River bridge allowed quick access to film periphery plates surrounding Lothlórien sequences. Fun fact: Moisture meters were used to protect root zones from heavy foot traffic.",
+    "fun_fact": "Moisture meters were used to protect root zones from heavy foot traffic.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Lothlórien periphery"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Dart_River_Glenorchy.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Bob’s Cove (Lake Wakatipu) – Quiet Shore Plates",
+    "lat": -45.044,
+    "lon": 168.531,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Sheltered cove used for quiet shoreline intercuts.",
+    "description": "Bob’s Cove provided sheltered water and native bush for calm shoreline intercuts matching Amon Hen sequences. Fun fact: The cove’s old lime kiln was carefully avoided by camera to keep the fantasy tone.",
+    "fun_fact": "The cove’s old lime kiln was carefully avoided by camera to keep the fantasy tone.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Calm shoreline intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bobs_Cove%2C_Lake_Wakatipu.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Jardine Park – Forest Paths Plates",
+    "lat": -45.035,
+    "lon": 168.705,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Accessible forest paths used for walk-and-talk inserts.",
+    "description": "Pine and mixed forest paths around Jardine Park were used for stand-in walk-and-talk inserts, matched to principal locations. Fun fact: Sound blankets were hung to mute nearby road noise.",
+    "fun_fact": "Sound blankets were hung to mute nearby road noise.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Forest walk inserts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lake_Wakatipu_Queenstown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Ida Valley Schist Outcrops – Rohan Rock Ridges",
+    "lat": -45.166,
+    "lon": 169.665,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Schist tors used to punctuate Rohan ridge rides.",
+    "description": "Distinctive schist outcrops in the Ida Valley punctuated Rohan ridge rides with textured silhouettes. Fun fact: Horse wranglers mapped hoof-safe routes among sharp rocks in advance.",
+    "fun_fact": "Horse wranglers mapped hoof-safe routes among sharp rocks in advance.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan ridge rides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ida_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Maniototo Plains – Open Riddermark Vistas",
+    "lat": -45.065,
+    "lon": 170.093,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Broad plains used for open vistas of the Riddermark.",
+    "description": "The Maniototo district’s broad plains provided sweeping horizons for Riders of Rohan traversals. Fun fact: Dust trails from galloping horses were timed to catch backlight for drama.",
+    "fun_fact": "Dust trails from galloping horses were timed to catch backlight for drama.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Riddermark traversals"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Maniototo_Plain.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Lake Emma – Rohan Lakeside Variant",
+    "lat": -43.576,
+    "lon": 171.096,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Quiet lakeside variant used around Rohan marches.",
+    "description": "Near Lake Clearwater, Lake Emma offered a quieter shoreline variant for Rohan marching intercuts. Fun fact: Production minimized shoreline disturbance to protect nesting birds.",
+    "fun_fact": "Production minimized shoreline disturbance to protect nesting birds.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rohan marching variants"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lake_Emma.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Potts River Flats – Dunharrow Valley Floor",
+    "lat": -43.5,
+    "lon": 170.98,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Valley floor used for camps and movements below Dunharrow.",
+    "description": "Open flats near the Potts River were used for encampment and movement scenes below the Dunharrow terraces. Fun fact: Temporary road mats were laid to protect grasses from vehicle tracks.",
+    "fun_fact": "Temporary road mats were laid to protect grasses from vehicle tracks.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Dunharrow camps"
+      },
+      {
+        "summary": "Movements below terraces"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hakatere_Conservation_Park.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Arthurs Pass – High Alpine Pass Plates",
+    "lat": -42.944,
+    "lon": 171.561,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "High alpine pass used for snowy traverse plates.",
+    "description": "Arthurs Pass provided wintry alpine plates to sell arduous mountain crossings. Fun fact: Snow safety teams evaluated avalanche risk daily during shooting windows.",
+    "fun_fact": "Snow safety teams evaluated avalanche risk daily during shooting windows.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Snowy traverse plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Arthur%27s_Pass.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Routeburn Track – Elvish Forest Ambience",
+    "lat": -44.77,
+    "lon": 168.209,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Beech forest ambience used for elvish forest transitions.",
+    "description": "Sections of the Routeburn Track supplied beech forest ambience that could read as elvish territory in transitions. Fun fact: Sound recorded birdsong beds here; tui and bellbird calls feature in the mix.",
+    "fun_fact": "Sound recorded birdsong beds here; tui and bellbird calls feature in the mix.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Elvish forest ambience"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Routeburn_Track.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Hollyford Valley – Deep Forest Plates",
+    "lat": -44.736,
+    "lon": 168.132,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Dense rainforest plates for deep Middle‑earth forest.",
+    "description": "The Hollyford Valley’s temperate rainforest delivered dense, misty forest plates for deep Middle‑earth settings. Fun fact: Rain machines were often unnecessary—natural drizzle did the job.",
+    "fun_fact": "Rain machines were often unnecessary—natural drizzle did the job.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Deep forest plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hollyford_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Eglinton Valley – Open Valley March Plates",
+    "lat": -44.859,
+    "lon": 168.044,
+    "countrycode": "NZ",
+    "region": "Southland / Fiordland",
+    "short_description": "Open glacial valley used for marching plates in journey montages.",
+    "description": "The Eglinton Valley’s open floor gave scale to marching intercuts in journey montages. Fun fact: Fog banks roll in quickly here, allowing dramatic reveal shots.",
+    "fun_fact": "Fog banks roll in quickly here, allowing dramatic reveal shots.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Open valley marching"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Eglinton_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Catlins Coast – Rugged Shore Plates",
+    "lat": -46.53,
+    "lon": 169.527,
+    "countrycode": "NZ",
+    "region": "South Island (unspecified)",
+    "short_description": "Remote coast used sparingly for rugged shore intercuts.",
+    "description": "Segments of the Catlins Coast provided rugged shore intercuts to diversify coastal geography. Fun fact: Crew vehicles used designated pads to avoid damaging fragile dune systems.",
+    "fun_fact": "Crew vehicles used designated pads to avoid damaging fragile dune systems.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rugged shore intercuts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Catlins_coast.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Tama Lakes Area – Emyn Muil Volcanic Plates",
+    "lat": -39.195,
+    "lon": 175.577,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Volcanic basins and ridges used for Emyn Muil variety.",
+    "description": "The Tama Lakes area between Ruapehu and Ngauruhoe provided additional volcanic basins and ridges for Emyn Muil variety. Fun fact: Wind direction dictated which basins could be shot without ash blowing into lenses.",
+    "fun_fact": "Wind direction dictated which basins could be shot without ash blowing into lenses.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Emyn Muil variety plates"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Tama_Lakes.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Waihohonu Valley – Mordor Footslopes Plates",
+    "lat": -39.217,
+    "lon": 175.675,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Scrubby volcanic footslopes used for Mordor approach plates.",
+    "description": "Scrubland and old lava flows in the Waihohonu Valley read as Mordor footslopes in approach intercuts. Fun fact: Crew used blackened scenic dressing to unify patchy vegetation.",
+    "fun_fact": "Crew used blackened scenic dressing to unify patchy vegetation.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Mordor approaches"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Waihohonu_Valley.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Cape Palliser Road – Corsair Coastline Plates",
+    "lat": -41.617,
+    "lon": 175.284,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Rocky coast plates supplementing Corsair ship approaches.",
+    "description": "Rocky coast vistas along Cape Palliser Road supplemented Corsair approach plates for ROTK. Fun fact: Salt spray on lenses required frequent cleanings between takes.",
+    "fun_fact": "Salt spray on lenses required frequent cleanings between takes.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Corsair approach coasts"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cape_Palliser_Coast.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wētā Bigature Stage – Orthanc Tower",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Orthanc constructed as a tall bigature for dramatic fly-bys.",
+    "description": "Orthanc was built as a tall ‘bigature’ enabling dramatic motion-control fly-bys that integrated with Isengard gardens and pit plates. Fun fact: The tower’s glossy black finish was layered paints and lacquers to catch highlights like stone.",
+    "fun_fact": "The tower’s glossy black finish was layered paints and lacquers to catch highlights like stone.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      },
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Orthanc fly-bys"
+      },
+      {
+        "summary": "Isengard establishes"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      },
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Miniature Stage – Barad‑dûr Spire",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "The dark tower realized as a detailed miniature with glowing eye composites.",
+    "description": "Barad‑dûr’s upper spire was photographed as a miniature for close detail shots with the Eye composited in post. Fun fact: Heat shimmer was simulated with controlled air currents across the miniature.",
+    "fun_fact": "Heat shimmer was simulated with controlled air currents across the miniature.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      },
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Barad‑dûr detail shots"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      },
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Tobin’s Track – Anduin Overlook Variant",
+    "lat": -44.943,
+    "lon": 168.836,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "Low ridge vantage used as an Anduin overlook variant.",
+    "description": "Tobin’s Track above Arrowtown offered a controlled overlook angle used as a variant to Anduin overlooks. Fun fact: Public access required intermittent lock-offs; PAs held walkers at switchbacks.",
+    "fun_fact": "Public access required intermittent lock-offs; PAs held walkers at switchbacks.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Anduin overlook variant"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Arrow_River_Arrowtown.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Hakatere Plateau – Edoras Surrounds",
+    "lat": -43.54,
+    "lon": 170.97,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Plateau vistas surrounding the Edoras hill used in wide establishing shots.",
+    "description": "Plateau vantage points around Mount Sunday provided wide establishes of the Edoras setting, with the Rangitata valley beyond. Fun fact: A temporary road allowed access for cranes and dollies without scarring the hillside.",
+    "fun_fact": "A temporary road allowed access for cranes and dollies without scarring the hillside.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Edoras establishing wides"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mount_Sunday_Canterbury.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Paradise Beech Grove – Lothlórien Silverlight Grove",
+    "lat": -44.66,
+    "lon": 168.32,
+    "countrycode": "NZ",
+    "region": "Otago (Queenstown-Lakes / Central Otago)",
+    "short_description": "A particularly luminous beech grove used for walking shots in Lothlórien.",
+    "description": "A luminous beech grove near Paradise gave the ethereal filtered light used for Lothlórien walking shots. Fun fact: Large silver reflectors were used sparingly since the natural canopy gave soft top-light.",
+    "fun_fact": "Large silver reflectors were used sparingly since the natural canopy gave soft top-light.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Walking through Lothlórien"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Beech_forest_near_Glenorchy.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Miniature Stage – Falls of Rauros & Amon Hen Geography",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Rauros Falls and Anduin gorge realized via miniature photography.",
+    "description": "The Falls of Rauros and the gorge below were created as large-scale miniatures, blended with live-action from Mavora and Kawarau. Fun fact: For scale water, higher-viscosity mixes helped slow the flow to read ‘bigger’.",
+    "fun_fact": "For scale water, higher-viscosity mixes helped slow the flow to read ‘bigger’.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rauros establishing"
+      },
+      {
+        "summary": "Amon Hen geography"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Pinnacles Stream Bed – Dimholt Exterior Variant",
+    "lat": -41.451,
+    "lon": 175.249,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Gravel stream bed within the Pinnacles used as approach variant to the Dimholt Road.",
+    "description": "A gravel bed within the Putangirua system provided an alternate angle for the Dimholt exterior approach scenes. Fun fact: Rain can alter the channel layout between visits; continuity photos were crucial.",
+    "fun_fact": "Rain can alter the channel layout between visits; continuity photos were crucial.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Dimholt exterior approaches"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Putangirua_Pinnacles%2C_NZ.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Waitonga Falls Track Area – Ithilien Watercourse Plates",
+    "lat": -39.374,
+    "lon": 175.489,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Watercourse and mossy rocks used for Ithilien ambience.",
+    "description": "Streams and mossy rocks along the Waitonga Falls Track were used as Ithilien ambience inserts. Fun fact: Lighting balloons were used under canopy to lift levels without harsh shadows.",
+    "fun_fact": "Lighting balloons were used under canopy to lift levels without harsh shadows.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Ithilien ambience"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Waitonga_Falls.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mount Arthur Plateau – Stony Expanse (Moria Vicinity)",
+    "lat": -41.1,
+    "lon": 172.77,
+    "countrycode": "NZ",
+    "region": "Tasman / Nelson Lakes",
+    "short_description": "Karst plateau used as stony expanse near Moria exit.",
+    "description": "Karst landscapes near Mount Arthur provided additional stony expanses tied to the Moria escape geography. Fun fact: Geologists accompanied scouts to avoid fragile cave roofs near the surface.",
+    "fun_fact": "Geologists accompanied scouts to avoid fragile cave roofs near the surface.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Post‑Moria expanses"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mount_Arthur_Tableland.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Emyn Muil Cliff Stairs",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Rock stair sections built on stage to intercut with volcanic plates.",
+    "description": "Sections of the Emyn Muil cliff stairs were built on stage, allowing safe stunt work intercut with volcanic plates from Ruapehu/Ngauruhoe. Fun fact: Removable sections enabled actors to be rigged for slips and catches.",
+    "fun_fact": "Removable sections enabled actors to be rigged for slips and catches.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Cliff stairs traversals"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Rangipo Pumice Flats – Black Gate Slopes Variant",
+    "lat": -39.3,
+    "lon": 175.78,
+    "countrycode": "NZ",
+    "region": "Manawatū-Whanganui / Ruapehu",
+    "short_description": "Pumice flats used as variant slopes near the Black Gate.",
+    "description": "Pumice flats within the Rangipo Desert read as variant slopes near the Black Gate in cutaways. Fun fact: Footfalls kick up fine dust; wardrobe kept spare cloaks for dusted resets.",
+    "fun_fact": "Footfalls kick up fine dust; wardrobe kept spare cloaks for dusted resets.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Black Gate cutaways"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rangipo_Desert.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wet Stage – Osgiliath Sewer Outlet Set",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Wet set used for Osgiliath sewer outlet sequences.",
+    "description": "A controllable wet stage was used to shoot the Osgiliath sewer outlet scenes with flowing water and safe footing for the cast. Fun fact: Recycled water was filtered between takes to keep clarity for camera.",
+    "fun_fact": "Recycled water was filtered between takes to keep clarity for camera.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Osgiliath sewer escape"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Backlot Set – Minas Tirith Main Gate & Grond",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Large gate set with pyrotechnic rigging for the battering ram ‘Grond’.",
+    "description": "A massive section of the Minas Tirith main gate was constructed on a backlot with reinforced rigging to shoot the ‘Grond’ impacts and fire. Fun fact: The battering ram’s rams-head was a practical element suspended from a concealed traveling crane.",
+    "fun_fact": "The battering ram’s rams-head was a practical element suspended from a concealed traveling crane.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Grond at the gate"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Miniature Stage – Pelennor Siege Towers",
+    "lat": -41.322,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Miniature siege towers filmed against sky backings for scale illusion.",
+    "description": "Siege towers were photographed as miniatures and composited into the Minas Tirith siege with dust and debris elements. Fun fact: Talc and cork dust created scale-appropriate debris clouds.",
+    "fun_fact": "Talc and cork dust created scale-appropriate debris clouds.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Siege towers advance"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stage Ship Set – Corsair Black Ships Deck",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Ship deck built on stage for Aragorn, Legolas & Gimli’s confrontation.",
+    "description": "A section of Corsair ship deck was constructed on stage with programmable gimbals for movement and fight choreography. Fun fact: Some extras were Wētā crew drafted as Corsairs for the day.",
+    "fun_fact": "Some extras were Wētā crew drafted as Corsairs for the day.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Corsair confrontation"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Backlot Seaside Set – The Grey Havens",
+    "lat": -41.323,
+    "lon": 174.824,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Harbourfront set built for the farewell at the Grey Havens.",
+    "description": "A seaside backlot set with long pier and elven architecture was built for the Grey Havens farewell, composited with distant ocean plates. Fun fact: Gulls were discouraged from the set with harmless sound cues to keep audio clean.",
+    "fun_fact": "Gulls were discouraged from the set with harmless sound cues to keep audio clean.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Grey Havens farewell"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Weta_Cave_Exterior.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Hobbiton Interior Sets",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Bag End and other hobbit-hole interiors built at 1:1 and overscale variants.",
+    "description": "Hobbiton interiors, including Bag End, were built on stage in multiple scales to sell size differences via forced perspective. Fun fact: A giant ‘hero ring’ and oversized props sold hobbit/human scale differences in-camera.",
+    "fun_fact": "A giant ‘hero ring’ and oversized props sold hobbit/human scale differences in-camera.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Hobbiton interiors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stone Street Stage – Prancing Pony Interiors",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "The Prancing Pony’s interior constructed with removable walls for coverage.",
+    "description": "The Prancing Pony’s dark, smoky interior was built on stage with removable walls and ceilings to accommodate complex coverage. Fun fact: Condensed milk in the fog juice added visible ‘stale beer’ thickness to the air.",
+    "fun_fact": "Condensed milk in the fog juice added visible ‘stale beer’ thickness to the air.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Bree interiors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stage Set – Caras Galadhon Platforms & Walkways",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Lothlórien’s elevated platforms built on stage with greenscreen extensions.",
+    "description": "The elevated platforms and walkways of Caras Galadhon were built on stage and extended with digital matte paintings of mallorn trees. Fun fact: Practical branches were dressed with thousands of hand-cut silk leaves.",
+    "fun_fact": "Practical branches were dressed with thousands of hand-cut silk leaves.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Caras Galadhon interiors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Wet Stage – Henneth Annûn Cave Behind the Waterfall",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Cave hideout of Faramir’s rangers built on a wet stage with practical waterfall sheet.",
+    "description": "Henneth Annûn’s cave was built with a controllable water curtain simulating the waterfall sheet outside the hideout. Fun fact: Lighting through the water curtain required constant exposure tweaks as flow varied.",
+    "fun_fact": "Lighting through the water curtain required constant exposure tweaks as flow varied.",
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Henneth Annûn interiors"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stage Set – Cirith Ungol Tower Interior",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Labyrinthine tower interior constructed for Sam’s rescue of Frodo.",
+    "description": "The interior of the Tower of Cirith Ungol was constructed on stage with multi-level gantries for fights and falls. Fun fact: Some stair sections were sprung to make impacts feel heavier on camera.",
+    "fun_fact": "Some stair sections were sprung to make impacts feel heavier on camera.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Rescue in Cirith Ungol"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Stage Set – Sammath Naur (Crack of Doom)",
+    "lat": -41.325,
+    "lon": 174.826,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Volcanic interior built with heated set pieces and interactive light for the Ring’s end.",
+    "description": "The fiery interiors of Sammath Naur were built on stage with moving light rigs and heated elements to create shimmering heat effects. Fun fact: Molten lava was simulated with thickened, illuminated fluid in a sealed channel.",
+    "fun_fact": "Molten lava was simulated with thickened, illuminated fluid in a sealed channel.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Crack of Doom finale"
+      }
+    ],
+    "set_type": "studio",
+    "accessibility": "restricted",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Stone_Street_Studios.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Ben Ohau Flats – Pelennor Corpse Mounds Area",
+    "lat": -44.229,
+    "lon": 170.026,
+    "countrycode": "NZ",
+    "region": "Canterbury (High Country)",
+    "short_description": "Specific flats dressed with debris and corpses for aftermath scenes.",
+    "description": "On Ben Ohau Station, a specific flat area was dressed with debris and corpses for aftermath dialogue and pickups on the Pelennor. Fun fact: Most ‘corpses’ were lightweight dummies carried quickly by set dressers between takes.",
+    "fun_fact": "Most ‘corpses’ were lightweight dummies carried quickly by set dressers between takes.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Aftermath on the Pelennor"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ben_Ohau_Range.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Hutt River – Osgiliath Riverbank (Combat)",
+    "lat": -41.205,
+    "lon": 174.926,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Urban-adjacent riverbank dressed as Osgiliath’s edge for skirmishes.",
+    "description": "An urban-adjacent stretch of the Hutt River was dressed as Osgiliath’s riverbank for skirmishes and retreats. Fun fact: Foam ‘masonry’ blocks were river-safe and collected downstream after takes.",
+    "fun_fact": "Foam ‘masonry’ blocks were river-safe and collected downstream after takes.",
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Osgiliath skirmishes"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hutt_River_Upper_Hutt.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "name": "Mount Victoria ‘Hobbits Hide’ Bank – Nazgûl on the Road",
+    "lat": -41.298,
+    "lon": 174.79,
+    "countrycode": "NZ",
+    "region": "Wellington Region",
+    "short_description": "Iconic tree-root bank where the hobbits hide from the Black Rider.",
+    "description": "A small bank on a walking track at Mount Victoria provided the iconic ‘Get off the road!’ moment as the Nazgûl sniffs for the Ring. Fun fact: Leaf litter and fungi were hand-dressed; the tree roots are still recognizable to visitors.",
+    "fun_fact": "Leaf litter and fungi were hand-dressed; the tree roots are still recognizable to visitors.",
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Hobbits hide from Nazgûl"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mount_Victoria_forest%2C_Wellington.jpg",
+        "credit": ""
+      }
+    ],
+    "source_links": []
+  },
+  {
+    "lat": -44.0433,
+    "lon": 170.1519,
+    "countrycode": "NZ",
+    "name": "Twizel Pelennor Fields South",
+    "short_description": "Farmland near Twizel used for additional Pelennor Fields battle plates.",
+    "description": "This section of farmland, south of the main Pelennor Fields filming site near Twizel, was used for additional background plates of the Riders of Rohan charge. Fun fact: The location was chosen for its unobstructed horizon, allowing the crew to composite massive army shots.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Twizel_farmland.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Riders of Rohan charge in the Pelennor Fields"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "region": "Canterbury (High Country)",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "The area is still privately owned farmland but offers occasional LOTR tours.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -41.0855,
+    "lon": 175.4132,
+    "countrycode": "NZ",
+    "name": "Paths of the Dead Exterior Approach",
+    "short_description": "Putangirua Pinnacles as the approach to the Paths of the Dead.",
+    "description": "The Putangirua Pinnacles Scenic Reserve in the Wairarapa region provided the eerie rock formations seen as Aragorn, Legolas, and Gimli approach the Paths of the Dead. Fun fact: These geological formations are the result of thousands of years of erosion of an ancient gravel deposit.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Putangirua_Pinnacles.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to the Paths of the Dead"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Wellington Region",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "The Pinnacles are a popular hiking spot with a 2-hour return track.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -46.1289,
+    "lon": 167.6897,
+    "countrycode": "NZ",
+    "name": "Southland Fiordland Pass",
+    "short_description": "Fiordland mountain pass used for travel montage shots.",
+    "description": "A remote Fiordland pass provided dramatic sweeping shots for the Fellowship’s journey sequences. Fun fact: This was among the most logistically challenging shoots due to helicopter-only access.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Fiordland_mountains.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Travel montage of the Fellowship in the mountains"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "restricted",
+    "region": "Southland",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "Only a few minutes of film resulted from days of filming here.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -45.0311,
+    "lon": 168.6625,
+    "countrycode": "NZ",
+    "name": "Grey Havens Wharf",
+    "short_description": "Custom-built wharf set for the Grey Havens farewell.",
+    "description": "A wharf was built on the edge of a coastal inlet near Queenstown for the emotional Grey Havens farewell scene. Fun fact: The set was dismantled after filming, leaving no trace.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coastal_inlet_NZ.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Frodo, Bilbo, and Gandalf depart from Middle-earth"
+      }
+    ],
+    "set_type": "built_set",
+    "accessibility": "private",
+    "region": "Otago",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "The wharf was only used for a few close-up shots with the cast.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -45.0845,
+    "lon": 170.971,
+    "countrycode": "NZ",
+    "name": "Anduin River Banks",
+    "short_description": "Manuherikia River used for Anduin travel shots.",
+    "description": "Sections of the Manuherikia River doubled as the mighty Anduin in various travel scenes. Fun fact: CGI was used to widen the river and add surrounding fantasy landscapes.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Manuherikia_River.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "FOTR",
+        "title": "The Fellowship of the Ring",
+        "release_year": 2001
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Boating along the Anduin"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Otago",
+    "year_filmed": [
+      {
+        "year": 2001
+      }
+    ],
+    "fun_fact": "The surrounding mountains were digitally enhanced to appear more jagged.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -44.703,
+    "lon": 170.0965,
+    "countrycode": "NZ",
+    "name": "Pelennor Fields Ridge",
+    "short_description": "Ridgeline used for wide shots of the Pelennor Fields battle.",
+    "description": "This ridgeline near the main Twizel battlefield provided elevated vantage points for sweeping shots of the Pelennor battle. Fun fact: Camera cranes and practical pyrotechnics were used to simulate siege warfare.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Twizel_hills.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Wide establishing shots of Pelennor Fields"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "private",
+    "region": "Canterbury (High Country)",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "Fans often overlook this vantage point as it is outside regular tour routes.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -45.1122,
+    "lon": 169.0233,
+    "countrycode": "NZ",
+    "name": "Cair Andros Riverbank",
+    "short_description": "Riverbank location for Cair Andros approach shots.",
+    "description": "This location provided the lush riverbank seen as Gondor’s forces approach Cair Andros. Fun fact: The actual island was entirely CGI, with only the riverbank filmed practically.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Clutha_River.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "ROTK",
+        "title": "The Return of the King",
+        "release_year": 2003
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Approach to Cair Andros"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Otago",
+    "year_filmed": [
+      {
+        "year": 2003
+      }
+    ],
+    "fun_fact": "Only a few seconds of footage were shot here.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "lat": -45.2044,
+    "lon": 170.0431,
+    "countrycode": "NZ",
+    "name": "Dead Marshes Pickup Site",
+    "short_description": "Small wetland used for Dead Marshes insert shots.",
+    "description": "This wetland near Oamaru was used for insert shots in the Dead Marshes sequence. Fun fact: Fog machines were used to replicate the eerie, otherworldly feel.",
+    "pictures": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Oamaru_wetlands.jpg",
+        "credit": ""
+      }
+    ],
+    "films": [
+      {
+        "code": "TTT",
+        "title": "The Two Towers",
+        "release_year": 2002
+      }
+    ],
+    "scenes": [
+      {
+        "summary": "Insert shots in the Dead Marshes"
+      }
+    ],
+    "set_type": "natural",
+    "accessibility": "public",
+    "region": "Otago",
+    "year_filmed": [
+      {
+        "year": 2002
+      }
+    ],
+    "fun_fact": "Only crew and camera fit on the narrow access path.",
+    "source_links": [
+      {
+        "url": "",
+        "note": ""
+      }
+    ]
+  }
+]
