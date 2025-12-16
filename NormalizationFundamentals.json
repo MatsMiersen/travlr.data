@@ -1,0 +1,851 @@
+{
+  "equivalent_property_groups": [
+    {
+      "concept": "latitude",
+      "description": "Decimal-degree latitude coordinates for geospatial points.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "lat"
+        },
+        {
+          "dataset": "star-wars-locations",
+          "property": "lat"
+        },
+        {
+          "dataset": "meteorites",
+          "property": "reclat"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "coordinates_lat"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "latitude"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "latitude"
+        }
+      ]
+    },
+    {
+      "concept": "longitude",
+      "description": "Decimal-degree longitude coordinates for geospatial points.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "lon"
+        },
+        {
+          "dataset": "star-wars-locations",
+          "property": "lon"
+        },
+        {
+          "dataset": "meteorites",
+          "property": "reclong"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "coordinates_lng"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "longitude"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "longitude"
+        }
+      ]
+    },
+    {
+      "concept": "primary_label",
+      "description": "Display-friendly names or titles for the main entity in each record.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "name"
+        },
+        {
+          "dataset": "meteorites",
+          "property": "name"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "title"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "content_location_title"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "location"
+        },
+        {
+          "dataset": "star-wars-locations",
+          "property": "Placename"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "name_en"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "name_en"
+        },
+        {
+          "dataset": "us-states",
+          "property": "features.properties.name"
+        }
+      ]
+    },
+    {
+      "concept": "descriptive_text",
+      "description": "Narrative or short-form textual descriptions supporting the primary label.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "description"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "short_description"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "fun_fact"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "scenes.summary"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "subtitle"
+        },
+        {
+          "dataset": "star-wars-locations",
+          "property": "Description"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "short_description_en"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "short_description_en"
+        }
+      ]
+    },
+    {
+      "concept": "country_or_region_codes",
+      "description": "ISO-like codes that normalize country or territory references.",
+      "properties": [
+        {
+          "dataset": "country-bounds",
+          "property": "iso2"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "countrycode"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "iso_code"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "iso_code"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "udnp_code"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "udnp_code"
+        }
+      ]
+    },
+    {
+      "concept": "area_or_admin_names",
+      "description": "Place context such as country, city, state, or region labels.",
+      "properties": [
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "country"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "city"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "region"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "region_en"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "region_en"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "states_name_en"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "states_name_en"
+        }
+      ]
+    },
+    {
+      "concept": "image_references",
+      "description": "Media assets or thumbnails that visually represent the record.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "pictures"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "pictures.url"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "pictures.credit"
+        },
+        {
+          "dataset": "star-wars-locations",
+          "property": "pictures"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "thumbnail_url"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "thumbnail_url_3x2"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "image"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "image"
+        }
+      ]
+    },
+    {
+      "concept": "identifier_fields",
+      "description": "Stable identifiers or codes for the record or nested media references.",
+      "properties": [
+        {
+          "dataset": "country-bounds",
+          "property": "id"
+        },
+        {
+          "dataset": "meteorites",
+          "property": "id"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "id"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "films.code"
+        },
+        {
+          "dataset": "us-states",
+          "property": "features.id"
+        }
+      ]
+    },
+    {
+      "concept": "year_or_date",
+      "description": "Year values tied to discovery, filming, or release timelines.",
+      "properties": [
+        {
+          "dataset": "meteorites",
+          "property": "year"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "year_filmed.year"
+        },
+        {
+          "dataset": "lotr-locations",
+          "property": "films.release_year"
+        }
+      ]
+    },
+    {
+      "concept": "link_references",
+      "description": "External links or source URLs tied to each record.",
+      "properties": [
+        {
+          "dataset": "lotr-locations",
+          "property": "source_links"
+        },
+        {
+          "dataset": "reddit-travel-locations",
+          "property": "url"
+        },
+        {
+          "dataset": "unesco-human",
+          "property": "link"
+        },
+        {
+          "dataset": "unesco-nature",
+          "property": "link"
+        }
+      ]
+    },
+    {
+      "concept": "coordinate_strings",
+      "description": "Coordinate pairs stored as combined strings rather than split lat/lon fields.",
+      "properties": [
+        {
+          "dataset": "meteorites",
+          "property": "GeoLocation"
+        }
+      ]
+    }
+  ],
+  "category_properties": [
+    {
+      "property": "accessibility",
+      "datasets": [
+        "lotr-locations"
+      ],
+      "description": "Visitor accessibility classification (e.g., public/private)."
+    },
+    {
+      "property": "set_type",
+      "datasets": [
+        "lotr-locations"
+      ],
+      "description": "Indicates built set vs natural location."
+    },
+    {
+      "property": "Category",
+      "datasets": [
+        "star-wars-locations"
+      ],
+      "description": "Classifies Star Wars locations (filming vs story)."
+    },
+    {
+      "property": "category",
+      "datasets": [
+        "unesco-human",
+        "unesco-nature"
+      ],
+      "description": "UNESCO designation category (Natural/Cultural/Mixed)."
+    },
+    {
+      "property": "thing_type",
+      "datasets": [
+        "reddit-travel-locations"
+      ],
+      "description": "Atlas Obscura content type (e.g., Food, Place)."
+    },
+    {
+      "property": "nametype",
+      "datasets": [
+        "meteorites"
+      ],
+      "description": "Meteorite name classification (Valid or otherwise)."
+    },
+    {
+      "property": "recclass",
+      "datasets": [
+        "meteorites"
+      ],
+      "description": "Meteorite petrographic or chemical class."
+    },
+    {
+      "property": "fall",
+      "datasets": [
+        "meteorites"
+      ],
+      "description": "Indicates whether the meteorite was found or witnessed falling."
+    },
+    {
+      "property": "hide_from_maps",
+      "datasets": [
+        "reddit-travel-locations"
+      ],
+      "description": "Flags entries that should be suppressed on map views."
+    },
+    {
+      "property": "physical_status",
+      "datasets": [
+        "reddit-travel-locations"
+      ],
+      "description": "Availability/condition flag for Atlas Obscura entries."
+    },
+    {
+      "property": "type",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "GeoJSON document type."
+    },
+    {
+      "property": "features.type",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "GeoJSON feature type."
+    },
+    {
+      "property": "features.geometry.type",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "Geometry type for each state boundary (Polygon/MultiPolygon)."
+    }
+  ],
+  "unique_non_category_properties": [
+    {
+      "property": "bounds",
+      "datasets": [
+        "country-bounds"
+      ],
+      "description": "Southwest and northeast bounding-box coordinates for each country or state."
+    },
+    {
+      "property": "films",
+      "datasets": [
+        "lotr-locations"
+      ],
+      "description": "List of films that used the location, with code/title/release year."
+    },
+    {
+      "property": "GeoLocation",
+      "datasets": [
+        "meteorites"
+      ],
+      "description": "Combined lat/lon string provided by the source feed."
+    },
+    {
+      "property": "mass (g)",
+      "datasets": [
+        "meteorites"
+      ],
+      "description": "Meteorite mass recorded in grams."
+    },
+    {
+      "property": "distance",
+      "datasets": [
+        "reddit-travel-locations"
+      ],
+      "description": "Distance value used for proximity searches."
+    },
+    {
+      "property": "features",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "GeoJSON feature array containing each state boundary."
+    },
+    {
+      "property": "features.properties",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "Property bag for each state feature."
+    },
+    {
+      "property": "features.geometry",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "Geometry object for each state feature."
+    },
+    {
+      "property": "features.geometry.coordinates",
+      "datasets": [
+        "us-states"
+      ],
+      "description": "Boundary coordinates for state polygons."
+    }
+  ],
+  "coverage_by_dataset": {
+    "country-bounds": [
+      {
+        "name": "iso2",
+        "mapped_as": "country_or_region_codes"
+      },
+      {
+        "name": "bounds",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "id",
+        "mapped_as": "identifier_fields"
+      }
+    ],
+    "lotr-locations": [
+      {
+        "name": "accessibility",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "countrycode",
+        "mapped_as": "country_or_region_codes"
+      },
+      {
+        "name": "description",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "films",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "films.code",
+        "mapped_as": "identifier_fields"
+      },
+      {
+        "name": "films.title",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "films.release_year",
+        "mapped_as": "year_or_date"
+      },
+      {
+        "name": "fun_fact",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "lat",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "lon",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "name",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "pictures",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "pictures.url",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "pictures.credit",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "region",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "scenes",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "scenes.summary",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "set_type",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "short_description",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "source_links",
+        "mapped_as": "link_references"
+      },
+      {
+        "name": "year_filmed",
+        "mapped_as": "year_or_date"
+      },
+      {
+        "name": "year_filmed.year",
+        "mapped_as": "year_or_date"
+      }
+    ],
+    "meteorites": [
+      {
+        "name": "GeoLocation",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "fall",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "id",
+        "mapped_as": "identifier_fields"
+      },
+      {
+        "name": "mass (g)",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "name",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "nametype",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "recclass",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "reclat",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "reclong",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "year",
+        "mapped_as": "year_or_date"
+      }
+    ],
+    "reddit-travel-locations": [
+      {
+        "name": "city",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "content_location_title",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "coordinates_lat",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "coordinates_lng",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "country",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "distance",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "hide_from_maps",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "id",
+        "mapped_as": "identifier_fields"
+      },
+      {
+        "name": "location",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "physical_status",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "subtitle",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "thing_type",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "thumbnail_url",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "thumbnail_url_3x2",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "title",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "url",
+        "mapped_as": "link_references"
+      }
+    ],
+    "star-wars-locations": [
+      {
+        "name": "Category",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "Description",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "Placename",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "lat",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "lon",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "pictures",
+        "mapped_as": "image_references"
+      }
+    ],
+    "unesco-human": [
+      {
+        "name": "category",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "image",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "iso_code",
+        "mapped_as": "country_or_region_codes"
+      },
+      {
+        "name": "latitude",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "link",
+        "mapped_as": "link_references"
+      },
+      {
+        "name": "longitude",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "name_en",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "region_en",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "short_description_en",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "states_name_en",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "udnp_code",
+        "mapped_as": "country_or_region_codes"
+      }
+    ],
+    "unesco-nature": [
+      {
+        "name": "category",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "image",
+        "mapped_as": "image_references"
+      },
+      {
+        "name": "iso_code",
+        "mapped_as": "country_or_region_codes"
+      },
+      {
+        "name": "latitude",
+        "mapped_as": "latitude"
+      },
+      {
+        "name": "link",
+        "mapped_as": "link_references"
+      },
+      {
+        "name": "longitude",
+        "mapped_as": "longitude"
+      },
+      {
+        "name": "name_en",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "region_en",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "short_description_en",
+        "mapped_as": "descriptive_text"
+      },
+      {
+        "name": "states_name_en",
+        "mapped_as": "area_or_admin_names"
+      },
+      {
+        "name": "udnp_code",
+        "mapped_as": "country_or_region_codes"
+      }
+    ],
+    "us-states": [
+      {
+        "name": "type",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "features",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "features.type",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "features.id",
+        "mapped_as": "identifier_fields"
+      },
+      {
+        "name": "features.properties",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "features.properties.name",
+        "mapped_as": "primary_label"
+      },
+      {
+        "name": "features.geometry",
+        "mapped_as": "unique_non_category"
+      },
+      {
+        "name": "features.geometry.type",
+        "mapped_as": "category_properties"
+      },
+      {
+        "name": "features.geometry.coordinates",
+        "mapped_as": "unique_non_category"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "template_name": "DatasetTemplate",
+  "description": "Optimal normalized structure covering every property captured in NormalizationFundamentals.json across Travlr datasets.",
+  "record_structure": {
+    "identity": [
+      {
+        "normalized_name": "id",
+        "type": "string",
+        "required": true,
+        "purpose": "Stable identifier for the record or nested child items.",
+        "aliases_from_sources": ["id", "features.id", "films.code"]
+      }
+    ],
+    "labels": [
+      {
+        "normalized_name": "primary_label",
+        "type": "string",
+        "required": true,
+        "purpose": "Display-friendly name or title for the main entity.",
+        "aliases_from_sources": [
+          "name",
+          "name_en",
+          "title",
+          "content_location_title",
+          "location",
+          "Placename",
+          "features.properties.name",
+          "films.title"
+        ]
+      }
+    ],
+    "textual": [
+      {
+        "normalized_name": "description",
+        "type": "string or array of strings",
+        "required": false,
+        "purpose": "Narrative text, blurbs, subtitles, scene summaries, or fun facts.",
+        "aliases_from_sources": [
+          "description",
+          "short_description",
+          "short_description_en",
+          "subtitle",
+          "Description",
+          "fun_fact",
+          "scenes",
+          "scenes.summary"
+        ]
+      }
+    ],
+    "classifications": [
+      {
+        "normalized_name": "category",
+        "type": "string",
+        "required": false,
+        "purpose": "Categorical or status flags such as content type, designation, or validity.",
+        "aliases_from_sources": [
+          "Category",
+          "category",
+          "thing_type",
+          "nametype",
+          "recclass",
+          "fall",
+          "set_type",
+          "hide_from_maps",
+          "physical_status"
+        ]
+      },
+      {
+        "normalized_name": "geojson_type",
+        "type": "string",
+        "required": false,
+        "purpose": "GeoJSON document and geometry classifiers.",
+        "aliases_from_sources": [
+          "type",
+          "features.type",
+          "features.geometry.type"
+        ]
+      }
+    ],
+    "spatial": [
+      {
+        "normalized_name": "latitude",
+        "type": "number",
+        "required": false,
+        "purpose": "Decimal-degree latitude coordinate.",
+        "aliases_from_sources": ["lat", "reclat", "coordinates_lat", "latitude"]
+      },
+      {
+        "normalized_name": "longitude",
+        "type": "number",
+        "required": false,
+        "purpose": "Decimal-degree longitude coordinate.",
+        "aliases_from_sources": ["lon", "reclong", "coordinates_lng", "longitude"]
+      },
+      {
+        "normalized_name": "coordinate_string",
+        "type": "string",
+        "required": false,
+        "purpose": "Combined latitude/longitude string representation.",
+        "aliases_from_sources": ["GeoLocation"]
+      },
+      {
+        "normalized_name": "country_code",
+        "type": "string",
+        "required": false,
+        "purpose": "ISO-like country or region code for the record.",
+        "aliases_from_sources": ["iso2", "countrycode", "iso_code", "udnp_code"]
+      },
+      {
+        "normalized_name": "admin_area",
+        "type": "string",
+        "required": false,
+        "purpose": "Named administrative area such as country, state, or region.",
+        "aliases_from_sources": ["city", "country", "region", "region_en", "states_name_en"]
+      },
+      {
+        "normalized_name": "bounds",
+        "type": "array[number, number] x2",
+        "required": false,
+        "purpose": "Southwest and northeast bounding-box coordinates.",
+        "aliases_from_sources": ["bounds"]
+      },
+      {
+        "normalized_name": "geometry",
+        "type": "object",
+        "required": false,
+        "purpose": "Geometry payload for polygon or multipolygon boundaries.",
+        "aliases_from_sources": ["features.geometry", "features.geometry.coordinates"]
+      },
+      {
+        "normalized_name": "feature_properties",
+        "type": "object",
+        "required": false,
+        "purpose": "Per-feature metadata inside GeoJSON collections.",
+        "aliases_from_sources": ["features.properties"]
+      },
+      {
+        "normalized_name": "features",
+        "type": "array",
+        "required": false,
+        "purpose": "GeoJSON feature collection container.",
+        "aliases_from_sources": ["features"]
+      }
+    ],
+    "media": [
+      {
+        "normalized_name": "images",
+        "type": "array of objects",
+        "required": false,
+        "purpose": "Image URLs and credits for the record.",
+        "aliases_from_sources": [
+          "pictures",
+          "pictures.url",
+          "pictures.credit",
+          "image",
+          "thumbnail_url",
+          "thumbnail_url_3x2"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "normalized_name": "links",
+        "type": "array of strings",
+        "required": false,
+        "purpose": "Reference URLs or source pages.",
+        "aliases_from_sources": ["link", "url", "source_links"]
+      }
+    ],
+    "temporal": [
+      {
+        "normalized_name": "year",
+        "type": "number or array of numbers",
+        "required": false,
+        "purpose": "Discovery, filming, or release year values.",
+        "aliases_from_sources": ["year", "year_filmed", "year_filmed.year", "films.release_year"]
+      }
+    ],
+    "measurements": [
+      {
+        "normalized_name": "mass_grams",
+        "type": "number",
+        "required": false,
+        "purpose": "Mass measurement in grams.",
+        "aliases_from_sources": ["mass (g)"]
+      },
+      {
+        "normalized_name": "distance_km",
+        "type": "number",
+        "required": false,
+        "purpose": "Distance to a reference point (kilometers recommended).",
+        "aliases_from_sources": ["distance"]
+      }
+    ]
+  },
+  "collections_and_nested_structures": {
+    "films": {
+      "normalized_name": "films",
+      "purpose": "Array of film metadata linked to a location.",
+      "aliases_from_sources": ["films"],
+      "item_fields": {
+        "id": "code",
+        "title": "title",
+        "year": "release_year"
+      }
+    },
+    "images": {
+      "normalized_name": "images",
+      "item_fields": {
+        "url": "pictures.url",
+        "credit": "pictures.credit"
+      },
+      "notes": "Use for both gallery images and thumbnails (thumbnail_url, thumbnail_url_3x2)."
+    },
+    "geojson": {
+      "normalized_name": "geojson_feature",
+      "purpose": "Feature representation for polygonal boundaries.",
+      "aliases_from_sources": ["type", "features.type", "features.geometry.type"],
+      "item_fields": {
+        "type": "Feature",
+        "id": "features.id",
+        "properties": "features.properties",
+        "geometry": {
+          "type": "Polygon or MultiPolygon",
+          "coordinates": "features.geometry.coordinates"
+        }
+      }
+    }
+  },
+  "usage_notes": [
+    "Use snake_case normalized names when possible and keep nested structures for media, films, and GeoJSON intact.",
+    "Place category-like flags in the 'category' field, except GeoJSON structural types which belong under 'geojson_type'.",
+    "Store precise coordinates as numbers; provide coordinate_string only when source material supplies preformatted pairs.",
+    "Bounds should be ordered as [[minLon, minLat], [maxLon, maxLat]].",
+    "Links should always be absolute URLs in the normalized form even if the source provided relative paths."
+  ]
+}
