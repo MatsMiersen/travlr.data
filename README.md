@@ -6,6 +6,7 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 - `AGENTS.md` — working instructions for maintaining the explore datasets.
 - `datasets/<dataset-id>/data.json` — dataset markers or geometries.
 - `datasets/<dataset-id>/description.json` — dataset metadata (`id`, `name`, `index`, `title`, `description`, `markercount`).
+- `tools/` — helper scripts for dataset maintenance and asset management.
 
 ## Current datasets
 1. **Lord of the Rings Filming Locations** (`lotr-locations`) — 131 markers.
@@ -21,3 +22,6 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.
 2. Add a `description.json` with the required metadata fields and updated `markercount`.
 3. Update this README to include the new dataset summary.
+
+## Tools
+- `tools/download_images.py` — download images from an `images.txt` manifest. Use `--dataset <id>` to drop images into `datasets/<id>/assets/images` (or override with `--out`). The script commits changes by default and only pushes when `--push` is provided. Requires the `requests` package.
