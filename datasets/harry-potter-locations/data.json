@@ -1,0 +1,668 @@
+[
+  {
+    "lat": 55.415733,
+    "lon": -1.705738,
+    "Placename": "Alnwick Castle, Northumberland, England",
+    "Category": "Filming Location",
+    "Description": "Alnwick Castle served as the exterior of Hogwarts in the first two films, appearing in broomstick lesson and courtyard scenes.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 54.774605,
+    "lon": -1.576859,
+    "Placename": "Durham Cathedral, County Durham, England",
+    "Category": "Filming Location",
+    "Description": "Durham Cathedral cloisters and chapter house hosted many Hogwarts hallway and classroom interiors in the early movies.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.86703,
+    "lon": -2.246146,
+    "Placename": "Gloucester Cathedral, Gloucestershire, England",
+    "Category": "Filming Location",
+    "Description": "Gloucester Cathedral's cloisters provided corridors for Hogwarts in multiple films, including the Chamber of Secrets warnings.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.750625,
+    "lon": -1.256966,
+    "Placename": "Christ Church College, Oxford, England",
+    "Category": "Filming Location",
+    "Description": "The Great Hall at Christ Church inspired Hogwarts' dining hall, and its grand staircase appears as the students' arrival stairs.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.75414,
+    "lon": -1.254031,
+    "Placename": "Bodleian Library (Divinity School), Oxford, England",
+    "Category": "Filming Location",
+    "Description": "Oxford's Bodleian Library stood in for Hogwarts' infirmary and library reading rooms in the early films.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.5308,
+    "lon": -0.1238,
+    "Placename": "King's Cross Station, London, England",
+    "Category": "Filming Location",
+    "Description": "Platform 9¾ was filmed at King's Cross Station, with signage now commemorating the magical departure point to Hogwarts.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.51232,
+    "lon": -0.083619,
+    "Placename": "Leadenhall Market, London, England",
+    "Category": "Filming Location",
+    "Description": "Leadenhall Market provided the exterior for the Leaky Cauldron entrance in *Harry Potter and the Philosopher's Stone*.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.692487,
+    "lon": -0.417564,
+    "Placename": "Warner Bros. Studios Leavesden, Hertfordshire, England",
+    "Category": "Studio",
+    "Description": "Leavesden Studios hosted primary soundstages and sets for all eight films and now houses the official studio tour.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 56.871609,
+    "lon": -5.431007,
+    "Placename": "Glenfinnan Viaduct, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "The Hogwarts Express crosses the curving Glenfinnan Viaduct in sweeping train shots seen across the series.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 56.683434,
+    "lon": -5.003518,
+    "Placename": "Glencoe (Clachaig Gully), Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Sets for Hagrid's Hut and the rocky terrain near Buckbeak's execution were built in the glens around Glencoe.",
+    "cFactor": 0.94,
+    "pictures": []
+  },
+  {
+    "lat": 51.415409,
+    "lon": -2.11951,
+    "Placename": "Lacock Abbey, Wiltshire, England",
+    "Category": "Filming Location",
+    "Description": "Lacock Abbey's cloisters doubled as Hogwarts hallways, and its rooms were used for Snape's classroom and other interiors.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 53.169372,
+    "lon": -1.261898,
+    "Placename": "Hardwick Hall, Derbyshire, England",
+    "Category": "Filming Location",
+    "Description": "Hardwick Hall's exterior was used as the imposing Malfoy Manor in the final films.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 52.9715,
+    "lon": -9.4309,
+    "Placename": "Cliffs of Moher, County Clare, Ireland",
+    "Category": "Filming Location",
+    "Description": "The dramatic Cliffs of Moher appear as the sea cave site where Dumbledore and Harry seek a Horcrux in *Half-Blood Prince*.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.672032,
+    "lon": -5.099708,
+    "Placename": "Freshwater West Beach, Pembrokeshire, Wales",
+    "Category": "Filming Location",
+    "Description": "Freshwater West hosted the Shell Cottage set and the emotional burial of Dobby in *Deathly Hallows Part 1*.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 54.3976,
+    "lon": -0.7176,
+    "Placename": "Goathland Station, North Yorkshire, England",
+    "Category": "Filming Location",
+    "Description": "Goathland Station on the North Yorkshire Moors Railway portrayed Hogsmeade Station in the first film as students arrive by steam train.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.5485,
+    "lon": -0.5591,
+    "Placename": "Black Park Country Park, Buckinghamshire, England",
+    "Category": "Filming Location",
+    "Description": "The dense woods of Black Park doubled for the Forbidden Forest across multiple movies, including night-time encounters and Buckbeak's flight.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.5145,
+    "lon": -0.11,
+    "Placename": "Australia House, London, England",
+    "Category": "Filming Location",
+    "Description": "The grand interior of Australia House on the Strand was used as the marble lobby of Gringotts Wizarding Bank in the early films.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.5107,
+    "lon": -0.0984,
+    "Placename": "Millennium Bridge, London, England",
+    "Category": "Filming Location",
+    "Description": "The opening of *Half-Blood Prince* features Death Eaters destroying the Millennium Bridge in a dramatic sequence across the Thames.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.7532,
+    "lon": -1.2529,
+    "Placename": "New College Cloisters, Oxford, England",
+    "Category": "Filming Location",
+    "Description": "New College's cloisters and courtyard hosted Hogwarts courtyard scenes, including Mad-Eye Moody turning Draco into a ferret.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 51.409,
+    "lon": -0.585,
+    "Placename": "Virginia Water Lake, Windsor Great Park, England",
+    "Category": "Filming Location",
+    "Description": "Virginia Water was used as Black Lake shoreline in several films, including scenes with Buckbeak and Harry's Patronus practice.",
+    "cFactor": 0.92,
+    "pictures": []
+  },
+  {
+    "lat": 56.872,
+    "lon": -5.44,
+    "Placename": "Loch Shiel, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Loch Shiel provided sweeping views of the Hogwarts lake in train shots and aerial flyovers alongside the viaduct.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 56.8622,
+    "lon": -5.5634,
+    "Placename": "Loch Eilt, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "The small island on Loch Eilt appeared as Dumbledore's final resting place and was used for reflective moments with the Hogwarts Express.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 54.0613,
+    "lon": -2.1621,
+    "Placename": "Malham Cove, Yorkshire Dales, England",
+    "Category": "Filming Location",
+    "Description": "The limestone pavement of Malham Cove is where Harry and Hermione camp while on the run in *Deathly Hallows Part 1*.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.7933,
+    "lon": -2.6282,
+    "Placename": "Puzzlewood, Forest of Dean, England",
+    "Category": "Filming Location",
+    "Description": "Puzzlewood in the Forest of Dean hosted the scene where Hermione's Silver Doe Patronus guides Harry to the Sword of Gryffindor.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.5055,
+    "lon": -0.091,
+    "Placename": "Borough Market (Stoney Street), London, England",
+    "Category": "Filming Location",
+    "Description": "Stoney Street in Borough Market housed the Leaky Cauldron entrance in *Prisoner of Azkaban*, where the Knight Bus drops Harry off.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.5308,
+    "lon": -0.1257,
+    "Placename": "St Pancras Renaissance Hotel, London, England",
+    "Category": "Filming Location",
+    "Description": "The red-brick frontage of St Pancras Renaissance Hotel appears as the exterior of King's Cross Station when the Weasleys drop Harry at Platform 9¾.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.5353,
+    "lon": -0.1559,
+    "Placename": "London Zoo Reptile House, Regent's Park, England",
+    "Category": "Filming Location",
+    "Description": "The Reptile House at London Zoo is where Harry speaks Parseltongue to a Burmese python in the first film.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.565,
+    "lon": -0.6186,
+    "Placename": "Burnham Beeches, Buckinghamshire, England",
+    "Category": "Filming Location",
+    "Description": "Burnham Beeches' ancient woodland served as forest backdrops for Hagrid's hut approach and flying car crash scenes.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.676,
+    "lon": -0.432,
+    "Placename": "Whippendell Woods, Watford, England",
+    "Category": "Filming Location",
+    "Description": "Whippendell Woods provided Forbidden Forest paths in *Sorcerer's Stone*, including the unicorn search with Firenze.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 56.637,
+    "lon": -4.912,
+    "Placename": "Glen Etive, Argyll and Bute, Scotland",
+    "Category": "Filming Location",
+    "Description": "The desolate valley of Glen Etive features in *Deathly Hallows Part 1* as a camping spot for Harry, Ron, and Hermione after fleeing the wedding attack.",
+    "cFactor": 0.89,
+    "pictures": []
+  },
+  {
+    "lat": 51.387,
+    "lon": -0.722,
+    "Placename": "Swinley Forest, Berkshire, England",
+    "Category": "Filming Location",
+    "Description": "Swinley Forest stands in for the countryside where Snatchers chase the trio before their capture in *Deathly Hallows Part 1*.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.4113,
+    "lon": -0.7498,
+    "Placename": "12 Picket Post Close (4 Privet Drive), Bracknell, England",
+    "Category": "Filming Location",
+    "Description": "This suburban house played the Dursleys' 4 Privet Drive exterior in the first film before the set was rebuilt at the studio lot.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.3924,
+    "lon": -0.3046,
+    "Placename": "Surbiton Railway Station, London, England",
+    "Category": "Filming Location",
+    "Description": "Surbiton Station is where Dumbledore meets Harry in *Half-Blood Prince* as Harry reads about the Muggle Prime Minister in a café.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.8117,
+    "lon": -0.5602,
+    "Placename": "Ashridge Estate, Hertfordshire, England",
+    "Category": "Filming Location",
+    "Description": "Ashridge Estate woodlands were used for *Goblet of Fire* Quidditch World Cup campsite scenes and as additional Forest of Dean backdrops.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.4156,
+    "lon": -2.1192,
+    "Placename": "Lacock Village, Wiltshire, England",
+    "Category": "Filming Location",
+    "Description": "Lacock's medieval High Street appears as Godric's Hollow and Budleigh Babberton, with cottages dressed for Harry's parents' home and Horace Slughorn's hideout.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 52.1089,
+    "lon": 0.7957,
+    "Placename": "Lavenham (De Vere House), Suffolk, England",
+    "Category": "Filming Location",
+    "Description": "De Vere House in Lavenham provided the façade of Harry's birthplace in Godric's Hollow during *Deathly Hallows Part 1* establishing shots.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.5069,
+    "lon": -0.1239,
+    "Placename": "Great Scotland Yard, London, England",
+    "Category": "Filming Location",
+    "Description": "Great Scotland Yard served as the street where Harry and Mr. Weasley enter the Ministry of Magic via a visitor entrance in *Order of the Phoenix*.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.4946,
+    "lon": -0.1227,
+    "Placename": "Lambeth Bridge, London, England",
+    "Category": "Filming Location",
+    "Description": "Lambeth Bridge is where the Knight Bus squeezes between two double-deckers in *Prisoner of Azkaban* as it races across London.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.5138,
+    "lon": -0.0984,
+    "Placename": "St Paul's Cathedral (Geometric Staircase), London, England",
+    "Category": "Filming Location",
+    "Description": "The Geometric Staircase inside St Paul's Cathedral portrays the spiral steps to Professor Trelawney's Divination classroom in *Prisoner of Azkaban*.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 51.5011,
+    "lon": -0.1253,
+    "Placename": "Westminster Tube Station, London, England",
+    "Category": "Filming Location",
+    "Description": "Westminster Underground Station appears in *Order of the Phoenix* when Arthur Weasley escorts Harry to the Ministry for his hearing.",
+    "cFactor": 0.85,
+    "pictures": []
+  },
+  {
+    "lat": 56.9576,
+    "lon": -5.2769,
+    "Placename": "Loch Arkaig, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Loch Arkaig's island Eilean na Moine holds Dumbledore's tomb, seen as Voldemort steals the Elder Wand in *Deathly Hallows Part 1*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 56.7785,
+    "lon": -5.0033,
+    "Placename": "Steall Falls, Glen Nevis, Scotland",
+    "Category": "Filming Location",
+    "Description": "Steall Falls in Glen Nevis provides sweeping Highland scenery for Quidditch and Triwizard aerial shots in *Prisoner of Azkaban* and *Goblet of Fire*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 56.7606,
+    "lon": -4.7016,
+    "Placename": "Corrour Station (Rannoch Moor), Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Remote Corrour Station on Rannoch Moor is where the Hogwarts Express stops unexpectedly in *Deathly Hallows Part 1* as Death Eaters search the train.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 56.952,
+    "lon": -5.6825,
+    "Placename": "Loch Morar, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Loch Morar served as another Black Lake filming site for wide water vistas around Hogwarts across the early films.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.754147,
+    "lon": -1.254444,
+    "Placename": "Duke Humfrey's Library, Oxford, England",
+    "Category": "Filming Location",
+    "Description": "Duke Humfrey's Library in the Bodleian served as Hogwarts' library reading room in the early films, where Hermione researches spells and secrets.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.5313,
+    "lon": -0.1089,
+    "Placename": "Claremont Square (12 Grimmauld Place), London, England",
+    "Category": "Filming Location",
+    "Description": "The Georgian facades around Claremont Square portray the exterior of 12 Grimmauld Place, headquarters of the Order of the Phoenix in multiple films.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.510067,
+    "lon": -0.134696,
+    "Placename": "Piccadilly Circus, London, England",
+    "Category": "Filming Location",
+    "Description": "Harry, Ron, and Hermione apparate into Piccadilly Circus to escape the wedding attack at the start of *Deathly Hallows Part 1*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.5108,
+    "lon": -0.1277,
+    "Placename": "Tottenham Court Road Cafe (Great Newport Street), London, England",
+    "Category": "Filming Location",
+    "Description": "Just off Tottenham Court Road on Great Newport Street, the trio catch their breath before battling disguised Death Eaters in the cafe in *Deathly Hallows Part 1*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.5055,
+    "lon": -0.0754,
+    "Placename": "Tower Bridge and City Hall Riverwalk, London, England",
+    "Category": "Filming Location",
+    "Description": "The Thames riverwalk by Tower Bridge and City Hall appears as Death Eaters and the Order fly over London in *Half-Blood Prince* and *Order of the Phoenix*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.481,
+    "lon": -0.1434,
+    "Placename": "Battersea Power Station, London, England",
+    "Category": "Filming Location",
+    "Description": "Battersea Power Station features in aerial flyover shots during the Order's broom escort of Harry across London in *Order of the Phoenix*.",
+    "cFactor": 0.82,
+    "pictures": []
+  },
+  {
+    "lat": 51.508,
+    "lon": -0.1281,
+    "Placename": "Trafalgar Square, London, England",
+    "Category": "Filming Location",
+    "Description": "Trafalgar Square opens *Half-Blood Prince* with Death Eaters swooping across central London before the bridge collapse montage.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.5055,
+    "lon": -0.0235,
+    "Placename": "Canary Wharf Skyline, London, England",
+    "Category": "Filming Location",
+    "Description": "The modern towers of Canary Wharf flash by during broomstick flyovers toward Grimmauld Place and the collapse of the Millennium Bridge in *Half-Blood Prince*.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.5105,
+    "lon": -0.1288,
+    "Placename": "Charing Cross Road (Leaky Cauldron Approach), London, England",
+    "Category": "Filming Location",
+    "Description": "Charing Cross Road stands in for the street leading to the Leaky Cauldron in the first film, where Hagrid guides Harry into Diagon Alley.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 53.404,
+    "lon": -3.005,
+    "Placename": "Queensway Tunnel, Liverpool, England",
+    "Category": "Filming Location",
+    "Description": "The Mersey's Queensway Tunnel hosted the Knight Bus's high-speed dash in *Prisoner of Azkaban*, where the triple-decker squeezes through traffic.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.841,
+    "lon": -0.6025,
+    "Placename": "Ivinghoe Beacon, Buckinghamshire, England",
+    "Category": "Filming Location",
+    "Description": "Ivinghoe Beacon's windswept hilltop appears as one of the trio's camping spots in *Deathly Hallows Part 1*, where they scan the horizon for danger.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.7247,
+    "lon": -0.5484,
+    "Placename": "Bovingdon Airfield, Hertfordshire, England",
+    "Category": "Filming Location",
+    "Description": "Sets for Little Whinging's Privet Drive and exterior chase scenes were built on Bovingdon Airfield during multiple films, providing controlled streetscapes.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.1875,
+    "lon": -0.7766,
+    "Placename": "Bourne Wood, Farnham, Surrey, England",
+    "Category": "Filming Location",
+    "Description": "Bourne Wood's tall pines hosted forest action for *Deathly Hallows*, including snatcher pursuits and atmospheric campsite shots.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 50.6281,
+    "lon": -3.3254,
+    "Placename": "Budleigh Salterton, Devon, England",
+    "Category": "Filming Location",
+    "Description": "The seaside town of Budleigh Salterton provided the exterior for the home where Dumbledore and Harry recruit Horace Slughorn in *Half-Blood Prince*.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 56.488,
+    "lon": -5.102,
+    "Placename": "Loch Etive, Argyll and Bute, Scotland",
+    "Category": "Filming Location",
+    "Description": "Loch Etive's rugged shoreline features in *Deathly Hallows Part 2* as the trio leap onto the waterlogged banks after escaping Gringotts on the Ukrainian Ironbelly.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.883,
+    "lon": -2.616,
+    "Placename": "Coppett Hill, Herefordshire, England",
+    "Category": "Filming Location",
+    "Description": "Coppett Hill in the Wye Valley was used for the Silver Doe patronus scene in *Deathly Hallows Part 1*, with Ron retrieving Gryffindor's sword from the icy pool.",
+    "cFactor": 0.79,
+    "pictures": []
+  },
+  {
+    "lat": 51.75453,
+    "lon": -1.25426,
+    "Placename": "Old Schools Quadrangle, Oxford, England",
+    "Category": "Filming Location",
+    "Description": "The Old Schools Quadrangle at the Bodleian appears as part of the Hogwarts courtyard complex in the first films, framing students moving between classes.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 57.0046,
+    "lon": -5.8293,
+    "Placename": "Mallaig Harbour, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Shots of the Jacobite Steam Train arriving near Mallaig Harbour stand in for the Hogwarts Express reaching the end of its route toward Hogsmeade.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 54.2476,
+    "lon": -0.7774,
+    "Placename": "Pickering Railway Station, North Yorkshire, England",
+    "Category": "Filming Location",
+    "Description": "Pickering Station on the North Yorkshire Moors Railway provided period railway visuals alongside Goathland for early Hogwarts Express sequences.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 56.8198,
+    "lon": -5.0826,
+    "Placename": "Glen Nevis Valley, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Sweeping views in Glen Nevis Valley were captured for background plates of the Hogwarts grounds and Quidditch pitch in multiple films.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 56.8716,
+    "lon": -5.5937,
+    "Placename": "Eilean na Moine, Loch Eilt, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "The small island of Eilean na Moine on Loch Eilt was used as Dumbledore's tomb, seen in Half-Blood Prince and Deathly Hallows Part 1.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 56.8743,
+    "lon": -5.431,
+    "Placename": "Glenfinnan Station, Highlands, Scotland",
+    "Category": "Filming Location",
+    "Description": "Glenfinnan Station on the West Highland Line appears as the stop for the Hogwarts Express near Hogsmeade, paired with the nearby viaduct shots.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 54.4275,
+    "lon": -3.0912,
+    "Placename": "Blea Tarn, Lake District, Cumbria, England",
+    "Category": "Filming Location",
+    "Description": "Blea Tarn provided one of the bleak camping spots for Harry and Hermione while hiding from Voldemort in Deathly Hallows Part 1.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 51.8457,
+    "lon": -2.633,
+    "Placename": "Symonds Yat Rock, Forest of Dean, England",
+    "Category": "Filming Location",
+    "Description": "Symonds Yat Rock lookout in the Forest of Dean appears when Harry and Hermione camp and look out over the valley in Deathly Hallows Part 1.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 51.7886,
+    "lon": -0.5363,
+    "Placename": "Frithsden Beeches, Ashridge Estate, Hertfordshire, England",
+    "Category": "Filming Location",
+    "Description": "The open clearings at Frithsden Beeches were used for the Portkey landing to the Quidditch World Cup in Goblet of Fire.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 56.6677,
+    "lon": -5.071,
+    "Placename": "Torren Lochan, Glencoe, Scotland",
+    "Category": "Filming Location",
+    "Description": "Torren Lochan near Glencoe hosted the set for Hagrid's hut and the surrounding pumpkin patch area in Prisoner of Azkaban.",
+    "cFactor": 0.76,
+    "pictures": []
+  },
+  {
+    "lat": 51.3893,
+    "lon": -1.7326,
+    "Placename": "Savernake Forest, Wiltshire, England",
+    "Category": "Filming Location",
+    "Description": "Savernake Forest provided woodland backdrops for Forbidden Forest stand-ins and camping plates during production.",
+    "cFactor": 0.74,
+    "pictures": []
+  },
+  {
+    "lat": 56.6086,
+    "lon": -4.9371,
+    "Placename": "Lochan na h-Achlaise, Rannoch Moor, Scotland",
+    "Category": "Filming Location",
+    "Description": "Lochan na h-Achlaise on Rannoch Moor supplied sweeping moorland plates seen around the Hogwarts Express and in Deathly Hallows.",
+    "cFactor": 0.74,
+    "pictures": []
+  },
+  {
+    "lat": 51.5759,
+    "lon": -0.336,
+    "Placename": "Harrow School (Fourth Form Room), London, England",
+    "Category": "Filming Location",
+    "Description": "The Fourth Form Room at Harrow School doubled as Professor Flitwick's Charms classroom in the first film.",
+    "cFactor": 0.74,
+    "pictures": []
+  },
+  {
+    "lat": 57.6876,
+    "lon": -4.5563,
+    "Placename": "Black Rock Gorge, Ross and Cromarty, Scotland",
+    "Category": "Filming Location",
+    "Description": "Black Rock Gorge near Evanton featured during the dragon chase sequence with the Hungarian Horntail in Goblet of Fire.",
+    "cFactor": 0.74,
+    "pictures": []
+  }
+]

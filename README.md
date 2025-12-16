@@ -17,6 +17,7 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 6. **Meteorite Landings** (`meteorites`) — 45,716 entries.
 7. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers.
 8. **United States Feature Collection** (`us-states`) — 52 features.
+9. **Harry Potter Filming Locations** (`harry-potter-locations`) — 74 markers with per-entry confidence ratings.
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.

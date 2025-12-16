@@ -1,0 +1,8 @@
+{
+  "id": "harry-potter-locations",
+  "name": "Harry Potter Filming Locations",
+  "index": 9,
+  "title": "Wizarding world on location",
+  "description": "Famous real-world sites used to film the Harry Potter series, including castles, cathedrals, viaducts, and studio stages with coordinates for mapping and a confidence factor per marker.",
+  "markercount": 74
+}
