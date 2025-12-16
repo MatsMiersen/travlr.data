@@ -1,0 +1,8 @@
+{
+  "id": "meteorites",
+  "name": "Meteorite Landings",
+  "index": 5,
+  "title": "Global meteorite strikes",
+  "description": "Catalog of documented meteorite landings with classification, year, and location metadata for map-based discovery.",
+  "markercount": 45716
+}

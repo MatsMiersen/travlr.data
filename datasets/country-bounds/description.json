@@ -1,0 +1,8 @@
+{
+  "id": "country-bounds",
+  "name": "Country Bounding Boxes",
+  "index": 4,
+  "title": "Country boundary extents",
+  "description": "Per-country geographic bounding boxes keyed by ISO2 codes, useful for quickly framing maps or constraining searches.",
+  "markercount": 202
+}
