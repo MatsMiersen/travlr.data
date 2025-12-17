@@ -21,10 +21,11 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 9. **World Pyramids** (`pyramids`) — 122 markers spanning ancient through modern pyramids (Category: Architecture).
 10. **Iconic Waterfalls** (`waterfalls`) — 1100 markers with heights and confidence factors (Category: Nature).
 11. **Traditional Dishes and Origins** (`traditional_food`) — 800 markers tying iconic recipes to the precise venues where they originated, each with a cFactor confidence note (Category: Food & Culture).
+12. **Fallout Explorable Locations** (`fallout-explore`) — 350 markers mapping Fallout's Mojave, Capital Wasteland, Commonwealth, and New California locales to real-world coordinates with confidence ratings (Category: Film & TV).
 
 ### Polygon datasets
-12. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries (Category: Boundaries).
-13. **United States Feature Collection** (`us-states`) — 52 features (Category: Boundaries).
+13. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries (Category: Boundaries).
+14. **United States Feature Collection** (`us-states`) — 52 features (Category: Boundaries).
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.
