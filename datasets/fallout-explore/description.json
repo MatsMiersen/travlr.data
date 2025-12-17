@@ -1,0 +1,10 @@
+{
+  "id": "fallout-explore",
+  "name": "Fallout Explorable Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 11,
+  "title": "Fallout's Real-World Anchors",
+  "description": "Mappable Fallout locations linked to their real-world sites with confidence scores (cFactor).",
+  "markercount": 350
+}
