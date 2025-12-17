@@ -1,0 +1,1222 @@
+[
+  {
+    "name": "Great Pyramid of Giza",
+    "location": "Giza Plateau, Egypt",
+    "lat": 29.979234,
+    "lon": 31.134202,
+    "built_year": -2560,
+    "category": "Ancient Egyptian",
+    "description": "Old Kingdom pyramid of Pharaoh Khufu and the largest of the Giza complex.",
+    "cFactor": 0.99
+  },
+  {
+    "name": "Pyramid of Khafre",
+    "location": "Giza Plateau, Egypt",
+    "lat": 29.976111,
+    "lon": 31.130972,
+    "built_year": -2570,
+    "category": "Ancient Egyptian",
+    "description": "Second-tallest Giza pyramid distinguished by its limestone cap near the summit.",
+    "cFactor": 0.97
+  },
+  {
+    "name": "Pyramid of Menkaure",
+    "location": "Giza Plateau, Egypt",
+    "lat": 29.972315,
+    "lon": 31.128345,
+    "built_year": -2510,
+    "category": "Ancient Egyptian",
+    "description": "Smallest of the three main Giza pyramids, built for Pharaoh Menkaure with later casing of granite.",
+    "cFactor": 0.96
+  },
+  {
+    "name": "Pyramid of Djoser (Step Pyramid)",
+    "location": "Saqqara, Egypt",
+    "lat": 29.871255,
+    "lon": 31.216381,
+    "built_year": -2667,
+    "category": "Ancient Egyptian",
+    "description": "Early step pyramid designed by Imhotep for Pharaoh Djoser during Egypt's Third Dynasty.",
+    "cFactor": 0.95
+  },
+  {
+    "name": "Bent Pyramid",
+    "location": "Dahshur, Egypt",
+    "lat": 29.800278,
+    "lon": 31.205556,
+    "built_year": -2600,
+    "category": "Ancient Egyptian",
+    "description": "Old Kingdom pyramid whose angle changes midway up, showing an evolution in smooth-sided design.",
+    "cFactor": 0.93
+  },
+  {
+    "name": "Red Pyramid",
+    "location": "Dahshur, Egypt",
+    "lat": 29.808889,
+    "lon": 31.205694,
+    "built_year": -2590,
+    "category": "Ancient Egyptian",
+    "description": "Largest pyramid at Dahshur built for Pharaoh Sneferu, notable for its reddish limestone blocks.",
+    "cFactor": 0.94
+  },
+  {
+    "name": "Pyramid of the Sun",
+    "location": "Teotihuacan, Mexico",
+    "lat": 19.692506,
+    "lon": -98.843406,
+    "built_year": 200,
+    "category": "Mesoamerican",
+    "description": "Massive ceremonial structure on Teotihuacan's Avenue of the Dead, aligned with the setting sun.",
+    "cFactor": 0.95
+  },
+  {
+    "name": "Pyramid of the Moon",
+    "location": "Teotihuacan, Mexico",
+    "lat": 19.695064,
+    "lon": -98.848488,
+    "built_year": 250,
+    "category": "Mesoamerican",
+    "description": "Northern pyramid at Teotihuacan overlooking the Plaza of the Moon with layered construction phases.",
+    "cFactor": 0.93
+  },
+  {
+    "name": "Temple of Kukulc\u00e1n (El Castillo)",
+    "location": "Chich\u00e9n Itz\u00e1, Mexico",
+    "lat": 20.68291,
+    "lon": -88.5699,
+    "built_year": 1100,
+    "category": "Mesoamerican",
+    "description": "Iconic stepped pyramid dedicated to the feathered serpent deity, famous for equinox shadow effects.",
+    "cFactor": 0.94
+  },
+  {
+    "name": "Bass Pro Shops Pyramid",
+    "location": "Memphis, Tennessee, USA",
+    "lat": 35.15398,
+    "lon": -90.05373,
+    "built_year": 1991,
+    "category": "Modern Commercial",
+    "description": "Steel pyramid originally built as a sports arena, now housing retail, hotel, and observation deck.",
+    "cFactor": 0.92
+  },
+  {
+    "name": "Luxor Hotel Pyramid",
+    "location": "Las Vegas, Nevada, USA",
+    "lat": 36.095494,
+    "lon": -115.175117,
+    "built_year": 1993,
+    "category": "Modern Entertainment",
+    "description": "Glass-clad hotel pyramid on the Las Vegas Strip featuring a bright sky beam and themed interiors.",
+    "cFactor": 0.92
+  },
+  {
+    "name": "Louvre Pyramid",
+    "location": "Paris, France",
+    "lat": 48.860611,
+    "lon": 2.337644,
+    "built_year": 1989,
+    "category": "Modern Cultural",
+    "description": "Glass and metal pyramid by I. M. Pei serving as the main entrance to the Louvre Museum.",
+    "cFactor": 0.91
+  },
+  {
+    "name": "Meidum Pyramid",
+    "location": "Meidum, Egypt",
+    "lat": 29.4731,
+    "lon": 31.1517,
+    "built_year": -2613,
+    "category": "Ancient Egyptian",
+    "description": "Early large pyramid attributed to Sneferu, showing transition from step to smooth-sided design.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Pyramid of Unas",
+    "location": "Saqqara, Egypt",
+    "lat": 29.872,
+    "lon": 31.2186,
+    "built_year": -2345,
+    "category": "Ancient Egyptian",
+    "description": "Small Fifth Dynasty pyramid noted for its Pyramid Texts inscribed within the burial chamber.",
+    "cFactor": 0.89
+  },
+  {
+    "name": "Pyramid of Teti",
+    "location": "Saqqara, Egypt",
+    "lat": 29.8728,
+    "lon": 31.2138,
+    "built_year": -2320,
+    "category": "Ancient Egyptian",
+    "description": "Ruined pyramid of the first ruler of Egypt's Sixth Dynasty, once encased in fine limestone.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Black Pyramid of Amenemhat III",
+    "location": "Dahshur, Egypt",
+    "lat": 29.8086,
+    "lon": 31.2053,
+    "built_year": -1850,
+    "category": "Middle Kingdom Egyptian",
+    "description": "Mudbrick pyramid of Pharaoh Amenemhat III, now collapsed and darkened, with complex internal passages.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Pyramid of Sahure",
+    "location": "Abusir, Egypt",
+    "lat": 29.9011,
+    "lon": 31.2054,
+    "built_year": -2480,
+    "category": "Ancient Egyptian",
+    "description": "Fifth Dynasty pyramid complex featuring reliefs celebrating Sahure's reign and expeditions.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Pyramid of Taharqa at Nuri",
+    "location": "Nuri, Sudan",
+    "lat": 18.5429,
+    "lon": 31.8256,
+    "built_year": -664,
+    "category": "Kushite",
+    "description": "Steep-sided Nubian pyramid built for Pharaoh Taharqa, the largest at the Nuri necropolis.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Pyramid of Queen Amanishakheto",
+    "location": "Mero\u00eb, Sudan",
+    "lat": 16.9376,
+    "lon": 33.7435,
+    "built_year": -10,
+    "category": "Kushite",
+    "description": "Distinctive Nubian pyramid with a decorated chapel attributed to the Kandake Amanishakheto.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Great Pyramid of Cholula",
+    "location": "Cholula, Mexico",
+    "lat": 19.0547,
+    "lon": -98.3013,
+    "built_year": -300,
+    "category": "Mesoamerican",
+    "description": "Massive earthen pyramid (Tlachihualtepetl) now crowned by Iglesia de Nuestra Se\u00f1ora de los Remedios.",
+    "cFactor": 0.92
+  },
+  {
+    "name": "Pyramid of the Niches",
+    "location": "El Taj\u00edn, Mexico",
+    "lat": 20.4303,
+    "lon": -97.3831,
+    "built_year": 800,
+    "category": "Mesoamerican",
+    "description": "Seven-tiered Totonac pyramid distinguished by 365 recessed niches across its fa\u00e7ades.",
+    "cFactor": 0.91
+  },
+  {
+    "name": "Pyramid of the Magician",
+    "location": "Uxmal, Mexico",
+    "lat": 20.3607,
+    "lon": -89.7707,
+    "built_year": 600,
+    "category": "Mesoamerican",
+    "description": "Oval-based Maya pyramid with steep stairways and multiple construction phases tied to Uxmal legends.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "La Danta Pyramid",
+    "location": "El Mirador, Guatemala",
+    "lat": 17.749,
+    "lon": -89.9185,
+    "built_year": -100,
+    "category": "Mesoamerican",
+    "description": "One of the largest known Maya pyramids by volume, rising from the Preclassic city of El Mirador.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Calakmul Structure II",
+    "location": "Calakmul, Mexico",
+    "lat": 18.1047,
+    "lon": -89.8103,
+    "built_year": 650,
+    "category": "Mesoamerican",
+    "description": "Towering Maya pyramid dominating Calakmul's urban core with multiple royal tombs.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Pyramid of Austerlitz",
+    "location": "Woudenberg, Netherlands",
+    "lat": 52.0855,
+    "lon": 5.3735,
+    "built_year": 1804,
+    "category": "Napoleonic",
+    "description": "Earthen pyramid and obelisk built by French troops to honor Napoleon's victories in Europe.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Pyramid of Cestius",
+    "location": "Rome, Italy",
+    "lat": 41.8757,
+    "lon": 12.4833,
+    "built_year": -12,
+    "category": "Roman",
+    "description": "Sharp marble-clad tomb for Gaius Cestius inspired by Egyptomania during Rome's Augustan age.",
+    "cFactor": 0.92
+  },
+  {
+    "name": "Pyramid of Tirana",
+    "location": "Tirana, Albania",
+    "lat": 41.3212,
+    "lon": 19.8215,
+    "built_year": 1988,
+    "category": "Modern",
+    "description": "Former Enver Hoxha museum turned cultural center, featuring a distinctive low concrete pyramid form.",
+    "cFactor": 0.84
+  },
+  {
+    "name": "Transamerica Pyramid",
+    "location": "San Francisco, USA",
+    "lat": 37.7952,
+    "lon": -122.4028,
+    "built_year": 1972,
+    "category": "Modern",
+    "description": "Iconic pointed skyscraper in San Francisco's Financial District designed by William Pereira.",
+    "cFactor": 0.93
+  },
+  {
+    "name": "Ryugyong Hotel",
+    "location": "Pyongyang, North Korea",
+    "lat": 39.035,
+    "lon": 125.73,
+    "built_year": 1987,
+    "category": "Modern",
+    "description": "Unfinished glass-clad pyramid skyscraper dominating Pyongyang's skyline with three-winged sides.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Palace of Peace and Reconciliation",
+    "location": "Astana, Kazakhstan",
+    "lat": 51.0902,
+    "lon": 71.4185,
+    "built_year": 2006,
+    "category": "Modern",
+    "description": "Foster + Partners-designed glass pyramid housing a concert hall and interfaith conference spaces.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Walter Pyramid",
+    "location": "Long Beach, USA",
+    "lat": 33.7856,
+    "lon": -118.1138,
+    "built_year": 1994,
+    "category": "Modern",
+    "description": "Steel athletic arena at CSU Long Beach with striking blue exterior and precise 18-story geometry.",
+    "cFactor": 0.89
+  },
+  {
+    "name": "Sunway Pyramid",
+    "location": "Selangor, Malaysia",
+    "lat": 3.072,
+    "lon": 101.607,
+    "built_year": 1997,
+    "category": "Modern",
+    "description": "Egyptian-themed shopping mall marked by a lion-headed entrance and stepped pyramid motifs.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Pyramid of Userkaf",
+    "location": "Saqqara, Egypt",
+    "lat": 29.8718,
+    "lon": 31.2185,
+    "built_year": -2490,
+    "category": "Ancient Egyptian",
+    "description": "Ruined core and basalt temple marking the first pyramid of Egypt's Fifth Dynasty king Userkaf.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Pyramid of Neferirkare",
+    "location": "Abusir, Egypt",
+    "lat": 29.8974,
+    "lon": 31.2084,
+    "built_year": -2440,
+    "category": "Ancient Egyptian",
+    "description": "Originally stepped and later cased pyramid built for Fifth Dynasty pharaoh Neferirkare Kakai.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Pyramid of Nyuserre",
+    "location": "Abusir, Egypt",
+    "lat": 29.8939,
+    "lon": 31.206,
+    "built_year": -2420,
+    "category": "Ancient Egyptian",
+    "description": "Fifth Dynasty pyramid south of Neferirkare's complex with adjoining solar temple remnants.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Pyramid of Senusret II",
+    "location": "El Lahun, Egypt",
+    "lat": 29.2463,
+    "lon": 30.9756,
+    "built_year": -1897,
+    "category": "Ancient Egyptian",
+    "description": "Middle Kingdom mudbrick pyramid with concealed entrance and intact workers' town nearby.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Pyramid of Senusret III",
+    "location": "Dahshur, Egypt",
+    "lat": 29.8071,
+    "lon": 31.2053,
+    "built_year": -1878,
+    "category": "Ancient Egyptian",
+    "description": "Ruined pyramid complex for Senusret III with subterranean galleries and royal burials.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Pyramid of Amenemhat I",
+    "location": "Lisht, Egypt",
+    "lat": 29.5743,
+    "lon": 31.2417,
+    "built_year": -1930,
+    "category": "Ancient Egyptian",
+    "description": "Mudbrick Middle Kingdom pyramid once cased in white limestone for Dynasty 12 founder Amenemhat I.",
+    "cFactor": 0.84
+  },
+  {
+    "name": "Pyramid of Khendjer",
+    "location": "South Saqqara, Egypt",
+    "lat": 29.8206,
+    "lon": 31.2258,
+    "built_year": -1740,
+    "category": "Ancient Egyptian",
+    "description": "Only royal pyramid of the 13th Dynasty king Khendjer, showing unfinished outer casing.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Pyramid of Ameny Qemau",
+    "location": "Dahshur, Egypt",
+    "lat": 29.8335,
+    "lon": 31.2124,
+    "built_year": -1790,
+    "category": "Ancient Egyptian",
+    "description": "Collapsed pyramid attributed to obscure 13th Dynasty ruler Ameny Qemau with double burial chambers.",
+    "cFactor": 0.79
+  },
+  {
+    "name": "Pyramid of Ibi",
+    "location": "South Saqqara, Egypt",
+    "lat": 29.8496,
+    "lon": 31.2242,
+    "built_year": -2170,
+    "category": "Ancient Egyptian",
+    "description": "Small, heavily ruined pyramid for Eighth Dynasty pharaoh Ibi in the South Saqqara necropolis.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Pyramid of Ahmose",
+    "location": "Abydos, Egypt",
+    "lat": 26.1868,
+    "lon": 31.9204,
+    "built_year": -1530,
+    "category": "Ancient Egyptian",
+    "description": "Mudbrick ceremonial pyramid built by Ahmose I near the temple of his grandmother Tetisheri.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Pyramid of Amanitore",
+    "location": "Mero\u00eb, Sudan",
+    "lat": 16.9372,
+    "lon": 33.7288,
+    "built_year": 20,
+    "category": "Kushite",
+    "description": "Steep-sided Nubian pyramid in the North Cemetery linked to Kandake Amanitore's reign.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "Pyramid of King Piye",
+    "location": "El-Kurru, Sudan",
+    "lat": 18.4047,
+    "lon": 31.7822,
+    "built_year": -720,
+    "category": "Kushite",
+    "description": "Earliest royal pyramid of the 25th Dynasty conqueror Piye overlooking the Nile's Fourth Cataract.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Pyramid of King Nastasen",
+    "location": "Nuri, Sudan",
+    "lat": 18.5343,
+    "lon": 31.8259,
+    "built_year": -330,
+    "category": "Kushite",
+    "description": "Compact Nubian pyramid at Nuri belonging to King Nastasen with decorated funerary chapel remains.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Temple I (Temple of the Great Jaguar)",
+    "location": "Tikal, Guatemala",
+    "lat": 17.222,
+    "lon": -89.6237,
+    "built_year": 732,
+    "category": "Mesoamerican",
+    "description": "Classic Maya stepped pyramid-tomb of Jasaw Chan K'awiil I rising above Tikal's Great Plaza.",
+    "cFactor": 0.91
+  },
+  {
+    "name": "Temple II (Temple of the Masks)",
+    "location": "Tikal, Guatemala",
+    "lat": 17.2224,
+    "lon": -89.6233,
+    "built_year": 751,
+    "category": "Mesoamerican",
+    "description": "Twin pyramid facing Temple I with carved masks and sweeping views over the Tikal rainforest canopy.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Temple of the Inscriptions",
+    "location": "Palenque, Mexico",
+    "lat": 17.4848,
+    "lon": -92.0441,
+    "built_year": 683,
+    "category": "Mesoamerican",
+    "description": "Maya funerary pyramid for Pakal the Great featuring hieroglyphic panels and a vaulted tomb chamber.",
+    "cFactor": 0.92
+  },
+  {
+    "name": "Nohoch Mul Pyramid",
+    "location": "Cob\u00e1, Mexico",
+    "lat": 20.4887,
+    "lon": -87.7389,
+    "built_year": 600,
+    "category": "Mesoamerican",
+    "description": "Tallest known pyramid in the Yucat\u00e1n Peninsula, climbed via steep limestone steps at Cob\u00e1.",
+    "cFactor": 0.89
+  },
+  {
+    "name": "Pyramid of the Feathered Serpent",
+    "location": "Teotihuacan, Mexico",
+    "lat": 19.6828,
+    "lon": -98.8427,
+    "built_year": 200,
+    "category": "Mesoamerican",
+    "description": "Six-level pyramid adorned with carved serpent heads along Teotihuacan's Avenue of the Dead.",
+    "cFactor": 0.94
+  },
+  {
+    "name": "Monk's Mound",
+    "location": "Collinsville, USA",
+    "lat": 38.6557,
+    "lon": -90.0628,
+    "built_year": 1100,
+    "category": "Pre-Columbian",
+    "description": "Massive earthen platform mound forming the core pyramid at the Mississippian city of Cahokia.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Huaca del Sol",
+    "location": "Trujillo, Peru",
+    "lat": -8.1095,
+    "lon": -79.0225,
+    "built_year": 450,
+    "category": "Pre-Columbian",
+    "description": "Layered adobe pyramid by the Moche civilization built from millions of bricks along the Moche River.",
+    "cFactor": 0.84
+  },
+  {
+    "name": "Pyramid of Pepi I",
+    "location": "Saqqara, Egypt",
+    "lat": 29.8703,
+    "lon": 31.2143,
+    "built_year": -2330,
+    "category": "Ancient Egyptian",
+    "description": "Old Kingdom pyramid of Pharaoh Pepi I with a ruined core and decorated burial chambers at Saqqara.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Pyramid of Pepi II",
+    "location": "Saqqara, Egypt",
+    "lat": 29.8739,
+    "lon": 31.2139,
+    "built_year": -2185,
+    "category": "Ancient Egyptian",
+    "description": "Late Old Kingdom pyramid built for Pharaoh Pepi II, notable for its long reign inscriptions and now-collapsed casing.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Pyramid of Merenre",
+    "location": "Saqqara, Egypt",
+    "lat": 29.872,
+    "lon": 31.2149,
+    "built_year": -2280,
+    "category": "Ancient Egyptian",
+    "description": "Ruined Sixth Dynasty pyramid of Pharaoh Merenre Nemtyemsaf I with exposed rubble core near Pepi I's complex.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Pyramid of Djedkare Isesi",
+    "location": "South Saqqara, Egypt",
+    "lat": 29.845,
+    "lon": 31.214,
+    "built_year": -2410,
+    "category": "Ancient Egyptian",
+    "description": "Pyramid of Fifth Dynasty Pharaoh Djedkare with satellite structures and an eroded limestone casing.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Pyramid of Djedefre",
+    "location": "Abu Rawash, Egypt",
+    "lat": 30.0167,
+    "lon": 31.0619,
+    "built_year": -2570,
+    "category": "Ancient Egyptian",
+    "description": "Remains of Pharaoh Djedefre's pyramid at Abu Rawash, once clad in granite and positioned on a high desert ridge.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Buried Pyramid of Sekhemkhet",
+    "location": "Saqqara, Egypt",
+    "lat": 29.8646,
+    "lon": 31.215,
+    "built_year": -2645,
+    "category": "Ancient Egyptian",
+    "description": "Unfinished stepped pyramid of Pharaoh Sekhemkhet, largely buried in sand beside Djoser's complex.",
+    "cFactor": 0.81
+  },
+  {
+    "name": "Pyramid of King Shabaka",
+    "location": "Nuri, Sudan",
+    "lat": 18.5525,
+    "lon": 31.8224,
+    "built_year": -710,
+    "category": "Nubian",
+    "description": "Large Napatan pyramid built for King Shabaka at Nuri with steep sides typical of Kushite royal burials.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Pyramid of King Aspelta",
+    "location": "Nuri, Sudan",
+    "lat": 18.5576,
+    "lon": 31.8241,
+    "built_year": -580,
+    "category": "Nubian",
+    "description": "Kushite royal pyramid of King Aspelta at Nuri, accompanied by a subterranean burial chamber and chapel remains.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Pyramid of King Arkamani",
+    "location": "Mero\u00eb, Sudan",
+    "lat": 16.9377,
+    "lon": 33.7484,
+    "built_year": -235,
+    "category": "Nubian",
+    "description": "Pyramid attributed to King Arkamani in the northern cemetery of Mero\u00eb with steep walls and decorative reliefs.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "Pyramid of Queen Shanakdakhete",
+    "location": "Mero\u00eb, Sudan",
+    "lat": 16.9369,
+    "lon": 33.7488,
+    "built_year": -170,
+    "category": "Nubian",
+    "description": "Steep-sided pyramid of Queen Shanakdakhete featuring a decorated chapel and hieroglyphic inscriptions at Mero\u00eb.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Temple IV, Tikal",
+    "location": "Tikal, Guatemala",
+    "lat": 17.222,
+    "lon": -89.6237,
+    "built_year": 741,
+    "category": "Mesoamerican",
+    "description": "Tallest pyramid at Tikal, built by Yik'in Chan K'awiil with a summit temple rising above the rainforest canopy.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "High Temple, Lamanai",
+    "location": "Orange Walk, Belize",
+    "lat": 17.7523,
+    "lon": -88.6544,
+    "built_year": 450,
+    "category": "Mesoamerican",
+    "description": "Limestone pyramid at Lamanai featuring carved masks and commanding views over the New River Lagoon.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Temple of the Seven Dolls",
+    "location": "Dzibilchalt\u00fan, Mexico",
+    "lat": 21.0954,
+    "lon": -89.5892,
+    "built_year": 800,
+    "category": "Mesoamerican",
+    "description": "Small Maya pyramid aligned to the equinox sunrise, named for figurines found within the temple chamber.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Temple of the Five Stories",
+    "location": "Edzn\u00e1, Mexico",
+    "lat": 19.5974,
+    "lon": -90.229,
+    "built_year": 750,
+    "category": "Mesoamerican",
+    "description": "Tiered pyramid-palace at Edzn\u00e1 with five stacked stories and a stairway leading to a temple sanctuary.",
+    "cFactor": 0.89
+  },
+  {
+    "name": "Great Pyramid of La Venta",
+    "location": "La Venta, Mexico",
+    "lat": 18.0999,
+    "lon": -94.0463,
+    "built_year": -900,
+    "category": "Mesoamerican",
+    "description": "Earthen pyramid core built by the Olmec at La Venta, once a prominent cone-shaped mound dominating the site.",
+    "cFactor": 0.74
+  },
+  {
+    "name": "Huaca de la Luna",
+    "location": "Trujillo, Peru",
+    "lat": -8.1099,
+    "lon": -79.0263,
+    "built_year": 450,
+    "category": "Pre-Columbian",
+    "description": "Moche adobe pyramid adorned with polychrome friezes and ceremonial plazas opposite Huaca del Sol.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Huaca Cao Viejo",
+    "location": "El Brujo, Peru",
+    "lat": -7.965,
+    "lon": -79.1984,
+    "built_year": 450,
+    "category": "Pre-Columbian",
+    "description": "Adobe pyramid at the El Brujo complex notable for the Lady of Cao burial and vivid Moche murals.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Huaca del Drag\u00f3n",
+    "location": "Trujillo, Peru",
+    "lat": -8.0796,
+    "lon": -79.0538,
+    "built_year": 1200,
+    "category": "Pre-Columbian",
+    "description": "Chimu adobe pyramid also known as Huaca Arco Iris, decorated with reliefs of rainbows and anthropomorphic figures.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Pyramids of G\u00fc\u00edmar",
+    "location": "Tenerife, Spain",
+    "lat": 28.3117,
+    "lon": -16.4131,
+    "built_year": 1800,
+    "category": "Modern",
+    "description": "Series of stepped lava-stone pyramids whose 19th-century agricultural origins remain debated on Tenerife.",
+    "cFactor": 0.72
+  },
+  {
+    "name": "Muttart Conservatory Pyramids",
+    "location": "Edmonton, Canada",
+    "lat": 53.5339,
+    "lon": -113.4769,
+    "built_year": 1976,
+    "category": "Modern",
+    "description": "Four glass pyramids housing botanical biomes in Edmonton's river valley, designed by architect Peter Hemingway.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Templo Mayor (Great Pyramid of Tenochtitlan)",
+    "location": "Mexico City, Mexico",
+    "lat": 19.4351,
+    "lon": -99.1329,
+    "built_year": 1487,
+    "category": "Aztec",
+    "description": "Twin-staired Aztec pyramid rebuilt multiple times, crowned by shrines to Tlaloc and Huitzilopochtli at the heart of Tenochtitlan.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Feathered Serpent Pyramid, Teotihuacan",
+    "location": "Teotihuacan, Mexico",
+    "lat": 19.6825,
+    "lon": -98.8428,
+    "built_year": 200,
+    "category": "Mesoamerican",
+    "description": "Early Teotihuacan pyramid decorated with serpent and shell reliefs, fronting the Ciudadela complex.",
+    "cFactor": 0.91
+  },
+  {
+    "name": "Pyramid B at Tula",
+    "location": "Tula, Mexico",
+    "lat": 20.0568,
+    "lon": -99.3439,
+    "built_year": 900,
+    "category": "Toltec",
+    "description": "Step pyramid bearing the famous atlantean warrior columns that once supported its temple roof in Tollan.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Structure 2 Pyramid, Calakmul",
+    "location": "Calakmul, Mexico",
+    "lat": 18.1053,
+    "lon": -89.8113,
+    "built_year": 700,
+    "category": "Maya",
+    "description": "Massive multi-terraced Calakmul pyramid with successive royal burials and wide views over the Campeche jungle canopy.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "La Danta Pyramid",
+    "location": "El Mirador, Guatemala",
+    "lat": 17.7533,
+    "lon": -89.9185,
+    "built_year": -200,
+    "category": "Maya",
+    "description": "One of the largest ancient pyramids by volume, rising from multiple platforms at the Preclassic Maya megasite El Mirador.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "El Tigre Pyramid",
+    "location": "El Mirador, Guatemala",
+    "lat": 17.7721,
+    "lon": -89.9631,
+    "built_year": -150,
+    "category": "Maya",
+    "description": "Triadic Preclassic pyramid complex with broad staircases and flanking temples anchoring El Mirador's western core.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Mundo Perdido Pyramid",
+    "location": "Tikal, Guatemala",
+    "lat": 17.2192,
+    "lon": -89.6237,
+    "built_year": -300,
+    "category": "Maya",
+    "description": "E-Group astronomical pyramid at Tikal's Lost World complex aligned for solstice and equinox observations.",
+    "cFactor": 0.84
+  },
+  {
+    "name": "Grand Pyramid, Uxmal",
+    "location": "Uxmal, Mexico",
+    "lat": 20.3629,
+    "lon": -89.7703,
+    "built_year": 900,
+    "category": "Maya",
+    "description": "Broad unfinished pyramid platform at Uxmal offering commanding views of the Puuc site's decorated palaces.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Pyramid of the Niches",
+    "location": "El Taj\u00edn, Mexico",
+    "lat": 20.43,
+    "lon": -97.379,
+    "built_year": 800,
+    "category": "Classic Veracruz",
+    "description": "Seven-tiered El Taj\u00edn pyramid famed for its 365 inset niches and once brightly painted plaster surfaces.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Pyramid of the Painted Niches",
+    "location": "El Taj\u00edn, Mexico",
+    "lat": 20.43,
+    "lon": -97.377,
+    "built_year": 800,
+    "category": "Classic Veracruz",
+    "description": "Smaller El Taj\u00edn pyramid with preserved red and black paint remnants around recessed niches and stairway balustrades.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Pyramid of the Plumed Serpents, Xochicalco",
+    "location": "Xochicalco, Mexico",
+    "lat": 18.8086,
+    "lon": -99.2954,
+    "built_year": 750,
+    "category": "Mesoamerican",
+    "description": "Decorated platform temple at Xochicalco covered in plumed serpent reliefs and seated rulers.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Great Pyramid of Cuicuilco",
+    "location": "Mexico City, Mexico",
+    "lat": 19.301,
+    "lon": -99.1845,
+    "built_year": -200,
+    "category": "Mesoamerican",
+    "description": "Circular stone pyramid partially buried by lava from the Xitle eruption, representing early Basin of Mexico architecture.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "South Platform, Monte Alb\u00e1n",
+    "location": "Monte Alb\u00e1n, Mexico",
+    "lat": 17.0422,
+    "lon": -96.7677,
+    "built_year": -200,
+    "category": "Zapotec",
+    "description": "Stepped platform-pyramid forming the southern anchor of Monte Alb\u00e1n's Great Plaza with sweeping valley vistas.",
+    "cFactor": 0.81
+  },
+  {
+    "name": "Tonin\u00e1 Acropolis Pyramid",
+    "location": "Tonin\u00e1, Mexico",
+    "lat": 16.9011,
+    "lon": -92.0089,
+    "built_year": 700,
+    "category": "Maya",
+    "description": "Stacked terraces of Tonin\u00e1's acropolis rise like a pyramid crowned by temples and sculpted monuments.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "La Iglesia Pyramid",
+    "location": "Cob\u00e1, Mexico",
+    "lat": 20.4885,
+    "lon": -87.73,
+    "built_year": 600,
+    "category": "Maya",
+    "description": "Early Cob\u00e1 pyramid near the site's lakes, featuring steep steps leading to a small temple shrine.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "Structure 1, Comalcalco",
+    "location": "Comalcalco, Mexico",
+    "lat": 18.2586,
+    "lon": -93.1704,
+    "built_year": 700,
+    "category": "Maya",
+    "description": "Brick-built Maya pyramid at Comalcalco capped by a stuccoed temple on the Gulf Coast plain.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Temple 26, Cop\u00e1n",
+    "location": "Cop\u00e1n, Honduras",
+    "lat": 14.8375,
+    "lon": -89.1417,
+    "built_year": 750,
+    "category": "Maya",
+    "description": "Hieroglyphic Stairway pyramid at Cop\u00e1n with inscribed risers recording dynastic history.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Structure 33, Yaxchil\u00e1n",
+    "location": "Yaxchil\u00e1n, Mexico",
+    "lat": 16.8971,
+    "lon": -90.9733,
+    "built_year": 750,
+    "category": "Maya",
+    "description": "Restored pyramid-temple on Yaxchil\u00e1n's Main Plaza with roof comb sculptures overlooking the Usumacinta River.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Temple of Kukulc\u00e1n at Mayap\u00e1n",
+    "location": "Mayap\u00e1n, Mexico",
+    "lat": 20.6306,
+    "lon": -89.45,
+    "built_year": 1200,
+    "category": "Maya",
+    "description": "Smaller radial pyramid modeled after Chich\u00e9n Itz\u00e1's El Castillo, standing at the center of Mayap\u00e1n's walled city.",
+    "cFactor": 0.83
+  },
+  {
+    "name": "Structure 1, Bec\u00e1n",
+    "location": "Bec\u00e1n, Mexico",
+    "lat": 17.504,
+    "lon": -89.4725,
+    "built_year": 600,
+    "category": "Maya",
+    "description": "Massive pyramid platform at moat-surrounded Bec\u00e1n supporting multiple temple constructions over time.",
+    "cFactor": 0.76
+  },
+  {
+    "name": "Huaca Pucllana",
+    "location": "Lima, Peru",
+    "lat": -12.1107,
+    "lon": -77.0315,
+    "built_year": 400,
+    "category": "Pre-Columbian",
+    "description": "Adobe and clay pyramid built by the Lima culture, featuring stepped platforms and plaza spaces in Miraflores.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Huaca La Florida",
+    "location": "R\u00edmac, Peru",
+    "lat": -12.029,
+    "lon": -77.029,
+    "built_year": -900,
+    "category": "Pre-Columbian",
+    "description": "Early mound-pyramid of the Chav\u00edn era with superimposed construction phases beneath Lima's modern cityscape.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Akapana Pyramid",
+    "location": "Tiwanaku, Bolivia",
+    "lat": -16.5611,
+    "lon": -68.6739,
+    "built_year": 400,
+    "category": "Andean",
+    "description": "Tiered earthen and stone pyramid central to Tiwanaku with sunken courts and monumental drainage channels.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Great Pyramid of Cahuachi",
+    "location": "Nazca, Peru",
+    "lat": -14.836,
+    "lon": -75.127,
+    "built_year": 300,
+    "category": "Pre-Columbian",
+    "description": "Adobe ceremonial pyramid at the Nazca pilgrimage center of Cahuachi near the famous geoglyphs.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Huaca Larga at T\u00facume",
+    "location": "T\u00facume, Peru",
+    "lat": -6.5216,
+    "lon": -79.8502,
+    "built_year": 1100,
+    "category": "Pre-Columbian",
+    "description": "Extensive Lambayeque adobe pyramid mound stretching over 700 meters within the T\u00facume complex.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Great Pyramid of Caral",
+    "location": "Caral, Peru",
+    "lat": -10.8923,
+    "lon": -77.5202,
+    "built_year": -2600,
+    "category": "Pre-Columbian",
+    "description": "Main platform mound at the ancient city of Caral, one of the oldest monumental pyramids in the Americas.",
+    "cFactor": 0.87
+  },
+  {
+    "name": "Gunung Padang Terrace Pyramid",
+    "location": "West Java, Indonesia",
+    "lat": -6.9944,
+    "lon": 107.0597,
+    "built_year": -500,
+    "category": "Southeast Asian",
+    "description": "Stepped volcanic hill with megalithic terraces interpreted as a prehistoric pyramid on Mount Padang.",
+    "cFactor": 0.62
+  },
+  {
+    "name": "Candi Sukuh",
+    "location": "Central Java, Indonesia",
+    "lat": -7.6368,
+    "lon": 111.1235,
+    "built_year": 1437,
+    "category": "Southeast Asian",
+    "description": "15th-century Javanese-Hindu temple with truncated pyramid form and erotic relief panels on Mount Lawu's slope.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Monte d'Accoddi",
+    "location": "Sassari, Italy",
+    "lat": 40.7852,
+    "lon": 8.5971,
+    "built_year": -2700,
+    "category": "Prehistoric",
+    "description": "Step-pyramid altar in Sardinia combining Neolithic platform architecture with a ramped causeway.",
+    "cFactor": 0.79
+  },
+  {
+    "name": "Pyramid of Falicon",
+    "location": "Falicon, France",
+    "lat": 43.7454,
+    "lon": 7.3074,
+    "built_year": 1803,
+    "category": "Modern",
+    "description": "Small stone pyramid built above a natural cave near Nice, possibly as an early 19th-century folly or memorial.",
+    "cFactor": 0.63
+  },
+  {
+    "name": "Pyramid of Tirana",
+    "location": "Tirana, Albania",
+    "lat": 41.32,
+    "lon": 19.8278,
+    "built_year": 1988,
+    "category": "Modern",
+    "description": "Concrete pyramid originally built as a museum for Enver Hoxha, now a repurposed cultural venue in Tirana.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Pyramid of Austerlitz",
+    "location": "Woudenberg, Netherlands",
+    "lat": 52.0876,
+    "lon": 5.3946,
+    "built_year": 1804,
+    "category": "Modern",
+    "description": "Earthen obelisk-like pyramid built by Napoleon's soldiers and topped with an obelisk honoring the Battle of Austerlitz.",
+    "cFactor": 0.78
+  },
+  {
+    "name": "Pyramid of Bomarzo",
+    "location": "Bomarzo, Italy",
+    "lat": 42.4851,
+    "lon": 12.2342,
+    "built_year": -300,
+    "category": "Etruscan",
+    "description": "Rock-cut stepped altar in the woods near Bomarzo resembling a small pyramid with carved stairways and niches.",
+    "cFactor": 0.66
+  },
+  {
+    "name": "Mausoleum of the First Qin Emperor",
+    "location": "Xi'an, China",
+    "lat": 34.3853,
+    "lon": 109.2732,
+    "built_year": -210,
+    "category": "Ancient Chinese",
+    "description": "Burial mound pyramid of Qin Shi Huang, famed for the surrounding Terracotta Army guarding the imperial necropolis.",
+    "cFactor": 0.94
+  },
+  {
+    "name": "Maoling Mausoleum",
+    "location": "Xianyang, China",
+    "lat": 34.6303,
+    "lon": 108.5665,
+    "built_year": -98,
+    "category": "Ancient Chinese",
+    "description": "Huge earthen pyramid tomb of Emperor Wu of Han with accompanying satellite burials and ritual pits.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Han Yangling Mausoleum",
+    "location": "Xianyang, China",
+    "lat": 34.3783,
+    "lon": 108.578,
+    "built_year": -153,
+    "category": "Ancient Chinese",
+    "description": "Trapezoidal pyramid mound of Emperor Jing of Han, surrounded by burial pits of terracotta figurines and animals.",
+    "cFactor": 0.9
+  },
+  {
+    "name": "Duling Mausoleum",
+    "location": "Xi'an, China",
+    "lat": 34.2007,
+    "lon": 109.0802,
+    "built_year": -48,
+    "category": "Ancient Chinese",
+    "description": "Earthen pyramid tomb of Emperor Xuan of Han aligned on a north-south axis southeast of Chang'an.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Weiling Mausoleum",
+    "location": "Xianyang, China",
+    "lat": 34.5079,
+    "lon": 108.7463,
+    "built_year": -33,
+    "category": "Ancient Chinese",
+    "description": "Pyramid mound burial of Emperor Yuan of Han with traces of spirit paths and satellite tombs.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "Qianling Mausoleum",
+    "location": "Qian County, China",
+    "lat": 34.5859,
+    "lon": 108.2256,
+    "built_year": 684,
+    "category": "Ancient Chinese",
+    "description": "Twin burial pyramid of Emperor Gaozong and Empress Wu Zetian on Mount Liang with processional avenues of stone statuary.",
+    "cFactor": 0.88
+  },
+  {
+    "name": "Zhaoling Mausoleum",
+    "location": "Liquan County, China",
+    "lat": 34.3603,
+    "lon": 109.2463,
+    "built_year": 649,
+    "category": "Ancient Chinese",
+    "description": "Massive earthen pyramid mound of Emperor Taizong of Tang surrounded by dozens of subordinate tombs.",
+    "cFactor": 0.86
+  },
+  {
+    "name": "Huiling Mausoleum",
+    "location": "Pucheng County, China",
+    "lat": 34.5617,
+    "lon": 109.0893,
+    "built_year": 762,
+    "category": "Ancient Chinese",
+    "description": "Pyramid mound tomb of Emperor Suzong of Tang, part of the cluster of Tang imperial mausoleums in Shaanxi.",
+    "cFactor": 0.73
+  },
+  {
+    "name": "Ming Xiaoling Mausoleum",
+    "location": "Nanjing, China",
+    "lat": 32.0583,
+    "lon": 118.8394,
+    "built_year": 140,
+    "category": "Ancient Chinese",
+    "description": "Expansive tumulus of the Hongwu Emperor with a spirit way and protective hill forming a pyramid-like burial mound.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Dingling Mausoleum",
+    "location": "Beijing, China",
+    "lat": 40.2954,
+    "lon": 116.2105,
+    "built_year": 160,
+    "category": "Ancient Chinese",
+    "description": "Stone-faced mound of the Wanli Emperor at the Ming Tombs, featuring an excavated underground palace.",
+    "cFactor": 0.85
+  },
+  {
+    "name": "Monks Mound",
+    "location": "Cahokia, United States",
+    "lat": 38.6559,
+    "lon": -90.0628,
+    "built_year": 1100,
+    "category": "Mississippian",
+    "description": "Largest earthen pyramid north of Mexico, composed of four terraces at the center of the Cahokia complex.",
+    "cFactor": 0.93
+  },
+  {
+    "name": "Mound A, Poverty Point",
+    "location": "Epps, United States",
+    "lat": 32.6336,
+    "lon": -91.4078,
+    "built_year": -1500,
+    "category": "Archaic North American",
+    "description": "Conical earthwork pyramid at Poverty Point built by hunter-gatherers long before later mound-building cultures.",
+    "cFactor": 0.75
+  },
+  {
+    "name": "Etowah Temple Mound A",
+    "location": "Cartersville, United States",
+    "lat": 34.1334,
+    "lon": -84.8121,
+    "built_year": 1250,
+    "category": "Mississippian",
+    "description": "Tall earthen platform pyramid at the Etowah site that once supported a chief's temple structure.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Emerald Mound",
+    "location": "Natchez Trace, United States",
+    "lat": 31.6296,
+    "lon": -91.3305,
+    "built_year": 1250,
+    "category": "Mississippian",
+    "description": "Second-largest Mississippian platform mound, forming a low pyramidal plateau with secondary mounds on top.",
+    "cFactor": 0.82
+  },
+  {
+    "name": "Gebel Barkal Pyramid Field",
+    "location": "Karu, Sudan",
+    "lat": 18.5403,
+    "lon": 31.825,
+    "built_year": -300,
+    "category": "Nubian",
+    "description": "Cluster of small steep pyramids at Gebel Barkal, marking royal burials of the Kushite Napatan kingdom.",
+    "cFactor": 0.77
+  },
+  {
+    "name": "El-Kurru Pyramids",
+    "location": "El-Kurru, Sudan",
+    "lat": 18.4064,
+    "lon": 31.7785,
+    "built_year": -750,
+    "category": "Nubian",
+    "description": "Early Kushite royal pyramid cemetery including burials of Piye and other 25th Dynasty rulers.",
+    "cFactor": 0.8
+  },
+  {
+    "name": "Sedeinga Queen Pyramids",
+    "location": "Sedeinga, Sudan",
+    "lat": 19.105,
+    "lon": 30.354,
+    "built_year": -700,
+    "category": "Nubian",
+    "description": "Field of small brick pyramids built for Kushite queens and elites near the temple of Queen Tiye.",
+    "cFactor": 0.72
+  }
+]
