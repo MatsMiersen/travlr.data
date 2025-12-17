@@ -1,0 +1,10 @@
+{
+  "id": "james-bond-locations",
+  "name": "James Bond Filming & Story Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 14,
+  "title": "License to explore",
+  "description": "Real-world locations from James Bond films, mixing filming sites and story settings with per-entry confidence factors.",
+  "markercount": 62
+}
