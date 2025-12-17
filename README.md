@@ -21,6 +21,7 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 9. **World Pyramids** (`pyramids`) — 122 markers spanning ancient through modern pyramids (Category: Architecture).
 10. **Iconic Waterfalls** (`waterfalls`) — 1100 markers with heights and confidence factors (Category: Nature).
 11. **Traditional Dishes and Origins** (`traditional_food`) — 800 markers tying iconic recipes to the precise venues where they originated, each with a cFactor confidence note (Category: Food & Culture).
+12. **Assassin's Creed Real-World Locations** (`assassins-creed-locations`) — 263 markers mapping historical sites and analogs from the franchise (Category: Games).
 12. **Fallout Explorable Locations** (`fallout-explore`) — 350 markers mapping Fallout's Mojave, Capital Wasteland, Commonwealth, and New California locales to real-world coordinates with confidence ratings (Category: Film & TV).
 
 ### Polygon datasets

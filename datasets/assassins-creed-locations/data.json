@@ -1,0 +1,3950 @@
+[
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Renaissance Florence, late 15th century",
+    "name_ingame": "Santa Maria del Fiore",
+    "name_real": "Florence Cathedral",
+    "lat": 43.773106,
+    "lon": 11.255889,
+    "media": [
+      "AC2",
+      "ACB"
+    ],
+    "description_short": "Florence's Duomo anchors Ezio's Renaissance playground.",
+    "description_full": "Exact cathedral in Florence used as Ezio's main landmark and freerunning hub, shown at true location and silhouette.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Jordan",
+    "era": "Nabataean desert, 1st c. BCE",
+    "name_ingame": "Petra",
+    "name_real": "Al-Khazneh, Petra",
+    "lat": 30.3285,
+    "lon": 35.4444,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Bayek passes the rock-cut treasury and canyon approaches of Petra.",
+    "description_full": "Hidden Ones DLC reuses Petra's Siq and treasury fa\u00e7ade at their real coordinates; interior chambers are condensed for traversal.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Sinai Peninsula, 1st c. BCE",
+    "name_ingame": "Mount Sinai",
+    "name_real": "Gebel Musa",
+    "lat": 28.5391,
+    "lon": 33.9731,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Sacred peak forms a climbable summit in the Sinai expansion.",
+    "description_full": "Summit and monastery sit on their real massif; paths are simplified but the ridgeline layout mirrors the historic pilgrimage site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ptolemaic Memphis, 49 BCE",
+    "name_ingame": "Memphis",
+    "name_real": "Ancient Memphis (Mit Rahina)",
+    "lat": 29.8503,
+    "lon": 31.2545,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Capital on the Nile features Saqqara pyramids and temples.",
+    "description_full": "City core sits south of modern Cairo where Memphis stood; districts are compressed but align to the real Saqqara necropolis belt.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Faiyum Oasis, 49 BCE",
+    "name_ingame": "Faiyum",
+    "name_real": "Faiyum Oasis",
+    "lat": 29.308,
+    "lon": 30.842,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Lush depression south of Memphis hosts crocodile cult villages.",
+    "description_full": "Origins sets the lake, canals, and crocodile marshes at the true Faiyum depression; settlements are condensed along the Bahr Yussef canal.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Upper Egypt, 49 BCE",
+    "name_ingame": "Temple of Horus",
+    "name_real": "Temple of Horus at Edfu",
+    "lat": 24.9772,
+    "lon": 32.8741,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Massive Ptolemaic temple anchors Edfu on the west bank.",
+    "description_full": "Sanctuary stands at its real Nile-side footprint; interior passages are accessible but scaled to match gameplay while keeping pylons intact.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Upper Egypt, 49 BCE",
+    "name_ingame": "Elephantine Island",
+    "name_real": "Elephantine Nilometer",
+    "lat": 24.0875,
+    "lon": 32.8877,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Island settlement features the Nilometer and granite quarries.",
+    "description_full": "Origins places the Nilometer staircase and riverfront exactly on Elephantine; housing density is compressed to fit the explorable isle.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Minoan Crete, 5th c. BCE",
+    "name_ingame": "Knossos",
+    "name_real": "Palace of Knossos",
+    "lat": 35.2975,
+    "lon": 25.1596,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Labyrinthine palace ruins crown the hill above Heraklion.",
+    "description_full": "Odyssey condenses the palace courtyards atop the real Kephala Hill site; frescoed chambers are stylized but follow the archaeological plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Greece, 431 BCE",
+    "name_ingame": "Delphi",
+    "name_real": "Sanctuary of Apollo at Delphi",
+    "lat": 38.4828,
+    "lon": 22.501,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Sacred terraces and the Oracle sit on Parnassus' slopes.",
+    "description_full": "Terraced temples follow the real switchback path up Mount Parnassus; the theater and treasury rows mirror their historical layout with minor compression.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Persian War battlefield, 480 BCE",
+    "name_ingame": "Thermopylae",
+    "name_real": "Hot Gates of Thermopylae",
+    "lat": 38.796,
+    "lon": 22.536,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "The Hot Gates pass opens Odyssey's Leonidas flashback.",
+    "description_full": "Narrow coastal defile is placed at the true Malian Gulf choke point; shoreline recession is minimized but terrain mirrors the historic pass.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Cyclades, 5th c. BCE",
+    "name_ingame": "Mykonos",
+    "name_real": "Mykonos Town Harbor",
+    "lat": 37.4445,
+    "lon": 25.3288,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Whitewashed harbor town hosts Spartan command in Odyssey.",
+    "description_full": "Harbor sits on the real west coast bay with twin windmills; street grid is compacted but waterfront landmarks match the Cycladic port.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Cyclades, 5th c. BCE",
+    "name_ingame": "Naxos",
+    "name_real": "Naxos Town",
+    "lat": 37.1041,
+    "lon": 25.3772,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Kassandra returns to a fortified Naxos Town under Myrrine.",
+    "description_full": "Settlement sits on the real northwest harbor; walls and palace are fictionalized, but coastline and port orientation mirror modern Naxos.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Aegean Islands, 5th c. BCE",
+    "name_ingame": "Pythagoreion",
+    "name_real": "Pythagoreion, Samos",
+    "lat": 37.6938,
+    "lon": 26.9445,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Samos' port town hides the mathematician's workshop.",
+    "description_full": "Harbor city is placed on Samos' south coast at the real ancient port; tunnels and docks are compressed for traversal but follow the shoreline.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Attica, 431 BCE",
+    "name_ingame": "Temple of Poseidon",
+    "name_real": "Temple of Poseidon at Sounion",
+    "lat": 37.6506,
+    "lon": 24.0296,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Clifftop Poseidon temple crowns Cape Sounion's promontory.",
+    "description_full": "Odyssey places the Doric ruin exactly on the Sounion headland; columns are restored but the cape geography matches the real temple site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Peloponnesos, 431 BCE",
+    "name_ingame": "Sparta",
+    "name_real": "Ancient Sparta",
+    "lat": 37.0747,
+    "lon": 22.4292,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Laconian capital sits beneath Taygetos in Odyssey's storyline.",
+    "description_full": "City is placed on its real Eurotas River plateau; agora and training grounds are expanded but follow the genuine Spartan layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Peloponnesos, 431 BCE",
+    "name_ingame": "Corinth",
+    "name_real": "Acrocorinth and Corinth",
+    "lat": 37.9391,
+    "lon": 22.9384,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Isthmus city with the Acrocorinth fortress overlooks two seas.",
+    "description_full": "Odyssey sets the fortified hill and lower city on the real isthmus; scale is reduced but harbor access and heights reflect the historic stronghold.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Attica, 431 BCE",
+    "name_ingame": "Pnyx",
+    "name_real": "Pnyx Hill",
+    "lat": 37.9713,
+    "lon": 23.7162,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Assembly hill hosts Athenian debates above the city.",
+    "description_full": "Speaker's platform and carved seating align to the real Pnyx; hillside is slightly widened for crowd scenes but matches the Acropolis vista.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Elis, 431 BCE",
+    "name_ingame": "Olympia",
+    "name_real": "Sanctuary of Olympia",
+    "lat": 37.6386,
+    "lon": 21.6306,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Games complex with stadium and temples sits in the Alpheios valley.",
+    "description_full": "Odyssey mirrors the sanctuary's footprint between rivers; stadium, temple rows, and Kronion hill match the real layout with reduced distances.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Argolid, 431 BCE",
+    "name_ingame": "Mycenae",
+    "name_real": "Citadel of Mycenae",
+    "lat": 37.7308,
+    "lon": 22.754,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Lion Gate fortress crowns the Argolid hills in Odyssey.",
+    "description_full": "Citadel sits on its true ridge with the Lion Gate and tholos tombs; walls are intact beyond ruins to support traversal but match the historic acropolis.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Ionia, 431 BCE",
+    "name_ingame": "Didyma",
+    "name_real": "Temple of Apollo at Didyma",
+    "lat": 37.5436,
+    "lon": 27.2571,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Oracle complex stands near the Milesian coast in Odyssey.",
+    "description_full": "Sanctuary sits inland from the real Aegean shore; colossal columns are restored while the surrounding village is compressed around the temple court.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Ionia, 431 BCE",
+    "name_ingame": "Ephesos",
+    "name_real": "Temple of Artemis at Ephesus",
+    "lat": 37.9498,
+    "lon": 27.3637,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Wonder of the world appears as a restored cult center.",
+    "description_full": "Temple is rebuilt on its genuine site near Sel\u00e7uk; surrounding city blocks are compact, but orientation and approach roads match the ancient plan.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Aeolis, 431 BCE",
+    "name_ingame": "Pergamon",
+    "name_real": "Theater of Pergamon",
+    "lat": 39.1201,
+    "lon": 27.1831,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Steep hillside theater overlooks the valley below Pergamon.",
+    "description_full": "Terraced acropolis and theater sit on the real Bergama hill; seating is slightly compressed but the vertiginous slope and view corridor are authentic.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Byzantium, 16th century",
+    "name_ingame": "Hippodrome",
+    "name_real": "Hippodrome of Constantinople",
+    "lat": 41.0053,
+    "lon": 28.9768,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Racing grounds host Templar ceremonies beside the Blue Mosque.",
+    "description_full": "Oval plaza sits on its true Sarayburnu footprint with the obelisks; surrounding seats are truncated to fit Revelations' Istanbul hub size.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Ottoman Istanbul, 16th century",
+    "name_ingame": "Topkap\u0131 Palace",
+    "name_real": "Topkap\u0131 Palace",
+    "lat": 41.013,
+    "lon": 28.9836,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Sultan's palace anchors the Seraglio above the Bosporus.",
+    "description_full": "Palace courts occupy the real Sarayburnu promontory; inner wards are simplified but gates and terraces reflect the historical complex.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Baghdad, 9th century",
+    "name_ingame": "House of Wisdom",
+    "name_real": "Bayt al-Hikma",
+    "lat": 33.0994,
+    "lon": 44.3771,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Scholars' hall and library serve as Basim's knowledge hub.",
+    "description_full": "Mirage places the academy within Baghdad's round city footprint; courtyards and observatories are fictionalized but sit on the historic Karkh bank.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Baghdad, 9th century",
+    "name_ingame": "Round City",
+    "name_real": "Madinat al-Salam Walls",
+    "lat": 33.3406,
+    "lon": 44.3931,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "The concentric core of Baghdad forms Mirage's central district.",
+    "description_full": "Circular wall alignments match the historical Round City radius; districts and gates are compressed but the Tigris-side orientation is authentic.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Caliphate, 9th century",
+    "name_ingame": "Samarra",
+    "name_real": "Great Mosque of Samarra",
+    "lat": 34.1983,
+    "lon": 43.8751,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Spiral minaret dominates the outskirts during a stealth mission.",
+    "description_full": "Malwiya tower stands at its real Tigris-side coordinates; surrounding streets are fictionalized but the mosque courtyard reflects the historic plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Sasanian Ruins, 9th century",
+    "name_ingame": "Taq Kasra",
+    "name_real": "Arch of Ctesiphon",
+    "lat": 33.0932,
+    "lon": 44.5807,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Collapsed brick vault of Ctesiphon hides Assassin secrets.",
+    "description_full": "Mirage places the monument on its true east-bank mound; adjoining palaces are stylized, but the soaring arch profile mirrors the real ruin.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iran",
+    "era": "Alamut, 9th century",
+    "name_ingame": "Alamut",
+    "name_real": "Alamut Castle",
+    "lat": 36.5094,
+    "lon": 50.5904,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Hidden Ones stronghold sits atop the Elburz range cliffs.",
+    "description_full": "Fortress occupies the actual limestone spur; courtyards are extrapolated for gameplay but match the site's mountain eyrie location.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, French Revolution",
+    "name_ingame": "Sainte-Chapelle",
+    "name_real": "Sainte-Chapelle",
+    "lat": 48.8554,
+    "lon": 2.345,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Rayonnant Gothic chapel glows on \u00cele de la Cit\u00e9.",
+    "description_full": "Unity rebuilds the chapel at its real Palais de la Cit\u00e9 location; stained glass and spire are restored with slightly widened interior aisles.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, late 18th century",
+    "name_ingame": "Les Invalides",
+    "name_real": "H\u00f4tel des Invalides",
+    "lat": 48.8555,
+    "lon": 2.3126,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Veterans' complex and gilded dome appear in Unity's Left Bank.",
+    "description_full": "Cour d'honneur, dome church, and esplanade align with the real complex; surrounding streets are compressed but fa\u00e7ades mirror the landmark.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, Reign of Terror",
+    "name_ingame": "Place de la R\u00e9volution",
+    "name_real": "Place de la Concorde",
+    "lat": 48.8656,
+    "lon": 2.3211,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Guillotine square anchors Unity's dramatic set pieces.",
+    "description_full": "Plaza sits at its historical site between the Tuileries and Champs-\u00c9lys\u00e9es; monuments are era-appropriate and scaled to fit crowd scenes.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "British Museum",
+    "name_real": "British Museum",
+    "lat": 51.5194,
+    "lon": -0.1269,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Grand colonnaded museum hosts exhibits and infiltration routes.",
+    "description_full": "Syndicate places the museum on its real Bloomsbury block with a reduced footprint; facade and courtyard mirror the neoclassical landmark.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "Crystal Palace",
+    "name_real": "The Crystal Palace (Sydenham)",
+    "lat": 51.419,
+    "lon": -0.071,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Iron-and-glass exhibition hall appears in the Lambeth Dreadful Crimes arc.",
+    "description_full": "Glass behemoth is placed in its post-1854 Sydenham Park setting; interior galleries are truncated but the hilltop footprint follows the historic rebuild.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Roman frontier, 9th century",
+    "name_ingame": "Hadrian's Wall",
+    "name_real": "Housesteads Fort on Hadrian's Wall",
+    "lat": 55.0095,
+    "lon": -2.3319,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor climbs the crumbling Roman wall above Northumbria.",
+    "description_full": "Wall segments follow the real east-west line with Housesteads perched on the ridge; scale is reduced but vallum and milecastle placements echo reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Northumbria, 9th century",
+    "name_ingame": "Lindisfarne",
+    "name_real": "Lindisfarne Priory",
+    "lat": 55.6865,
+    "lon": -1.8012,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Holy Island monastery is raided during Valhalla's prologue.",
+    "description_full": "Priory sits on Holy Island at its true shore; cloisters are opened up for combat but the tidal setting and ruins mirror the real monastery.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Jorvik, 9th century",
+    "name_ingame": "Jorvik",
+    "name_real": "York",
+    "lat": 53.959,
+    "lon": -1.082,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Viking-era York appears with Coppergate markets and cathedrals.",
+    "description_full": "City sits on the Ouse at the real Roman grid; Minster and shambles are compressed but street orientations track historic York.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Wessex, 9th century",
+    "name_ingame": "Winchester",
+    "name_real": "Winchester Cathedral",
+    "lat": 51.0628,
+    "lon": -1.3165,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "West Saxon capital with sprawling cathedral closes Eivor's arc.",
+    "description_full": "Settlement sits on its real bend of the River Itchen; cathedral footprint is elongated but follows the historic nave and close arrangement.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "Bank of England",
+    "name_real": "Bank of England",
+    "lat": 51.5151,
+    "lon": -0.0877,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Heavily guarded bank hosts stealth infiltrations in Syndicate.",
+    "description_full": "Building occupies its real Threadneedle Street block; interior vaults are fictionalized, but exterior facades align to the neoclassical plan.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "Royal Observatory",
+    "name_real": "Royal Observatory, Greenwich",
+    "lat": 51.4769,
+    "lon": -0.0005,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Prime Meridian hilltop hosts a vantage point over London.",
+    "description_full": "Observatory sits in Greenwich Park at its true summit; building interiors are simplified but the meridian courtyard and viewshed match reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Norway",
+    "era": "Rogaland, 9th century",
+    "name_ingame": "Stavanger",
+    "name_real": "Stavanger Harbor",
+    "lat": 58.969,
+    "lon": 5.7331,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Norwegian harbor town opens Valhalla's snowy prologue.",
+    "description_full": "Harbor basin sits on the real Byfjorden coast; settlement scale is reduced but shoreline contours mirror modern Stavanger's old town.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Norway",
+    "era": "Tr\u00f8ndelag, 9th century",
+    "name_ingame": "Nidaros",
+    "name_real": "Nidaros Cathedral",
+    "lat": 63.4273,
+    "lon": 10.3966,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Cathedral town of Trondheim appears in Valhalla's Norway map.",
+    "description_full": "City sits on the real Nidelva bend; cathedral footprint and fjord docks are compressed but oriented like historic Trondheim.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Dublin, 9th century",
+    "name_ingame": "Dublin",
+    "name_real": "Dubh Linn Viking Port",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Viking port city anchors Wrath of the Druids' trade network.",
+    "description_full": "Settlement sits at the River Liffey ford where Dublin formed; city walls and quays are condensed but mapped on the true medieval core.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Frankish Realm, 9th century",
+    "name_ingame": "Laon",
+    "name_real": "Laon Cathedral",
+    "lat": 49.5637,
+    "lon": 3.6209,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Hilltop Laon and its six-towered cathedral feature in Siege of Paris DLC.",
+    "description_full": "City is perched on its real limestone butte; cathedral dominates the crest with compressed streets wrapping the medieval walls.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "New France, mid-18th century",
+    "name_ingame": "Quebec",
+    "name_real": "Quebec City",
+    "lat": 46.8139,
+    "lon": -71.2082,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Fortified city on the St. Lawrence serves as a Rogue hub.",
+    "description_full": "Upper and Lower Towns follow Quebec's cliffside layout; walls and citadel are compressed but street orientations track the real colonial city.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Cape Breton, 18th century",
+    "name_ingame": "Louisbourg",
+    "name_real": "Fortress of Louisbourg",
+    "lat": 45.8929,
+    "lon": -59.9729,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Star fort and harbor form a key North Atlantic outpost.",
+    "description_full": "Bastions guard the same Atlantic inlet as the historic fort; curtain walls are shortened but trace the real French fortress plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Haiti",
+    "era": "Saint-Domingue, 18th century",
+    "name_ingame": "Port-au-Prince",
+    "name_real": "Port-au-Prince",
+    "lat": 18.547,
+    "lon": -72.338,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "French colonial capital appears as a dense coastal port.",
+    "description_full": "City sits on the real Gulf of Gon\u00e2ve bay; street grid and forts are compressed but oriented to the peninsula harbor.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Panama",
+    "era": "Spanish Main, 1715",
+    "name_ingame": "Portobelo",
+    "name_real": "Portobelo",
+    "lat": 9.5531,
+    "lon": -79.6564,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Harbor town with twin forts appears in Black Flag contracts.",
+    "description_full": "Settlement sits on the real Caribbean bay; Castillo de Santiago and San Jer\u00f3nimo are simplified but placed at their real headlands.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Colombia",
+    "era": "Caribbean Sea, 1715",
+    "name_ingame": "Providence Island",
+    "name_real": "Isla de Providencia",
+    "lat": 13.3585,
+    "lon": -81.3744,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Hidden pirate refuge rests on the remote coral island.",
+    "description_full": "Black Flag positions the cove on the real island's southwest shore; jungle interior is compressed but the crescent bay matches Providence's geography.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Newfoundland, 18th century",
+    "name_ingame": "St. John's",
+    "name_real": "St. John's",
+    "lat": 47.5596,
+    "lon": -52.7093,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Atlantic staging port features wharves and steep lanes.",
+    "description_full": "Town hugs the true Avalon Peninsula harbor; hills and fortifications are scaled down but follow the real coastal bowl of St. John's.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Ohio River Valley, 1750s",
+    "name_ingame": "Fort Duquesne",
+    "name_real": "Fort Duquesne (Fort Pitt site)",
+    "lat": 40.4412,
+    "lon": -80.0088,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Strategic fork-of-the-rivers fort appears in AC3's frontier.",
+    "description_full": "Star fort sits at the real confluence of the Allegheny and Monongahela; walls are simplified but placement matches the historic Point site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Renaissance Venice, 1480s",
+    "name_ingame": "Piazza San Marco",
+    "name_real": "St Mark's Square",
+    "lat": 45.434046,
+    "lon": 12.338839,
+    "media": [
+      "AC2"
+    ],
+    "description_short": "Compressed but faithful recreation of Venice's St Mark's hub.",
+    "description_full": "Central square and basilica rendered with reduced scale to fit the Venetian map while preserving key monuments and layout cues.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Papal Rome, 1500s",
+    "name_ingame": "Il Colosseo",
+    "name_real": "Colosseum",
+    "lat": 41.89021,
+    "lon": 12.492231,
+    "media": [
+      "ACB"
+    ],
+    "description_short": "The Colosseum stands as Rome's climbable arena landmark.",
+    "description_full": "Historical amphitheater appears at its real position with interior simplified for traversal, matching Renaissance ruins condition.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Israel/Palestine",
+    "era": "Third Crusade Jerusalem, 1191",
+    "name_ingame": "Temple Mount",
+    "name_real": "Haram al-Sharif",
+    "lat": 31.7767,
+    "lon": 35.2354,
+    "media": [
+      "AC1"
+    ],
+    "description_short": "Jerusalem's sacred plateau anchors Alta\u00efr's city routes.",
+    "description_full": "Recreated holy compound scaled to fit the city map; recognizable Dome of the Rock serves as the skyline focus.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Israel/Palestine",
+    "era": "Third Crusade Acre, 1191",
+    "name_ingame": "Acre Harbor",
+    "name_real": "Port of Akko",
+    "lat": 32.923611,
+    "lon": 35.070556,
+    "media": [
+      "AC1"
+    ],
+    "description_short": "Fortified Crusader port controlling the coast.",
+    "description_full": "Harbor district mirrors Akko's shoreline with compressed docks and walls to support stealth routes while retaining coastal orientation.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Syria",
+    "era": "Ayyubid Damascus, 1191",
+    "name_ingame": "Citadel of Damascus",
+    "name_real": "Damascus Citadel",
+    "lat": 33.51403,
+    "lon": 36.3069,
+    "media": [
+      "AC1"
+    ],
+    "description_short": "Crusader-era citadel crowns Damascus' Old City map.",
+    "description_full": "Citadel placement matches the real fortress; interior routes are condensed but gatehouses and curtain walls follow historic plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ptolemaic Alexandria, 49 BCE",
+    "name_ingame": "Pharos of Alexandria",
+    "name_real": "Lighthouse of Alexandria",
+    "lat": 31.2135,
+    "lon": 29.885,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Towering Pharos guides Bayek through Alexandria's harbor.",
+    "description_full": "Reconstructed wonder based on historical accounts; full scale stylized to dramatize height while marking the real Pharos island site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Athens, 431 BCE",
+    "name_ingame": "Athenian Akropolis",
+    "name_real": "Acropolis of Athens",
+    "lat": 37.971532,
+    "lon": 23.726724,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "The Parthenon-topped Acropolis dominates Odyssey's Attika.",
+    "description_full": "Sanctuary sits on its real limestone plateau with temples restored to classical form; scale slightly reduced for traversal.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris during the French Revolution, 1790s",
+    "name_ingame": "Notre-Dame",
+    "name_real": "Notre-Dame de Paris",
+    "lat": 48.852968,
+    "lon": 2.349902,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity's painstaking Notre-Dame rebuild anchors \u00cele de la Cit\u00e9.",
+    "description_full": "Cathedral modeled to near-laser accuracy with period-accurate spire; sits at exact coordinates as centerpiece of revolution-era Paris.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Industrial London, 1868",
+    "name_ingame": "Tower of London",
+    "name_real": "Her Majesty's Royal Palace and Fortress of the Tower of London",
+    "lat": 51.508112,
+    "lon": -0.075949,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Victorian-era Tower serves as a fortified set piece in Syndicate.",
+    "description_full": "Tower complex is geographically correct on the Thames with courtyard layouts simplified to support stealth missions and climbs.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Boston during the American Revolution, 1770s",
+    "name_ingame": "Old North Church",
+    "name_real": "Christ Church in the City of Boston",
+    "lat": 42.366292,
+    "lon": -71.054486,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "The steeple used for the lantern signal overlooks Revolution-era Boston.",
+    "description_full": "Historic church appears at its authentic North End address; surrounding streets are compressed but building orientation matches reality.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Cuba",
+    "era": "Havana, Golden Age of Piracy 1715",
+    "name_ingame": "Catedral de la Habana",
+    "name_real": "Cathedral Basilica of the Virgin Mary of the Immaculate Conception",
+    "lat": 23.140611,
+    "lon": -82.351733,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Baroque cathedral anchors Havana's pirate-era plaza.",
+    "description_full": "Cathedral square mirrors the real site with facades simplified and street grid narrowed to keep traversal dense while preserving bay orientation.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Anglo-Saxon Winchester, 9th century",
+    "name_ingame": "Winchester Cathedral",
+    "name_real": "Cathedral Church of the Holy Trinity, Saint Peter, Saint Paul and Saint Swithun",
+    "lat": 51.060652,
+    "lon": -1.313112,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla depicts Winchester's cathedral as the Wessex power seat.",
+    "description_full": "Medieval cathedral occupies its real site but city map compresses streets and cloisters into a stylized Anglo-Saxon core.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Ottoman Constantinople, 16th century",
+    "name_ingame": "Hagia Sophia",
+    "name_real": "Ayasofya Grand Mosque",
+    "lat": 41.008583,
+    "lon": 28.980175,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Iconic domed basilica towers over Ezio's Constantinople skyline.",
+    "description_full": "Historic Hagia Sophia is placed at its true Sarayburnu site with minarets; interior is simplified but footprint mirrors the real monument.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Ottoman Constantinople, 16th century",
+    "name_ingame": "Galata Tower",
+    "name_real": "Galata Tower",
+    "lat": 41.02562,
+    "lon": 28.974104,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Medieval Genoese tower dominates the northern bank climbing routes.",
+    "description_full": "Tower sits at its true hilltop position overlooking the Golden Horn; interior and parapets are compressed for traversal while keeping silhouette.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Ottoman Constantinople, 16th century",
+    "name_ingame": "Topkap\u0131 Palace",
+    "name_real": "Topkap\u0131 Palace",
+    "lat": 41.0115,
+    "lon": 28.9833,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Sultan's palace crowns the Seraglio as a stealth infiltration space.",
+    "description_full": "Palace complex occupies its authentic promontory above the Bosporus; courtyards are tightened but gate sequence follows the real imperial layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ptolemaic Alexandria, 49 BCE",
+    "name_ingame": "Great Library",
+    "name_real": "Library of Alexandria (Mouseion)",
+    "lat": 31.2088,
+    "lon": 29.9095,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Reimagined Library anchors Alexandria's academic quarter.",
+    "description_full": "Stylized reconstruction placed near the ancient Brucheion district; scale and interiors are speculative but tied to the real scholarly precinct.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Old Kingdom Giza, 49 BCE",
+    "name_ingame": "Great Pyramid of Khufu",
+    "name_real": "Great Pyramid of Giza",
+    "lat": 29.979234,
+    "lon": 31.134202,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Bayek scales Khufu's pyramid at its precise plateau location.",
+    "description_full": "Monument is modeled at true position and near-full scale on the Giza plateau, including interior shafts and chambers aligned to real archaeology.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ptolemaic Thebes, 49 BCE",
+    "name_ingame": "Temple of Amun at Karnak",
+    "name_real": "Karnak Temple Complex",
+    "lat": 25.7188,
+    "lon": 32.6573,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Hypostyle hall and obelisks form a vast traversal space in Thebes.",
+    "description_full": "Complex sits where Karnak stands in Luxor; courtyards and pylons are compressed but aligned along the authentic east\u2013west axis of the sanctuary.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Oasis of Siwa, 49 BCE",
+    "name_ingame": "Temple of Amun",
+    "name_real": "Temple of the Oracle of Amun at Siwa",
+    "lat": 29.2032,
+    "lon": 25.5173,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Bayek's home sanctuary sits atop Siwa's rock outcrop.",
+    "description_full": "Ruined oracle temple is set on the true Aghurmi mound with surrounding oasis compressed; architecture mixes reconstructed elements for playability.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ancient Memphis, 49 BCE",
+    "name_ingame": "Temple of Ptah",
+    "name_real": "Temple of Ptah at Memphis",
+    "lat": 29.844,
+    "lon": 31.254,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Memphis' Ptah precinct hosts statues and canals in Origins.",
+    "description_full": "Sanctuary is placed near the Mit Rahina ruins; canals and courts are broadened for quests but keep the sacred enclosure's real-world orientation.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Athens, 431 BCE",
+    "name_ingame": "Theatre of Dionysus",
+    "name_real": "Theatre of Dionysus Eleuthereus",
+    "lat": 37.970014,
+    "lon": 23.7263,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Stone theater on Athens' south slope hosts dramas and duels.",
+    "description_full": "Auditorium occupies its true spot on the Acropolis hillside; seating tiers are condensed but stage and backdrop match historic layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Phokis, 431 BCE",
+    "name_ingame": "Sanctuary of Delphi",
+    "name_real": "Temple of Apollo at Delphi",
+    "lat": 38.4827,
+    "lon": 22.501,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Oracle's terrace overlooks the Pleistos valley as in antiquity.",
+    "description_full": "Terraced sanctuary is set on Mount Parnassus slopes at the authentic site; buildings are restored to classical form with minor scale compression.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Elis, 431 BCE",
+    "name_ingame": "Sanctuary of Olympia",
+    "name_real": "Olympia Archaeological Site",
+    "lat": 37.6386,
+    "lon": 21.6301,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Olympic stadium and temples appear as a compressed festival hub.",
+    "description_full": "Sacred grove sits at its real location along the Alfeios River; hippodrome and training areas are scaled down but landmarks match archaeology.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Lakonia, 431 BCE",
+    "name_ingame": "Spartan Acropolis",
+    "name_real": "Acropolis of Sparta",
+    "lat": 37.0747,
+    "lon": 22.4306,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Fortified hill and statue mark Sparta's power center.",
+    "description_full": "Citadel sits above modern Sparta in its historical position; temples and theatre are reconstructed with condensed spacing for gameplay.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Crete, 431 BCE",
+    "name_ingame": "Palace of Knossos",
+    "name_real": "Knossos Archaeological Site",
+    "lat": 35.2979,
+    "lon": 25.1595,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Labyrinthine palace returns as a myth-tinged ruin on Crete.",
+    "description_full": "Rebuilt Minoan palace occupies the real hill at Kephala; layout is romanticized with mythic chambers but follows the actual multi-court plan.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Classical Argolis, 431 BCE",
+    "name_ingame": "Citadel of Mycenae",
+    "name_real": "Mycenae Archaeological Site",
+    "lat": 37.7308,
+    "lon": 22.7543,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Lion Gate fortress stands atop its real ridge in Odyssey.",
+    "description_full": "Hilltop citadel matches the authentic acropolis above the Plain of Argos; tombs and walls are slightly compressed but oriented to real approaches.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Revolutionary Paris, 1790s",
+    "name_ingame": "La Bastille",
+    "name_real": "Bastille Saint-Antoine",
+    "lat": 48.8532,
+    "lon": 2.3691,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Demolished fortress reconstructed as Unity's stormed prison.",
+    "description_full": "Bastille rises at its historic square; interior courtyards are opened up for missions but towers align with period engravings and true footprint.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Ancien R\u00e9gime Versailles, 1770s",
+    "name_ingame": "Palace of Versailles",
+    "name_real": "Ch\u00e2teau de Versailles",
+    "lat": 48.8049,
+    "lon": 2.1204,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Royal palace appears in Unity expansions with formal gardens.",
+    "description_full": "Palace complex sits at its real coordinates outside Paris; wings and gardens are truncated yet retain the mirrored layout and Hall of Mirrors axis.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Revolutionary Paris, 1790s",
+    "name_ingame": "Le Panth\u00e9on",
+    "name_real": "Panth\u00e9on de Paris",
+    "lat": 48.8462,
+    "lon": 2.3459,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Neoclassical dome stands over the Latin Quarter in Unity.",
+    "description_full": "Panth\u00e9on is placed on the Montagne Sainte-Genevi\u00e8ve at its real location; interior nave is scaled down but fa\u00e7ade proportions stay accurate.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Revolutionary Paris, 1790s",
+    "name_ingame": "Sainte-Chapelle",
+    "name_real": "Sainte-Chapelle",
+    "lat": 48.8554,
+    "lon": 2.345,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Royal chapel with soaring glass anchors \u00cele de la Cit\u00e9 paths.",
+    "description_full": "Gothic chapel sits within the Conciergerie at its historical footprint; upper and lower chapels are merged for gameplay but keep the island setting.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Industrial London, 1868",
+    "name_ingame": "Buckingham Palace",
+    "name_real": "Buckingham Palace",
+    "lat": 51.501364,
+    "lon": -0.14189,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Royal residence sits behind its gates in Syndicate's Westminster.",
+    "description_full": "Palace occupies the correct site off The Mall; grounds are trimmed and interiors restricted but fa\u00e7ade and courtyard match Victorian layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Industrial London, 1868",
+    "name_ingame": "Houses of Parliament",
+    "name_real": "Palace of Westminster",
+    "lat": 51.5007,
+    "lon": -0.1246,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Big Ben and Parliament rise beside the Thames as a climbing set.",
+    "description_full": "Neo-Gothic complex sits on the real riverbank; interiors are fictionalized but exterior proportions and clock tower placement follow the true plan.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Industrial London, 1868",
+    "name_ingame": "Westminster Abbey",
+    "name_real": "Collegiate Church of St Peter at Westminster",
+    "lat": 51.4993,
+    "lon": -0.1273,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate's abbey offers rooftops and cloisters by Parliament.",
+    "description_full": "Gothic church is fixed at its authentic site; nave is condensed to ease traversal but transepts and towers mirror the historic outline.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Industrial London, 1868",
+    "name_ingame": "St. Paul's Cathedral",
+    "name_real": "St Paul's Cathedral",
+    "lat": 51.5138,
+    "lon": -0.0984,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Wren's dome becomes a signature leap-of-faith perch in London.",
+    "description_full": "Cathedral sits at Ludgate Hill as in reality; interior is simplified but dome scale and west front reflect the real Baroque landmark.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Papal Rome, 1500s",
+    "name_ingame": "Castel Sant'Angelo",
+    "name_real": "Castel Sant'Angelo",
+    "lat": 41.9031,
+    "lon": 12.4663,
+    "media": [
+      "ACB"
+    ],
+    "description_short": "Hadrian's mausoleum serves as the Borgia stronghold in Rome.",
+    "description_full": "Mausoleum-fortress is placed accurately on the Tiber; interiors and battlements are dramatized but the cylindrical core and bridge approach are true.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Vatican City",
+    "era": "Renaissance Papal States, 1500s",
+    "name_ingame": "Basilica di San Pietro",
+    "name_real": "St. Peter's Basilica",
+    "lat": 41.9022,
+    "lon": 12.4539,
+    "media": [
+      "ACB"
+    ],
+    "description_short": "Vatican basilica and square stage Ezio's papal confrontation.",
+    "description_full": "Basilica rises at its real Vatican site with Bernini's square; nave scale is compressed but dome and colonnades mirror the historical footprint.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Renaissance Florence, 15th century",
+    "name_ingame": "Ponte Vecchio",
+    "name_real": "Ponte Vecchio",
+    "lat": 43.7679,
+    "lon": 11.2531,
+    "media": [
+      "AC2"
+    ],
+    "description_short": "Bridge of shops spans the Arno as a chase route in Florence.",
+    "description_full": "Medieval bridge sits at its authentic crossing; shop rows are simplified but alignment and span match the real structure over the Arno.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Renaissance Venice, 1480s",
+    "name_ingame": "Ponte di Rialto",
+    "name_real": "Rialto Bridge",
+    "lat": 45.438,
+    "lon": 12.3357,
+    "media": [
+      "AC2"
+    ],
+    "description_short": "Wooden Rialto under construction forms a pivotal set piece.",
+    "description_full": "Bridge is placed across the Grand Canal at its historical market crossing; depicted as scaffolded pre-stone version to fit the 15th-century setting.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Tuscany, late 15th century",
+    "name_ingame": "Monteriggioni",
+    "name_real": "Walls of Monteriggioni",
+    "lat": 43.4709,
+    "lon": 11.0425,
+    "media": [
+      "AC2",
+      "ACB"
+    ],
+    "description_short": "Ezio's villa town appears as a fortified Tuscan hub.",
+    "description_full": "Walled village matches its real hilltop footprint; interior streets are widened for renovations but towers and gates align to the medieval layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Tuscany, late 15th century",
+    "name_ingame": "San Gimignano",
+    "name_real": "Historic Centre of San Gimignano",
+    "lat": 43.467,
+    "lon": 11.0422,
+    "media": [
+      "AC2"
+    ],
+    "description_short": "Medieval tower town becomes a vertical playground for assassins.",
+    "description_full": "Town sits amid Tuscan hills near its real coordinates; tower count is reduced but main squares and walls follow the authentic plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Syria",
+    "era": "Assassin stronghold, 12th century",
+    "name_ingame": "Masyaf Castle",
+    "name_real": "Masyaf Citadel",
+    "lat": 35.0651,
+    "lon": 36.3386,
+    "media": [
+      "AC1",
+      "ACR"
+    ],
+    "description_short": "Assassin fortress crowns its real crag above the Syrian plain.",
+    "description_full": "Citadel occupies the authentic limestone spur; interior halls are fictionalized but curtain walls and gate path follow the historical mountaintop layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Baghdad, 861 CE",
+    "name_ingame": "Round City Palace",
+    "name_real": "Al-Mansur's Round City (Abbasid Palace)",
+    "lat": 33.3386,
+    "lon": 44.3939,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Mirage recreates Baghdad's circular core around the caliphal palace.",
+    "description_full": "Central palace district is a stylized analog of the vanished Round City; radius is compressed yet follows the real concentric ring layout on the Tigris bank.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Baghdad, 861 CE",
+    "name_ingame": "House of Wisdom",
+    "name_real": "Bayt al-Hikma",
+    "lat": 33.329,
+    "lon": 44.3919,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Scholarly complex hosts translation halls in Mirage's Baghdad.",
+    "description_full": "Library is placed near the historical Karkh district; building massing is speculative but tied to the real scholarly quarter south of the palace ring.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iran",
+    "era": "Nizari Persia, 12th century",
+    "name_ingame": "Alamut",
+    "name_real": "Alamut Castle",
+    "lat": 36.5122,
+    "lon": 50.5823,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Legendary Assassin stronghold returns as a mountainous fortress.",
+    "description_full": "Castle sits on its true rock pinnacle in the Alborz range; interiors are dramatized but switchbacks and terraces echo the real Nizari citadel remains.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Roman Britain frontier, 9th century revisit",
+    "name_ingame": "Hadrian's Wall",
+    "name_real": "Hadrian's Wall",
+    "lat": 55.0059,
+    "lon": -2.2923,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla features stretches of the Roman wall across Northumbria.",
+    "description_full": "Linear fortification follows the real east\u2013west alignment; forts are compressed but wall segments are placed along authentic ridgelines.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Medieval Normandy, 9th century",
+    "name_ingame": "Mont-Saint-Michel",
+    "name_real": "Mont-Saint-Michel",
+    "lat": 48.636,
+    "lon": -1.511,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Tidal abbey island appears during Valhalla's Francia journey.",
+    "description_full": "Island monastery matches its real bay location; approach causeway and village tiers are simplified but keep the stacked abbey profile.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Vinland sagas, 9th century",
+    "name_ingame": "L'Anse aux Meadows",
+    "name_real": "L'Anse aux Meadows",
+    "lat": 51.5906,
+    "lon": -55.5409,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor visits the Norse camp at Vinland's UNESCO site.",
+    "description_full": "Settlement is placed on Newfoundland's northern tip at the real archaeological park; structures are simplified longhouses reflecting the historic remains.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Attika coast, 431 BCE",
+    "name_ingame": "Temple of Poseidon",
+    "name_real": "Temple of Poseidon at Sounion",
+    "lat": 37.6505,
+    "lon": 24.027,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Clifftop temple at Cape Sounion marks a vista and quest site.",
+    "description_full": "Sanctuary crowns the real promontory above the Aegean; colonnade is restored to classical form with slight scale reduction for gameplay space.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Cyclades, 431 BCE",
+    "name_ingame": "Sacred Island of Delos",
+    "name_real": "Archaeological Site of Delos",
+    "lat": 37.4018,
+    "lon": 25.267,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Delos appears with its terraces and lion-lined sacred way.",
+    "description_full": "Island sanctuary is mapped at its real Aegean coordinates; statues and temples are condensed but follow the authentic port and terrace layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Ptolemaic Dendera, 49 BCE",
+    "name_ingame": "Temple of Hathor",
+    "name_real": "Dendera Temple Complex",
+    "lat": 26.1375,
+    "lon": 32.6674,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Decorated hypostyle halls feature in a desert-side pilgrimage stop.",
+    "description_full": "Temple sits on the west bank of the Nile at its true site; courts are scaled down but zodiac ceiling motifs and enclosure orientation match reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Colonial New Orleans, 18th century",
+    "name_ingame": "St. Louis Cathedral",
+    "name_real": "Saint Louis Cathedral, New Orleans",
+    "lat": 29.9575,
+    "lon": -90.0644,
+    "media": [
+      "ACL"
+    ],
+    "description_short": "French Quarter cathedral fronts Jackson Square in Liberation.",
+    "description_full": "Cathedral sits on its genuine Chartres Street frontage; square is compressed but fa\u00e7ade and triple spires mirror the real colonial landmark.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Seven Years' War North Atlantic, 1750s",
+    "name_ingame": "Fortress of Louisbourg",
+    "name_real": "Fortress of Louisbourg",
+    "lat": 45.8978,
+    "lon": -59.9714,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "French coastal stronghold appears during Shay's naval missions.",
+    "description_full": "Fortress is placed on Cape Breton Island at its historic harbor; bastions are simplified for naval assaults but follow the real seaward outline.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Cappadocia, 16th century",
+    "name_ingame": "Cappadocian Underground City",
+    "name_real": "Derinkuyu Underground City",
+    "lat": 38.3758,
+    "lon": 34.7408,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Hidden Templar city repurposes Cappadocia's subterranean tunnels.",
+    "description_full": "Derinkuyu's real underground complex inspires this level; layout is a composite of multiple caves but entrance placement reflects the actual town site.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Colonial New York, 1776",
+    "name_ingame": "Trinity Church",
+    "name_real": "Trinity Church, Manhattan",
+    "lat": 40.7081,
+    "lon": -74.012,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Tall spire dominates the southern Manhattan skyline in AC3.",
+    "description_full": "Church stands at Broadway and Wall Street as in history; churchyard and nave are shrunken but the spire orientation and footprint remain true.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Revolutionary Philadelphia, 1776",
+    "name_ingame": "Independence Hall",
+    "name_real": "Independence Hall",
+    "lat": 39.9489,
+    "lon": -75.15,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Continental Congress hall anchors Philadelphia missions.",
+    "description_full": "Georgian state house sits on Chestnut Street at its real address; interior chambers are simplified but tower and wings match the historic plan.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Revolutionary Boston, 1775",
+    "name_ingame": "Bunker Hill",
+    "name_real": "Breed's/Bunker Hill Battlefield",
+    "lat": 42.3762,
+    "lon": -71.0605,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Connor fights across the slopes of the Charlestown battlefield.",
+    "description_full": "Battlefield sits at its historical position overlooking the Mystic; monument is anachronistically present as a placeholder but terrain matches the ridge.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Revolutionary Massachusetts, 1775",
+    "name_ingame": "Lexington Green",
+    "name_real": "Lexington Battle Green",
+    "lat": 42.449,
+    "lon": -71.2319,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Opening skirmish of the Revolution plays out on the village green.",
+    "description_full": "Common is placed in its true crossroads location; surrounding houses are compressed but the triangular green mirrors the real colonial layout.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Continental Army winter, 1777",
+    "name_ingame": "Valley Forge",
+    "name_real": "Valley Forge Encampment",
+    "lat": 40.1006,
+    "lon": -75.445,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "Winter camp with log huts rests along the Schuylkill in AC3.",
+    "description_full": "Encampment is mapped to the real plateau west of the river; hut layouts are stylized but the ridge and river orientation follow the historic park.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Jamaica",
+    "era": "Golden Age of Piracy, 1715",
+    "name_ingame": "Port Royal",
+    "name_real": "Port Royal",
+    "lat": 17.937,
+    "lon": -76.8419,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Sunken pirate haven reimagined as a bustling port in Black Flag.",
+    "description_full": "Town sits on the Palisadoes spit at its real coordinates; shorelines are rebuilt pre-earthquake with condensed streets suited to ship missions.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Bahamas",
+    "era": "Golden Age of Piracy, 1715",
+    "name_ingame": "Nassau",
+    "name_real": "Nassau",
+    "lat": 25.059,
+    "lon": -77.343,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Pirate republic capital sits on New Providence's real harbor.",
+    "description_full": "Settlement uses the authentic harbor mouth and sandbars; streets are broadened for gameplay but fort and bay orientation mirror the real geography.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Jamaica",
+    "era": "Golden Age of Piracy, 1715",
+    "name_ingame": "Kingston",
+    "name_real": "Kingston",
+    "lat": 17.997,
+    "lon": -76.7936,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Colonial Kingston appears as a major hub beneath the Blue Mountains.",
+    "description_full": "City is set on its real south-shore grid; districts are compressed but harbor placement and mountainous backdrop reflect the actual setting.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Mexico",
+    "era": "Maya Coast, 1715",
+    "name_ingame": "Tulum",
+    "name_real": "Tulum Archaeological Zone",
+    "lat": 20.214,
+    "lon": -87.4292,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Walled cliffside ruins host a hidden Assassins outpost in AC4.",
+    "description_full": "Site sits on the Caribbean bluff at its real coordinates; temple groupings are intact but scaled down to fit the playable cove and jungle approaches.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Viking Dublin, 9th century",
+    "name_ingame": "Dyflin",
+    "name_real": "Dublin",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla's Dyflin mirrors Dublin's Norse trading hub on the Liffey.",
+    "description_full": "Harbor walls and longphorts sit on the real River Liffey bend; street plan is simplified into broad market lanes but anchored to Dublin's historic core.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Gaelic Meath, 9th century",
+    "name_ingame": "Hill of Tara",
+    "name_real": "Hill of Tara",
+    "lat": 53.578,
+    "lon": -6.609,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Seat of Irish high kings appears as a ritual mound above Meath.",
+    "description_full": "Ringforts crown the true Tara ridge; monuments are compressed together for gameplay while preserving the hill's distinctive oval earthworks.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Ulster coast, 9th century",
+    "name_ingame": "Giant's Causeway",
+    "name_real": "Giant's Causeway",
+    "lat": 55.2408,
+    "lon": -6.5116,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Hexagonal basalt columns jut from Valhalla's northern shoreline.",
+    "description_full": "Rocky stepping stones match the real UNESCO site; surrounding cliffs are simplified but coastline orientation matches Antrim's headland.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Skellig Isles, 9th century",
+    "name_ingame": "Skellig Monastery",
+    "name_real": "Skellig Michael",
+    "lat": 51.771,
+    "lon": -10.541,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Beehive huts crown the sea stack monastery off Ireland's coast.",
+    "description_full": "Island silhouette and terraced huts follow Skellig Michael's summit; stair routes are widened and landing coves added to host raids.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Munster, 9th century",
+    "name_ingame": "Cashel",
+    "name_real": "Rock of Cashel",
+    "lat": 52.5206,
+    "lon": -7.8908,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Fortified chapel complex sits atop the limestone outcrop of Cashel.",
+    "description_full": "Valhalla places the royal enclosure on the real rock plateau; towers and halls are merged but the cliffside height and surrounding plain match the site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Normandy frontier, 9th century",
+    "name_ingame": "Mont-Saint-Michel",
+    "name_real": "Mont Saint-Michel",
+    "lat": 48.636,
+    "lon": -1.511,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Tidal abbey island rises from the bay in Siege of Paris content.",
+    "description_full": "Rocky mount with encircling village follows the real tidal islet; cloisters and walls are condensed to speed traversal but keep the stepped climb.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Frankish Paris, 885 CE",
+    "name_ingame": "Basilica of Saint-Denis",
+    "name_real": "Basilique Saint-Denis",
+    "lat": 48.9369,
+    "lon": 2.3575,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Royal necropolis north of Paris anchors a major Siege of Paris raid.",
+    "description_full": "Gothic choir and twin-towered facade mirror the true basilica footprint; surrounding town is compressed but the abbey's position along the Seine is accurate.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "\u00cele-de-France, 885 CE",
+    "name_ingame": "Melun",
+    "name_real": "Melun",
+    "lat": 48.5397,
+    "lon": 2.6554,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "River island town along the Seine serves as a Siege of Paris stronghold.",
+    "description_full": "Settlement sits on the Seine islet at Melun's real location; bridges and keep are scaled down but river orientation and bend match the modern city.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Carolingian Paris, 885 CE",
+    "name_ingame": "Saint-Germain-des-Pr\u00e9s",
+    "name_real": "Abbey of Saint-Germain-des-Pr\u00e9s",
+    "lat": 48.8525,
+    "lon": 2.333,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Left Bank abbey appears as a fortified Parisian district in Valhalla.",
+    "description_full": "Monastery grounds occupy their historic parcel on the Seine's south bank; cloisters are simplified but the Romanesque tower placement mirrors the real abbey.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Anglo-Saxon Kent, 9th century",
+    "name_ingame": "Canterbury",
+    "name_real": "Canterbury Cathedral",
+    "lat": 51.2797,
+    "lon": 1.083,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor visits the great cathedral of Canterbury in Valhalla's Kent arc.",
+    "description_full": "Cathedral stands on its authentic hilltop close to the city walls; nave and cloisters are truncated but altar orientation and town layout match the real site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "White Cliffs of Dover, 9th century",
+    "name_ingame": "Dover Cliffs",
+    "name_real": "White Cliffs of Dover",
+    "lat": 51.129,
+    "lon": 1.3604,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Bright chalk cliffs guard the Kentish coast at Valhalla's edge.",
+    "description_full": "Sea-facing chalk walls sit at their real coastal stretch; fortifications are fictional, but cliff height, shoreline curve, and sightlines to the Channel are true.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Mercian Lincoln, 9th century",
+    "name_ingame": "Lincolne",
+    "name_real": "Lincoln Cathedral",
+    "lat": 53.2344,
+    "lon": -0.5386,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Hilltop Lincoln Cathedral crowns Eivor's Mercian alliance quest.",
+    "description_full": "Cathedral occupies the real Norman ridge inside Lincoln's walls; transepts are compressed but the steep climb and castle-adjacent close mirror the city.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Oxfordshire, 9th century",
+    "name_ingame": "Oxeneforda",
+    "name_real": "Oxford",
+    "lat": 51.752,
+    "lon": -1.2577,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "University town appears as a fortified river crossing in Valhalla.",
+    "description_full": "Settlement straddles the Thames at Oxford's real ford; colleges are anachronistic, but street grid and castle mound mirror the historic core.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Fenlands, 9th century",
+    "name_ingame": "Ely Monastery",
+    "name_real": "Ely Cathedral",
+    "lat": 52.3984,
+    "lon": 0.2628,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Isle of Ely's towering cathedral rises from the marshes in Valhalla.",
+    "description_full": "Ely sits on its elevated island amid the Fens; nave and octagon are simplified, but the promontory setting and surrounding wetlands align to the real landscape.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Wiltshire, 9th century",
+    "name_ingame": "Stonehenge",
+    "name_real": "Stonehenge",
+    "lat": 51.1789,
+    "lon": -1.8262,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Megalithic Stonehenge serves as a standing stone mystery for Eivor.",
+    "description_full": "Stone circle sits on Salisbury Plain at its true site; outer banks and nearby cursus are reduced for space, but trilithon layout matches the real monument.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Mercia, 9th century",
+    "name_ingame": "St. Albanes",
+    "name_real": "St Albans Cathedral",
+    "lat": 51.7527,
+    "lon": -0.3398,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Abbey at Verulamium features in Valhalla's Mercian routes.",
+    "description_full": "Cathedral rises on its hilltop outside Roman walls at the real St Albans site; nave is shortened but tower placement and surrounding ruins mirror the location.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Northumbria, 9th century",
+    "name_ingame": "Bamburgh",
+    "name_real": "Bamburgh Castle",
+    "lat": 55.6086,
+    "lon": -1.7095,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Clifftop fortress at Bamburgh anchors Valhalla's northern coast.",
+    "description_full": "Castle occupies its real basalt outcrop above the North Sea; curtain walls and keep are condensed, yet the promontory shape and beach access follow reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Mercian Nottinghamshire, 9th century",
+    "name_ingame": "Snotingham",
+    "name_real": "Nottingham",
+    "lat": 52.9548,
+    "lon": -1.1581,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla portrays Nottingham as a fortified river town in Mercia.",
+    "description_full": "Town sits on the River Trent near the real settlement; castle mound and market square are simplified but align with Nottingham's historic hill and crossing.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Sinai, 1st century BCE",
+    "name_ingame": "Mount Sinai Monastery",
+    "name_real": "Saint Catherine's Monastery",
+    "lat": 28.555,
+    "lon": 33.976,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Hidden Ones expansion sends Bayek to the remote monastery on Sinai.",
+    "description_full": "Walled basilica and library sit at the base of the real Mount Sinai massif; paths are shortened for play but oasis setting and enclosure match the UNESCO site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Lower Egypt, 49 BCE",
+    "name_ingame": "Serapeum of Saqqara",
+    "name_real": "Serapeum of Saqqara",
+    "lat": 29.8711,
+    "lon": 31.2163,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Underground Apis bull catacombs lie beneath Saqqara's plateau.",
+    "description_full": "Origins places the hypogea under the Saqqara escarpment at their real location; tunnels are widened and condensed but follow the necropolis alignment.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Upper Egypt, 49 BCE",
+    "name_ingame": "Dendera",
+    "name_real": "Temple of Hathor at Dendera",
+    "lat": 26.1415,
+    "lon": 32.6697,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Painted hypostyle halls of Dendera appear in Origins' Nile travels.",
+    "description_full": "Complex stands on the west bank at its real position; roof reliefs and pronaos are intact though shrunk to match the explorable precinct.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Upper Egypt, 49 BCE",
+    "name_ingame": "Kom Ombo",
+    "name_real": "Temple of Kom Ombo",
+    "lat": 24.4524,
+    "lon": 32.9287,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Twin temples to Sobek and Horus sit on the Nile bend in Origins.",
+    "description_full": "Sanctuary rests on its riverside rise north of Aswan; courts are compressed but dual-axis design and cliffside vantage mirror the historical layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Nubia frontier, 49 BCE",
+    "name_ingame": "Abu Simbel",
+    "name_real": "Great Temple of Abu Simbel",
+    "lat": 22.3373,
+    "lon": 31.6258,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Colossal seated statues guard the cliff-cut temple south of Aswan.",
+    "description_full": "Origins places the rock temple at its real lakeside site; surrounding terrain is smoothed but facade scale and axis toward the Nile mirror the monument.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Faiyum, 49 BCE",
+    "name_ingame": "Hawara Pyramid",
+    "name_real": "Pyramid of Amenemhat III at Hawara",
+    "lat": 29.2135,
+    "lon": 30.9003,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Ruined Hawara pyramid and labyrinth appear near Lake Moeris.",
+    "description_full": "Site is placed on the desert edge south of modern Hawara; labyrinth interior is fictional, but pyramid footprint and nearby canal align with the archaeology.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Mycenaean Argolid, 431 BCE",
+    "name_ingame": "Lion Gate",
+    "name_real": "Mycenae Lion Gate",
+    "lat": 37.7317,
+    "lon": 22.754,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey features the citadel of Mycenae with its famed Lion Gate.",
+    "description_full": "Hilltop palace walls sit on the true acropolis above the Argolid plain; gate and tholos tombs are scaled for traversal but follow Mycenae's layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Corinthia, 431 BCE",
+    "name_ingame": "Akrokorinth",
+    "name_real": "Acrocorinth",
+    "lat": 37.9045,
+    "lon": 22.8715,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Fortified Acrocorinth towers above Korinth in Odyssey's Peloponnese.",
+    "description_full": "Citadel crowns the real limestone monolith; walls and temples are condensed but the steep switchbacks and gulf views mirror the historic fortress.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Argolis, 431 BCE",
+    "name_ingame": "Theater of Epidaurus",
+    "name_real": "Ancient Theatre of Epidaurus",
+    "lat": 37.5965,
+    "lon": 23.0764,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Perfectly tiered theater hosts cult plays and conspirators in Odyssey.",
+    "description_full": "Auditorium sits on its authentic hillside; seating count is reduced but stage orientation, skene backdrop, and Asclepius sanctuary context match the site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Saronic Gulf, 431 BCE",
+    "name_ingame": "Temple of Aphaia",
+    "name_real": "Temple of Aphaia on Aegina",
+    "lat": 37.747,
+    "lon": 23.525,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Aegina's hilltop Doric temple overlooks Odyssey's Saronic waters.",
+    "description_full": "Temple sits on the same crest as the real ruin; columns and cella are intact but scaled down, keeping the island vista and triangular layout of the original.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Naxos, 421 BCE",
+    "name_ingame": "Portara",
+    "name_real": "Portara of Naxos",
+    "lat": 37.1097,
+    "lon": 25.372,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Massive marble doorway stands on the harbor islet in Odyssey's Naxos.",
+    "description_full": "Gateway sits on the real Palatia islet at the harbor mouth; surrounding city is compressed, but the causeway and sea-facing frame match the monument's setting.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Samos, 431 BCE",
+    "name_ingame": "Heraion of Samos",
+    "name_real": "Temple of Hera, Samos",
+    "lat": 37.6761,
+    "lon": 26.8907,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Sanctuary of Hera appears near Samos' coast in Odyssey.",
+    "description_full": "Temple stands on its low plain by the Imbrasos; columns are partially standing like the ruin today, with the processional road and harbor placement intact.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Nemea, 431 BCE",
+    "name_ingame": "Temple of Zeus at Nemea",
+    "name_real": "Temple of Zeus, Nemea",
+    "lat": 37.819,
+    "lon": 22.728,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Nemean sanctuary hosts athletic quests in Odyssey's Korinthia.",
+    "description_full": "Ruins sit on the real valley floor; surviving columns and stadium nearby are simplified but positioned to mirror the archaeological park.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Messenia, 431 BCE",
+    "name_ingame": "Palace of Nestor",
+    "name_real": "Palace of Nestor at Pylos",
+    "lat": 37.0274,
+    "lon": 21.6944,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Mycenaean palace above Pylos features in Odyssey's southwest coast.",
+    "description_full": "Hilltop complex overlooks Navarino Bay at the real Ano Englianos site; megaron and storerooms are reconstructed but match the footprint of excavated walls.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Messenia, 431 BCE",
+    "name_ingame": "Messene Stadium",
+    "name_real": "Stadium of Ancient Messene",
+    "lat": 37.1833,
+    "lon": 21.9233,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey recreates Messene's long stadium and colonnades.",
+    "description_full": "Stadium sits adjacent to the theatre on the real Messene grid; seating is reduced but the elongated track and flanking stoas mirror the archaeological park.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Epirus, 431 BCE",
+    "name_ingame": "Necromanteion",
+    "name_real": "Necromanteion of Acheron",
+    "lat": 39.2702,
+    "lon": 20.723,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Oracle of the dead stands above the Acheron marshlands in Odyssey.",
+    "description_full": "Sanctuary is placed on the hill above the confluence of the Acheron and Phlegethon; subterranean halls are exaggerated but sit on the real ruin footprint.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Lakonia, 431 BCE",
+    "name_ingame": "Mount Taygetos",
+    "name_real": "Mount Taygetos",
+    "lat": 36.961,
+    "lon": 22.349,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Sparta's looming Mount Taygetos hosts mythic leaps in Odyssey.",
+    "description_full": "Peak sits at the real summit above Sparta; slopes are tightened for climbing, but the jagged ridge line and view over the Eurotas valley follow reality.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Thermopylae, 431 BCE",
+    "name_ingame": "Hot Gates",
+    "name_real": "Thermopylae Pass",
+    "lat": 38.797,
+    "lon": 22.536,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "The Hot Gates battlefield opens Odyssey's tutorial flashback.",
+    "description_full": "Narrow coastal pass lies along the Malian Gulf at its real location; shoreline has receded historically, but the game mirrors the straitened corridor and hill.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Caria, 431 BCE",
+    "name_ingame": "Knidos",
+    "name_real": "Knidos Ruins",
+    "lat": 36.687,
+    "lon": 27.379,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Harbor twin bays of Knidos appear on Odyssey's Carian coast.",
+    "description_full": "City sits on the Dat\u00e7a peninsula tip like the real ruins; theatre and temples are restored but compressed, keeping the dual harbor layout accurate.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "China",
+    "era": "Ming Beijing, 1526",
+    "name_ingame": "Forbidden City",
+    "name_real": "Forbidden City",
+    "lat": 39.9163,
+    "lon": 116.397,
+    "media": [
+      "ACC"
+    ],
+    "description_short": "Chronicles: China has Shao Jun infiltrate Beijing's imperial palace.",
+    "description_full": "Palace sits inside Beijing's inner city walls; halls and courtyards are simplified side-scrolling spaces but mirror the north-south axis of the real complex.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "China",
+    "era": "Ming frontier, 1526",
+    "name_ingame": "Great Wall",
+    "name_real": "Great Wall at Mutianyu",
+    "lat": 40.4319,
+    "lon": 116.5704,
+    "media": [
+      "ACC"
+    ],
+    "description_short": "Chronicles depicts Mutianyu's ridgeline wall segment for platforming.",
+    "description_full": "Wall clings to the mountains northeast of Beijing at Mutianyu; tower spacing is compressed but the serpentine ridge and forested slopes match the real section.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "China",
+    "era": "Ming Henan, 1526",
+    "name_ingame": "Shaolin",
+    "name_real": "Shaolin Monastery",
+    "lat": 34.5094,
+    "lon": 113.009,
+    "media": [
+      "ACC"
+    ],
+    "description_short": "Shaolin Monastery serves as a refuge and training ground in Chronicles.",
+    "description_full": "Temple complex lies on Songshan's slopes at its real site; pagodas and training yards are stylized 2.5D spaces but keep the mountain backdrop and layout cues.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "India",
+    "era": "Mughal Delhi, 1841",
+    "name_ingame": "Red Fort",
+    "name_real": "Red Fort, Delhi",
+    "lat": 28.6562,
+    "lon": 77.241,
+    "media": [
+      "ACCI"
+    ],
+    "description_short": "Chronicles: India opens with the towering sandstone walls of Delhi's Red Fort.",
+    "description_full": "Fort stands along the Yamuna at its true footprint; inner courts are flattened for side-scrolling, yet the Lahori Gate approach and river-facing ramparts remain aligned.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "India",
+    "era": "Agra, 1841",
+    "name_ingame": "Taj Mahal",
+    "name_real": "Taj Mahal",
+    "lat": 27.1751,
+    "lon": 78.0421,
+    "media": [
+      "ACCI"
+    ],
+    "description_short": "Marble mausoleum appears in Chronicles: India as a backdrop for stealth.",
+    "description_full": "Game recreates the riverside gardens and iconic tomb on the Yamuna; charbagh layout is compressed but dome and minaret silhouettes mirror the real monument.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "India",
+    "era": "Madhya Pradesh, 1841",
+    "name_ingame": "Gwalior Fort",
+    "name_real": "Gwalior Fort",
+    "lat": 26.2296,
+    "lon": 78.173,
+    "media": [
+      "ACCI"
+    ],
+    "description_short": "Clifftop Gwalior Fort forms a multi-tiered infiltration set in Chronicles.",
+    "description_full": "Fort sits on its sandstone plateau above the city; palaces and temples are stacked for traversal but keep the sheer rock face and skyline footprint of the real site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Russia",
+    "era": "Petrograd, 1918",
+    "name_ingame": "Winter Palace",
+    "name_real": "Winter Palace, Saint Petersburg",
+    "lat": 59.9398,
+    "lon": 30.3158,
+    "media": [
+      "ACCR"
+    ],
+    "description_short": "Chronicles: Russia stages a Bolshevik siege at the Winter Palace.",
+    "description_full": "Palace sits on the Neva embankment at its real address; interiors are linearized for side-scrolling, but facade scale and Palace Square orientation remain faithful.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Russia",
+    "era": "Moscow, 1918",
+    "name_ingame": "Kremlin",
+    "name_real": "Moscow Kremlin",
+    "lat": 55.7517,
+    "lon": 37.6177,
+    "media": [
+      "ACCR"
+    ],
+    "description_short": "Chronicles finale infiltrates the fortified Moscow Kremlin complex.",
+    "description_full": "Red brick walls and cathedrals occupy their real quadrilateral; towers are simplified but Spasskaya Gate and riverside orientation match the historic fortress.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Newfoundland, 1750s",
+    "name_ingame": "St. John's",
+    "name_real": "St. John's, Newfoundland",
+    "lat": 47.5615,
+    "lon": -52.7126,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Rogue charts the harbor town of St. John's on Newfoundland's coast.",
+    "description_full": "Town sits on the Atlantic harbor at its true coordinates; fortifications are heightened for naval gameplay but harbor shape and Signal Hill match reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Qu\u00e9bec, 1757",
+    "name_ingame": "Qu\u00e9bec",
+    "name_real": "Quebec City",
+    "lat": 46.8139,
+    "lon": -71.208,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Clifftop Quebec City overlooks the St. Lawrence in Rogue's campaign.",
+    "description_full": "Upper and Lower Towns occupy the real promontory; citadel and port are compressed but keep the steep escarpment and river bend of the historic city.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "Nova Scotia, 1757",
+    "name_ingame": "Louisbourg",
+    "name_real": "Fortress of Louisbourg",
+    "lat": 45.8977,
+    "lon": -59.972,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Walled French stronghold at Louisbourg appears in Rogue naval missions.",
+    "description_full": "Fortress sits on Cape Breton's harbor mouth at its historical location; bastions are simplified but the harbor, spit, and island batteries mirror the real layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Canada",
+    "era": "North Atlantic, 1757",
+    "name_ingame": "Halifax",
+    "name_real": "Halifax Harbour",
+    "lat": 44.6473,
+    "lon": -63.5724,
+    "media": [
+      "ACRogue"
+    ],
+    "description_short": "Rogue visits the nascent British naval base at Halifax Harbour.",
+    "description_full": "Settlement sits on Chebucto Bay at the real harbor; fortifications are early and simplified, but the twin peninsulas and harbor mouth align with geography.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Ohio River Valley, 1754",
+    "name_ingame": "Fort Duquesne",
+    "name_real": "Fort Duquesne (Pittsburgh)",
+    "lat": 40.441,
+    "lon": -80.009,
+    "media": [
+      "AC3"
+    ],
+    "description_short": "AC3 depicts the French frontier fort where the Seven Years' War sparks.",
+    "description_full": "Fort sits at the forks of the Ohio where Pittsburgh stands today; ramparts are simplified but the peninsula layout and river meeting point mirror the historic site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Memphis Nome, 49 BCE",
+    "name_ingame": "Step Pyramid",
+    "name_real": "Pyramid of Djoser at Saqqara",
+    "lat": 29.8713,
+    "lon": 31.2167,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins lets Bayek climb the Step Pyramid rising from Saqqara's desert.",
+    "description_full": "The six-tiered pyramid stands on Saqqara's escarpment at its true coordinates; block scale is adjusted for traversal, but the stepped silhouette and surrounding mastabas follow the real complex.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Red Sea coast, 38 BCE",
+    "name_ingame": "Berenice Port",
+    "name_real": "Berenice Troglodytica",
+    "lat": 23.9459,
+    "lon": 35.4848,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins DLC adds the Roman trade port of Berenice on the Red Sea.",
+    "description_full": "Harbor lies on the real Ababda coast where Berenice once handled Indo-Roman trade; quays and warehouses are compressed, yet the bay orientation mirrors the archaeological site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Theban west bank, 49 BCE",
+    "name_ingame": "Valley of the Queens",
+    "name_real": "Queens' Valley (Thebes)",
+    "lat": 25.7337,
+    "lon": 32.5987,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins charts rock-cut tomb entrances along the Valley of the Queens.",
+    "description_full": "The necropolis sits southwest of Luxor at its real wadis; tombs are spaced for gameplay but align with the valley mouths and cliff faces of the historic burial ground.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Kharga Oasis, 49 BCE",
+    "name_ingame": "Temple of Hibis",
+    "name_real": "Hibis Temple",
+    "lat": 25.4396,
+    "lon": 30.546,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Desert side quests send Bayek to the Achaemenid-era Hibis Temple.",
+    "description_full": "Temple stands in Kharga Oasis where Hibis remains today; columns and hypostyle halls are simplified but the mudbrick enclosure and western desert backdrop match the site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Nile Delta, 49 BCE",
+    "name_ingame": "Tanis Ruins",
+    "name_real": "Tanis (San el-Hagar)",
+    "lat": 30.9595,
+    "lon": 31.8787,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins scatters broken pylons across the mudflats of Tanis in the Delta.",
+    "description_full": "The ruined capital sits on its real tell between Nile branches; obelisks and sarcophagi are condensed, yet the raised mounds and surrounding canals trace the archaeological plan.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Upper Egypt, 49 BCE",
+    "name_ingame": "Temple of Esna",
+    "name_real": "Temple of Khnum, Esna",
+    "lat": 25.293,
+    "lon": 32.554,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins features the hypostyle hall at Esna as a puzzle-filled shrine.",
+    "description_full": "The Khnum temple appears along the Nile at its real town site; roof height and reliefs are compressed, but the column forest and adjacent quay align with the modern location.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Theban west bank, 49 BCE",
+    "name_ingame": "Medinet Habu",
+    "name_real": "Mortuary Temple of Ramesses III",
+    "lat": 25.7301,
+    "lon": 32.6053,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Ramesses III's mortuary temple hosts combat arenas in Origins.",
+    "description_full": "Complex sits against the cliffs at its Luxor coordinates; pylons and courts are slightly shrunk but mirror the orthogonal plan and painted reliefs of the New Kingdom monument.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Meroitic border, 49 BCE",
+    "name_ingame": "Meroe Pyramids",
+    "name_real": "Pyramids of Meroe",
+    "lat": 16.937,
+    "lon": 33.7513,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins DLC visits the clustered Nubian pyramids at Meroe.",
+    "description_full": "Tombs rise on the desert ridges northeast of Shendi at the real royal cemetery; pyramid spacing is tightened but the orientation and sandstone forms follow the archaeological layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Iraq, 9th century",
+    "name_ingame": "Ukbara Canal",
+    "name_real": "Ukbara Town",
+    "lat": 33.5968,
+    "lon": 44.5393,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Mirage includes the canal town of Ukbara north of Baghdad.",
+    "description_full": "Settlement sits on the Tigris floodplain where Ukbara historically lay; waterworks and gardens are condensed, yet the river bend placement matches the real location.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Iraq, 9th century",
+    "name_ingame": "Samarra Palace",
+    "name_real": "Dar al-Khilafa (Jawsaq al-Khaqani)",
+    "lat": 34.2097,
+    "lon": 43.8733,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Mirage references the ruined caliphal palace complex at Samarra.",
+    "description_full": "The palace footprint appears on the Tigris bank where Jawsaq stood; courtyards are simplified ruins but the axial layout and location north of Baghdad echo the historic site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iraq",
+    "era": "Abbasid Mesopotamia, 9th century",
+    "name_ingame": "Mosul",
+    "name_real": "Mosul",
+    "lat": 36.3498,
+    "lon": 43.1332,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Mirage lore notes Mosul on the Tigris as a northern trade hub.",
+    "description_full": "City appears on maps at its real Tigris crossing; in-game depiction is compressed and largely referenced via travel notes, yet its placement relative to Baghdad matches reality.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Iran",
+    "era": "Daylamite mountains, 9th century",
+    "name_ingame": "Alamut",
+    "name_real": "Alamut Castle",
+    "lat": 36.5256,
+    "lon": 50.589,
+    "media": [
+      "ACM"
+    ],
+    "description_short": "Mirage nods toward the mountain fortress of Alamut in Assassin lore.",
+    "description_full": "Castle is referenced west of Tehran where the real stronghold crowns a ridge; only briefly seen, but the placement in the Elburz foothills mirrors the historic Assassin seat.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Cappadocia, 1511",
+    "name_ingame": "Kaymakli",
+    "name_real": "Kaymakli Underground City",
+    "lat": 38.472,
+    "lon": 34.7378,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Ezio infiltrates a Templar stronghold in Cappadocia's underground city.",
+    "description_full": "The warren of halls sits beneath the Cappadocian plateau where Kaymakli's tunnels exist; chambers are expanded for navigation, yet volcanic tuff corridors and ventilation shafts match the real site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Istanbul, 1511",
+    "name_ingame": "Topkapi Arsenal",
+    "name_real": "Topkapi Palace Outer Arsenal",
+    "lat": 41.0115,
+    "lon": 28.9847,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Revelations features the palace arsenal along the Golden Horn.",
+    "description_full": "Workshops line the sea walls on the peninsula where the Ottoman arsenal operated; building count is trimmed, but the shoreline siting between palace and shipyard tracks the real complex.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Turkey",
+    "era": "Bithynia, 1511",
+    "name_ingame": "Bursa",
+    "name_real": "Bursa Citadel",
+    "lat": 40.1826,
+    "lon": 29.0669,
+    "media": [
+      "ACR"
+    ],
+    "description_short": "Revelations sends couriers through the walled heights of Bursa.",
+    "description_full": "Hilltop fortress sits south of the Marmara at its real ridge; gatehouses and mosques are simplified, yet the stepped walls and view toward Uluda\u011f mirror Bursa's old citadel.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Laconia, 431 BCE",
+    "name_ingame": "Amyklai",
+    "name_real": "Sanctuary of Apollo Amyklaios",
+    "lat": 37.0283,
+    "lon": 22.4338,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey marks the Spartan sanctuary of Amyklai south of Sparta.",
+    "description_full": "Sanctuary sits near modern Amykles on its hill; the colossal throne monument is reconstructed for gameplay, but the countryside placement and river nearby reflect the historic site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Arcadia, 431 BCE",
+    "name_ingame": "Mount Lykaon",
+    "name_real": "Lykaion Zeus Sanctuary",
+    "lat": 37.4295,
+    "lon": 22.0502,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey recreates the mountain-top altar of Zeus on Mount Lykaon.",
+    "description_full": "Peak shrine sits in central Arcadia at its real summit; trails are dramatized for climbing, but the ash altar and twin peaks mirror the historic sanctuary's position.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Euboea, 431 BCE",
+    "name_ingame": "Chalcis Bridge",
+    "name_real": "Euripus Strait at Chalcis",
+    "lat": 38.4636,
+    "lon": 23.6021,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey highlights the narrow Euripus Strait crossing at Chalcis.",
+    "description_full": "Bridge spans the tidal strait between Euboea and mainland at the real chokepoint; structure is simplified but the channel's narrow width and city placement match geography.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Thessaly, 431 BCE",
+    "name_ingame": "Larissa",
+    "name_real": "Larissa Acropolis",
+    "lat": 39.6411,
+    "lon": 22.4167,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey maps the hilltop acropolis of Larissa in Thessaly.",
+    "description_full": "City is placed on the Peneus River plain at its true coordinates; walls and theater are compressed, yet the acropolis mound and river loop mirror the real Larissa layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Thrace, 431 BCE",
+    "name_ingame": "Abdera",
+    "name_real": "Abdera Ruins",
+    "lat": 40.9924,
+    "lon": 24.9756,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Northern Odyssey quests visit the coastal polis of Abdera.",
+    "description_full": "Town sits on the Thracian shore near modern Avdira; fortifications are rebuilt for missions, but the harbor bay and island-dotted coast align with the archaeological site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Aegean Sea, 431 BCE",
+    "name_ingame": "Samothrace",
+    "name_real": "Sanctuary of the Great Gods, Samothrace",
+    "lat": 40.4732,
+    "lon": 25.527,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey depicts the mystery cult terraces on Samothrace's slopes.",
+    "description_full": "Sanctuary is perched on the island's north slopes where the ruins stand; terraces are compacted but the stream, theater, and monumental precinct match the real layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Northumbria, 873 CE",
+    "name_ingame": "Lindisfarne",
+    "name_real": "Holy Island of Lindisfarne",
+    "lat": 55.669,
+    "lon": -1.799,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla river raids target the tidal monastery at Lindisfarne.",
+    "description_full": "Island monastery sits off the Northumberland coast at its true tidal flats; abbey ruins and priory are condensed, yet the causeway and harbor match the real Holy Island setting.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Northumbria, 873 CE",
+    "name_ingame": "Hadrian's Wall",
+    "name_real": "Hadrian's Wall at Housesteads",
+    "lat": 55.013,
+    "lon": -2.331,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla lets Eivor scale segments of Hadrian's Wall in Northumbria.",
+    "description_full": "Stone rampart runs east-west across the moors at its real line; forts are compressed to single keeps, but the ditch, turrets, and crags follow the Housesteads stretch of the wall.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Wessex, 873 CE",
+    "name_ingame": "Winchester Cathedral",
+    "name_real": "Old Minster site, Winchester",
+    "lat": 51.062,
+    "lon": -1.316,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla situates Alfred's seat beside the great church at Winchester.",
+    "description_full": "Cathedral complex sits along the River Itchen at its real location; nave scale is reduced but the close, city walls, and palace adjacency mirror Anglo-Saxon Winchester.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "Snotinghamscire, 873 CE",
+    "name_ingame": "Sherwood Forest",
+    "name_real": "Sherwood Forest",
+    "lat": 53.186,
+    "lon": -1.065,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla's northern shires include the oaks and clearings of Sherwood.",
+    "description_full": "The woodland lies north of Nottingham at its real extent; trees and camps are gamified, but the rolling heathland and proximity to the River Trent reflect the historic royal forest.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Ireland, 879 CE",
+    "name_ingame": "Dublin",
+    "name_real": "Dubhlinn Viking Longphort",
+    "lat": 53.3498,
+    "lon": -6.2603,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Wrath of the Druids DLC rebuilds the Norse trading town of Dublin.",
+    "description_full": "Settlement sits on the River Liffey where Dublin grew; ramparts and quays are condensed, yet the longphort harbor, Thing square, and Christchurch ridge match the historical core.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Ireland, 879 CE",
+    "name_ingame": "Giant's Causeway",
+    "name_real": "Giant's Causeway",
+    "lat": 55.2408,
+    "lon": -6.5116,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla's Ireland DLC features the basalt columns of the Giant's Causeway.",
+    "description_full": "Hexagonal basalt stacks rise on Antrim's coast at their real headland; scale is slightly reduced for traversal, but the cliffside amphitheater shape mirrors the UNESCO site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 885 CE",
+    "name_ingame": "Pont-de-l'Arche",
+    "name_real": "Pont-de-l'Arche Bridge Fort",
+    "lat": 49.2731,
+    "lon": 1.1509,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Siege of Paris DLC blocks the Seine with the fortified bridge at Pont-de-l'Arche.",
+    "description_full": "Bridge-fort sits on the Eure-Seine confluence at its authentic choke point; towers are enlarged for assaults, yet the island placement and twin abutments follow medieval defenses.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 885 CE",
+    "name_ingame": "Abbey of Saint-Germain-des-Pr\u00e9s",
+    "name_real": "Saint-Germain-des-Pr\u00e9s Abbey",
+    "lat": 48.8533,
+    "lon": 2.3331,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Siege of Paris DLC includes the riverfront abbey of Saint-Germain-des-Pr\u00e9s.",
+    "description_full": "Monastery lies on the Left Bank where the real abbey stood; cloister and tower are simplified, but the placement beside the Seine and surrounding suburbia mirror its historic footprint.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1789",
+    "name_ingame": "Place de la Concorde",
+    "name_real": "Place de la Concorde",
+    "lat": 48.8656,
+    "lon": 2.3211,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity renders the revolutionary execution ground at Place de la Concorde.",
+    "description_full": "Square spans the Seine edge where Louis XV Place stood; guillotine staging is dramatized, but the bridging axes to Tuileries and Champs-\u00c9lys\u00e9es trace the real Parisian layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1789",
+    "name_ingame": "H\u00f4tel de Ville",
+    "name_real": "H\u00f4tel de Ville, Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity stages riots on the square of Paris's H\u00f4tel de Ville.",
+    "description_full": "City hall fronts the Seine at its real coordinates; facade reflects the 18th-century design, and the plaza orientation toward the river matches the historic civic center.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1789",
+    "name_ingame": "Palais-Royal",
+    "name_real": "Palais-Royal",
+    "lat": 48.8638,
+    "lon": 2.3376,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity maps the arcaded gardens of the Palais-Royal as a social hub.",
+    "description_full": "Palace complex sits north of the Louvre at its real block; gardens and galleries are slightly compressed but retain the rectangular layout and colonnades of the historic site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1789",
+    "name_ingame": "Saint-Sulpice",
+    "name_real": "Church of Saint-Sulpice",
+    "lat": 48.8517,
+    "lon": 2.3399,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity features the dual-towered Saint-Sulpice on Paris's Left Bank.",
+    "description_full": "The basilica rises over its plaza at the real Rue Bonaparte site; interiors are simplified for parkour, yet the nave scale, twin towers, and fountain align with the historic church.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "King's Cross Station",
+    "name_real": "London King's Cross",
+    "lat": 51.5308,
+    "lon": -0.1238,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate includes the arched train sheds of King's Cross Station.",
+    "description_full": "Station sits on the Euston Road where it stands today; concourses are tightened for gameplay, but the twin arched roofs and clock tower frontage mirror the Victorian terminus.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "Houses of Parliament",
+    "name_real": "Palace of Westminster",
+    "lat": 51.4995,
+    "lon": -0.1248,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate showcases the Gothic Revival Houses of Parliament along the Thames.",
+    "description_full": "Complex occupies its true riverbank footprint; interiors are curtailed, but Big Ben's tower, river terrace, and courtyard arrangement reflect the real Westminster palace.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "British Museum",
+    "name_real": "British Museum",
+    "lat": 51.5194,
+    "lon": -0.127,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate opens the neoclassical British Museum for rooftop infiltrations.",
+    "description_full": "Museum sits on Great Russell Street at its real site; galleries are truncated for missions, but the portico, courtyard, and Bloomsbury street grid match the historic layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "St. Pancras",
+    "name_real": "St Pancras Renaissance Hotel and Station",
+    "lat": 51.5314,
+    "lon": -0.126,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate models the red-brick St. Pancras frontage beside the rail yards.",
+    "description_full": "The Gothic hotel and train shed occupy their real corner near Euston Road; interiors are limited, but the soaring clock tower and arched canopy mirror the Victorian landmark.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United Kingdom",
+    "era": "London, 1868",
+    "name_ingame": "Covent Garden",
+    "name_real": "Covent Garden Market",
+    "lat": 51.5116,
+    "lon": -0.1225,
+    "media": [
+      "ACS"
+    ],
+    "description_short": "Syndicate's borough map includes the iron-and-glass halls of Covent Garden.",
+    "description_full": "Market sits between the Strand and Holborn at its real piazza; stalls are compressed but the arched roof, surrounding arcades, and proximity to the theater district reflect reality.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "United States",
+    "era": "Louisiana, 1765",
+    "name_ingame": "St. Louis Cathedral",
+    "name_real": "St. Louis Cathedral, New Orleans",
+    "lat": 29.9574,
+    "lon": -90.0627,
+    "media": [
+      "ACL"
+    ],
+    "description_short": "Liberation centers its New Orleans skyline on St. Louis Cathedral at Jackson Square.",
+    "description_full": "Cathedral fronts the Mississippi at its real French Quarter site; spires and plaza are slightly compressed, but the tri-steeple facade and flanking Cabildo match the historic square.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Haiti",
+    "era": "Saint-Domingue, 1770s",
+    "name_ingame": "Cap-Fran\u00e7ais",
+    "name_real": "Cap-Ha\u00eftien",
+    "lat": 19.7578,
+    "lon": -72.2043,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag and Freedom Cry visit the colonial port of Cap-Fran\u00e7ais.",
+    "description_full": "Port city sits on the bay north of Haiti where Cap-Ha\u00eftien stands; street grid is compacted, yet the harbor, fort, and mountain backdrop mirror the historic Saint-Domingue capital.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Colombia",
+    "era": "Spanish Main, 1715",
+    "name_ingame": "Cartagena",
+    "name_real": "Cartagena de Indias",
+    "lat": 10.391,
+    "lon": -75.4794,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag charts the walled Caribbean bastion of Cartagena.",
+    "description_full": "City sits on its Caribbean bay with fortified walls and Bocagrande peninsula; bastions are simplified, yet the harbor mouth and stone ramparts mirror the UNESCO-listed old city.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Cuba",
+    "era": "Spanish Main, 1715",
+    "name_ingame": "Santiago",
+    "name_real": "Santiago de Cuba",
+    "lat": 20.0239,
+    "lon": -75.8213,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag includes the southeastern Cuban port of Santiago as a trading town.",
+    "description_full": "Town hugs the bay beneath the Sierra Maestra at its real coordinates; streets are compressed, but the harbor curve and coastal fortifications reflect the colonial settlement.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Barbados",
+    "era": "Caribbean, 1715",
+    "name_ingame": "Bridgetown",
+    "name_real": "Bridgetown",
+    "lat": 13.0975,
+    "lon": -59.6187,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Naval contracts mention Bridgetown's harbor in Black Flag's Caribbean map.",
+    "description_full": "Harbor city sits on Carlisle Bay at its real position; in-game depiction is brief and compressed to docks, but the bay orientation and peninsula match the Barbadian capital.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Puerto Rico",
+    "era": "Caribbean, 1715",
+    "name_ingame": "San Juan",
+    "name_real": "San Juan Bautista",
+    "lat": 18.4655,
+    "lon": -66.1057,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag charts San Juan's harbor as a Spanish trade stop.",
+    "description_full": "City lies on its Atlantic islet connected by bridges; Castillo walls are simplified, yet the harbor mouth and lagoon setting mirror the real colonial capital of Puerto Rico.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Mexico",
+    "era": "Spanish Main, 1715",
+    "name_ingame": "Campeche",
+    "name_real": "San Francisco de Campeche",
+    "lat": 19.8463,
+    "lon": -90.5275,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag's map nods to the fortified Gulf port of Campeche.",
+    "description_full": "Town is placed on the Bay of Campeche at its real coordinates; bastions are minimal in-game, but the polygonal walls and coastal angle reflect the Spanish fortified layout.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Guadeloupe",
+    "era": "Caribbean, 1715",
+    "name_ingame": "Basse-Terre",
+    "name_real": "Basse-Terre, Guadeloupe",
+    "lat": 15.9985,
+    "lon": -61.7255,
+    "media": [
+      "AC4"
+    ],
+    "description_short": "Black Flag charts Basse-Terre as a French-held sugar island harbor.",
+    "description_full": "Settlement sits on Guadeloupe's western flank at its real harbor; fort and streets are compressed, yet the mountainous backdrop and bay placement match the Caribbean town.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Macau",
+    "era": "Portuguese Macau, 1526",
+    "name_ingame": "Fortaleza do Monte",
+    "name_real": "Fortaleza do Monte",
+    "lat": 22.1964,
+    "lon": 113.5392,
+    "media": [
+      "ACC"
+    ],
+    "description_short": "Chronicles: China finale storms the hilltop Fortaleza do Monte in Macau.",
+    "description_full": "Fort crowns the Macau peninsula at its real hill; ramparts are linearized for 2.5D traversal, but the commanding view over the port and triangular bastions mirror the historic stronghold.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "India",
+    "era": "Jaipur, 1841",
+    "name_ingame": "Amber Palace",
+    "name_real": "Amer Fort",
+    "lat": 26.9855,
+    "lon": 75.8517,
+    "media": [
+      "ACCI"
+    ],
+    "description_short": "Chronicles: India sneaks through the stepped courtyards of Amer Fort.",
+    "description_full": "Fort sits on the Aravalli slopes above Maota Lake at its real site; courtyards are flattened for platforming, yet the zigzag ascent and lakefront mirroring the Rajput palace remain.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "India",
+    "era": "Punjab, 1841",
+    "name_ingame": "Lahore Fort",
+    "name_real": "Lahore Fort",
+    "lat": 31.5889,
+    "lon": 74.3105,
+    "media": [
+      "ACCI"
+    ],
+    "description_short": "Chronicles: India references the Mughal Lahore Fort amid Sikh conflicts.",
+    "description_full": "Citadel lies north of the Walled City at its true footprint; representation is brief and compressed, but the Sheesh Mahal terraces and gate axes echo the historic fort complex.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Russia",
+    "era": "Petrograd, 1918",
+    "name_ingame": "Smolny Institute",
+    "name_real": "Smolny Institute, Saint Petersburg",
+    "lat": 59.9465,
+    "lon": 30.3961,
+    "media": [
+      "ACCR"
+    ],
+    "description_short": "Chronicles: Russia features the revolutionary headquarters at Smolny Institute.",
+    "description_full": "Neoclassical complex stands on the Okhta bank at its real address; interiors are side-scrolling corridors, yet the twin-towered cathedral backdrop and riverfront placement mirror the site.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Northwic, 9th century",
+    "name_ingame": "Northwic",
+    "name_real": "Norwich",
+    "lat": 52.6309,
+    "lon": 1.2974,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla renders Northwic as the Norse-held town of Norwich in East Anglia.",
+    "description_full": "Settlement sits on the River Wensum where Norwich grew; ramparts and stilted docks are compressed, yet the street grid and cathedral mound mirror the early medieval port.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Colcestre, 9th century",
+    "name_ingame": "Colcestre",
+    "name_real": "Colchester",
+    "lat": 51.8892,
+    "lon": 0.9042,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor besieges Colcestre, Valhalla's take on Colchester in Essexe.",
+    "description_full": "Fortified town sits on its Roman-era hill above the Colne; walls and forum are shrunk for traversal, yet Balkerne Gate and the castle keep mark the true core of Colchester.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Cisseceaster, 9th century",
+    "name_ingame": "Cisseceaster",
+    "name_real": "Chichester",
+    "lat": 50.837,
+    "lon": -0.7749,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla portrays Cisseceaster as a Saxon port at modern Chichester.",
+    "description_full": "Town lies on the coastal plain west of the South Downs at its real site; market lanes and churchyards are simplified but align to Chichester's Roman grid and harbor approach.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Mercia, 873 CE",
+    "name_ingame": "Repton Camp",
+    "name_real": "Repton",
+    "lat": 52.8416,
+    "lon": -1.5499,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Repton serves as the Great Heathen Army's riverside camp in Valhalla.",
+    "description_full": "Encampment sits on the River Trent bend where the Viking Great Army over-wintered; mound and churchyard match the real monastery grounds, though fortifications are expanded for play.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Mercia, 9th century",
+    "name_ingame": "Tamworth Fortress",
+    "name_real": "Tamworth",
+    "lat": 52.6321,
+    "lon": -1.6916,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor assaults Tamworth, Offa's former seat on the River Tame.",
+    "description_full": "Hilltop burh rises at the confluence of the Tame and Anker where Tamworth Castle stands today; palisades and halls are compressed but oriented to the historic royal enclosure.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Deva Victrix, 9th century",
+    "name_ingame": "Chester",
+    "name_real": "Chester",
+    "lat": 53.1934,
+    "lon": -2.8931,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla reuses Roman walls to frame the Saxon town of Chester.",
+    "description_full": "City sits on the River Dee at its authentic site; amphitheater ruins and grid streets echo the Roman fortress plan, albeit compressed into a smaller, climbable core.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Glowecestre, 9th century",
+    "name_ingame": "Glowecestre",
+    "name_real": "Gloucester",
+    "lat": 51.8642,
+    "lon": -2.2382,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Glowecestre appears as a festival town along the Severn in Valhalla.",
+    "description_full": "Settlement sits on the east bank of the River Severn matching Gloucester's site; timber halls and druidic mounds compress the real Roman grid and cathedral close into a small hub.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Wessex frontier, 9th century",
+    "name_ingame": "Exeter",
+    "name_real": "Exeter",
+    "lat": 50.7184,
+    "lon": -3.5339,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor visits Exeter's fortified burh on the River Exe.",
+    "description_full": "Town occupies the real ridge above the Exe; walls and gatehouses are shrunk for traversal, yet the cathedral green and quay sit where medieval Exeter developed.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Northumbria, 9th century",
+    "name_ingame": "Bamburgh",
+    "name_real": "Bamburgh Castle",
+    "lat": 55.6089,
+    "lon": -1.7071,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla crowns the coastal headland of Bamburgh with its fortress hall.",
+    "description_full": "Stronghold occupies the same Whin Sill promontory as the real Bamburgh Castle; curtain walls are simplified but the cliffside approach and keep placement mirror the site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "England",
+    "era": "Dunholm, 9th century",
+    "name_ingame": "Dunholm",
+    "name_real": "Durham",
+    "lat": 54.7753,
+    "lon": -1.5849,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Cathedral hill of Dunholm anchors Valhalla's Durham arc.",
+    "description_full": "Town sits on the River Wear peninsula where Durham stands; cathedral and castle are foreshortened to fit the ridge, yet the looping river gorge and bridgeheads match reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Meath, 9th century",
+    "name_ingame": "Hill of Tara",
+    "name_real": "Hill of Tara",
+    "lat": 53.5799,
+    "lon": -6.6106,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Wrath of the Druids marks the ceremonial Hill of Tara in Meath.",
+    "description_full": "Sacred hill sits exactly on its ridge above the Boyne valley; raths and earthworks are simplified circles, but the axial approach and summit mounds follow the archaeological site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Aileach, 9th century",
+    "name_ingame": "Grianan of Aileach",
+    "name_real": "Grianan of Aileach",
+    "lat": 55.0235,
+    "lon": -7.0395,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Stone ringfort of Aileach overlooks Lough Swilly in Valhalla's Ireland.",
+    "description_full": "Hillfort crowns the same summit west of Derry; concentric walls are opened for combat and interior tiers flattened, yet its view over the loughs matches the real monument.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Shannon Valley, 9th century",
+    "name_ingame": "Clonmacnoise",
+    "name_real": "Clonmacnoise Monastery",
+    "lat": 53.326,
+    "lon": -7.9886,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Valhalla visits the ruined monastic city of Clonmacnoise on the Shannon.",
+    "description_full": "Round towers and high crosses stand on the true boggy terrace above the River Shannon; cloisters are condensed for navigation but aligned to the real cathedral ruins.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Royal Meath, 9th century",
+    "name_ingame": "Kells Monastery",
+    "name_real": "Abbey of Kells",
+    "lat": 53.7267,
+    "lon": -6.8791,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor helps safeguard the scriptorium at Kells in Wrath of the Druids.",
+    "description_full": "Abbey sits within its true enclosure north of the Blackwater; church and round tower are simplified but preserve the layout of the famous monastic site.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Ireland",
+    "era": "Airg\u00edalla, 9th century",
+    "name_ingame": "Armagh Hillfort",
+    "name_real": "Armagh",
+    "lat": 54.3491,
+    "lon": -6.6528,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Wrath of the Druids references Armagh's hilltop ecclesiastical seat.",
+    "description_full": "Settlement occupies the twin hillocks where Armagh grew around its cathedral; walls and courts are compressed, but the ridge-top layout mirrors the historical religious center.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Carolingian Paris, 9th century",
+    "name_ingame": "Melun Fort",
+    "name_real": "Melun",
+    "lat": 48.541,
+    "lon": 2.663,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Siege of Paris DLC sends Eivor to the Seine stronghold at Melun.",
+    "description_full": "Island citadel sits on the Seine bend at the real town of Melun; bridgeheads and ramparts are condensed but placed on the historic river islands guarding the approach to Paris.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Carolingian frontier, 9th century",
+    "name_ingame": "Chartres",
+    "name_real": "Chartres Cathedral",
+    "lat": 48.447,
+    "lon": 1.487,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Eivor passes Chartres and its hilltop church on the road to Paris.",
+    "description_full": "City appears as a compressed hill settlement on its true Beauce plateau; the cathedral mass crowns the ridge where the real Notre-Dame de Chartres stands, albeit at smaller scale.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Carolingian realm, 9th century",
+    "name_ingame": "Reims",
+    "name_real": "Reims Cathedral",
+    "lat": 49.2539,
+    "lon": 4.0347,
+    "media": [
+      "ACV"
+    ],
+    "description_short": "Reims is referenced as a royal coronation seat in Valhalla's Francia.",
+    "description_full": "Location sits on the Vesle plain where Reims lies; cathedral spires are simplified silhouettes, used as map landmarks rather than full interiors, but anchored to the correct hilltop.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1791",
+    "name_ingame": "Panth\u00e9on",
+    "name_real": "Panth\u00e9on, Paris",
+    "lat": 48.8462,
+    "lon": 2.3459,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity lets Arno scale the neoclassical Panth\u00e9on on Paris's Left Bank.",
+    "description_full": "Monument stands on the Montagne Sainte-Genevi\u00e8ve at its true site; interior is simplified but the dome, portico, and plaza orientation match the 18th-century landmark.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1791",
+    "name_ingame": "Palais du Luxembourg",
+    "name_real": "Luxembourg Palace",
+    "lat": 48.8462,
+    "lon": 2.3371,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity opens the gardens and fa\u00e7ades of the Palais du Luxembourg.",
+    "description_full": "Palace grounds lie on their real Left Bank block; wings are shortened and garden parterres simplified, yet the footprint and central dome mirror the historical Luxembourg estate.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1791",
+    "name_ingame": "Place Vend\u00f4me",
+    "name_real": "Place Vend\u00f4me",
+    "lat": 48.8687,
+    "lon": 2.3296,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Unity recreates the octagonal Place Vend\u00f4me with its columned square.",
+    "description_full": "Square sits north of the Tuileries at its real coordinates; fa\u00e7ades are slightly compressed but maintain the uniform arcades and central column footprint of the historic plaza.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "France",
+    "era": "Paris, 1791",
+    "name_ingame": "Palais-Royal",
+    "name_real": "Palais-Royal",
+    "lat": 48.8638,
+    "lon": 2.3375,
+    "media": [
+      "ACU"
+    ],
+    "description_short": "Arno stalks targets through the courtyards of the Palais-Royal in Unity.",
+    "description_full": "Complex occupies its true block north of the Louvre; arcades and gardens are simplified, yet the double courtyards and theater wing align with the historic palace layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Chalkidike, 5th century BCE",
+    "name_ingame": "Potidaia",
+    "name_real": "Potidaia",
+    "lat": 40.1878,
+    "lon": 23.441,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey features the siege-worn town of Potidaia on the Pallene isthmus.",
+    "description_full": "Settlement sits on the narrow neck of the Kassandra peninsula at its real site; walls and harbors are compressed but mirror the dual-coast position of classical Potidaia.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Macedonia, 5th century BCE",
+    "name_ingame": "Amphipolis",
+    "name_real": "Amphipolis",
+    "lat": 40.7636,
+    "lon": 23.8729,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Amphipolis appears as a fortified Strymon River town in Odyssey.",
+    "description_full": "City occupies the true loop of the Strymon; walls and wooden docks are reduced, yet the hilltop acropolis and riverside theatre align with the archaeological site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Lesbos, 5th century BCE",
+    "name_ingame": "Mytilene",
+    "name_real": "Mytilene",
+    "lat": 39.1076,
+    "lon": 26.5553,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey's island arc visits Mytilene, capital of Lesbos.",
+    "description_full": "Harbor town wraps around the southeastern peninsula of Lesbos at its real location; twin ports and acropolis ridge are simplified but oriented like historic Mytilene.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Ionia, 5th century BCE",
+    "name_ingame": "Chios City",
+    "name_real": "Chios",
+    "lat": 38.367,
+    "lon": 26.1356,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Chios City serves as a mastico harbor in Odyssey's eastern Aegean.",
+    "description_full": "Town hugs the east coast of Chios where the modern capital stands; shipyards and walls are condensed, yet the promontory harbor and hilltop keep match the real setting.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Cyclades, 5th century BCE",
+    "name_ingame": "Naxos City",
+    "name_real": "Naxos",
+    "lat": 37.1059,
+    "lon": 25.3762,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey's family arc returns to Naxos City in the central Cyclades.",
+    "description_full": "Harbor lies on the northwest coast where modern Naxos Town sits; the Portara causeway and hillside streets are shortened but match the real island capital's layout.",
+    "cFactor": 0.9
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Thera, 5th century BCE",
+    "name_ingame": "Thera Caldera",
+    "name_real": "Santorini (Thira)",
+    "lat": 36.4042,
+    "lon": 25.3964,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Thera's volcanic caldera hosts an Atlantis gateway in Odyssey.",
+    "description_full": "Island ring is placed at Santorini's real caldera; cliffs and Akrotiri ruins are condensed for traversal, and the mythic gateway is fictional but anchored to the southern cape.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Dodecanese, 5th century BCE",
+    "name_ingame": "Asklepieion of Kos",
+    "name_real": "Asklepieion of Kos",
+    "lat": 36.8793,
+    "lon": 27.28,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey climbs the terraced Asklepieion sanctuary on Kos.",
+    "description_full": "Healing complex sits on its hillside west of modern Kos town; terraces are merged for gameplay, yet the temple alignment and sea views mirror the real archaeological site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Dodecanese, 5th century BCE",
+    "name_ingame": "Rhodes City",
+    "name_real": "Rhodes",
+    "lat": 36.442,
+    "lon": 28.226,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Legacy of the First Blade brings Kassandra to Rhodes' harbor city.",
+    "description_full": "Port occupies the northeast tip of Rhodes at its true location; walls and colossus references are stylized, but the twin harbors and acropolis ridge match the historic town.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Epirus, 5th century BCE",
+    "name_ingame": "Oracle of Dodona",
+    "name_real": "Sanctuary of Zeus at Dodona",
+    "lat": 39.6508,
+    "lon": 20.7845,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey features the oak oracle of Dodona in Epirus.",
+    "description_full": "Sanctuary sits in the Tomaros foothills at its real meadow; theater and sacred oak are compressed into a small complex, keeping the valley orientation of the historic site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Epirus coast, 5th century BCE",
+    "name_ingame": "Nicopolis",
+    "name_real": "Nicopolis",
+    "lat": 39.0003,
+    "lon": 20.7337,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Nicopolis appears as a Roman-founded port on Odyssey's western shore.",
+    "description_full": "City sits on the Preveza peninsula at its historic site; walls and forum are downsized, but the twin harbors and ridge-top acropolis reflect the real Augustan foundation.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Magna Graecia, 5th century BCE",
+    "name_ingame": "Taras",
+    "name_real": "Taranto",
+    "lat": 40.4737,
+    "lon": 17.243,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey's western sailings reach Taras, the Spartan colony at Taranto.",
+    "description_full": "Harbor city sits on its natural inlet at the heel of Italy; acropolis and docks are simplified but positioned on the peninsula where ancient Taras thrived.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Italy",
+    "era": "Sicily, 5th century BCE",
+    "name_ingame": "Syracuse",
+    "name_real": "Syracuse",
+    "lat": 37.0755,
+    "lon": 15.2866,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Syracuse is featured as a fortified Sicilian harbor in Odyssey content.",
+    "description_full": "City occupies Ortigia Island at its true site; harbors and Greek theatre are compressed, yet the island causeway and coastal walls mirror classical Syracuse.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Crete, 5th century BCE",
+    "name_ingame": "Gortyn",
+    "name_real": "Gortyn",
+    "lat": 35.0531,
+    "lon": 24.9432,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey portrays Gortyn as a Cretan capital split by the Lethaios stream.",
+    "description_full": "City sits on the Mesara plain at its real ruins; the odeon and plane tree square are simplified, but the river divide and southern acropolis follow the archaeological layout.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Crete, 5th century BCE",
+    "name_ingame": "Knossos Palace",
+    "name_real": "Palace of Knossos",
+    "lat": 35.2989,
+    "lon": 25.1635,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Labyrinthine Knossos hosts minotaur myths in Odyssey's Crete arc.",
+    "description_full": "Palace sits on the Kephala hill where Knossos stands; multi-level wings are compressed and mythologized, yet the central court and processional axes mirror the real complex.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Crete, 5th century BCE",
+    "name_ingame": "Phaistos Palace",
+    "name_real": "Palace of Phaistos",
+    "lat": 35.0515,
+    "lon": 24.8093,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey includes the stepped courts of Phaistos on Crete's south coast.",
+    "description_full": "Ruins lie on the low hill above the Messara plain at their real site; wings are merged for traversal, but the central court orientation and valley views match Phaistos.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Crete, 5th century BCE",
+    "name_ingame": "Kydonia",
+    "name_real": "Chania",
+    "lat": 35.5149,
+    "lon": 24.018,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey shows Kydonia as a harbor polis on Crete's north shore.",
+    "description_full": "Town occupies the bay where modern Chania stands; harbor walls and agora are simplified, yet the peninsula harbor and inland hills reflect the real Kydonia setting.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Lower Egypt, 49 BCE",
+    "name_ingame": "Naucratis",
+    "name_real": "Naucratis",
+    "lat": 30.8883,
+    "lon": 30.6044,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins depicts Naucratis as a bustling Greek trading port in the Delta.",
+    "description_full": "City sits on the Canopic branch of the Nile near its historical site; docks and temples are compressed but aligned to the river bend where Naucratis prospered.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Faiyum, 49 BCE",
+    "name_ingame": "Krokodilopolis",
+    "name_real": "Arsinoe (Crocodilopolis)",
+    "lat": 29.3105,
+    "lon": 30.8434,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Bayek aids the crocodile cult town of Krokodilopolis in Origins.",
+    "description_full": "Settlement lies on the Faiyum's north shore where Arsinoe stood; canals and arena are condensed, yet the lakefront orientation and temple mound mirror the real site.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Heptanomis, 49 BCE",
+    "name_ingame": "Oxyrhynchus",
+    "name_real": "Oxyrhynchus",
+    "lat": 28.5344,
+    "lon": 30.8007,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Oxyrhynchus appears as a papyrus-rich canal city in Origins.",
+    "description_full": "Town follows the Bahr Yussef canal at its true location; streets are narrowed for traversal, but the riverside quays and theatre mound align with the historic settlement.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Mareotis, 49 BCE",
+    "name_ingame": "Paraetonium",
+    "name_real": "Marsa Matruh",
+    "lat": 31.3543,
+    "lon": 27.2373,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins' westward quests reach the coastal port of Paraetonium.",
+    "description_full": "Harbor sits on the Mediterranean bay where modern Matruh lies; breakwaters and forums are simplified, yet the crescent harbor and desert backdrop match ancient Paraetonium.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Mareotis, 49 BCE",
+    "name_ingame": "Canopus Village",
+    "name_real": "Canopus",
+    "lat": 31.3165,
+    "lon": 30.0568,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins includes the resort village of Canopus east of Alexandria.",
+    "description_full": "Village sits on the Abu Qir coast at its historical location; canals and villas are compressed seaside retreats, anchored to the peninsula where Canopus once faced the Mediterranean.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Egypt",
+    "era": "Nile Delta, 49 BCE",
+    "name_ingame": "Heracleion",
+    "name_real": "Heracleion-Thonis",
+    "lat": 31.2692,
+    "lon": 30.017,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Submerged Heracleion is explored as underwater ruins in Origins.",
+    "description_full": "Dive site lies off the Abu Qir Bay where Heracleion's remains sit today; temples and statues are rearranged for gameplay but correspond to the real submerged city grid.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Libya",
+    "era": "Cyrenaica, 49 BCE",
+    "name_ingame": "Cyrene",
+    "name_real": "Cyrene",
+    "lat": 32.825,
+    "lon": 21.8587,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Origins features Cyrene's temples and theater on the Libyan plateau.",
+    "description_full": "City crowns the Jebel Akhdar escarpment at its true site; theater and agora are compressed for navigation, yet the cliffside orientation and spring-fed valley match reality.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Libya",
+    "era": "Cyrenaica, 49 BCE",
+    "name_ingame": "Apollonia Harbor",
+    "name_real": "Apollonia of Cyrenaica",
+    "lat": 32.8924,
+    "lon": 21.9569,
+    "media": [
+      "ACO"
+    ],
+    "description_short": "Apollonia serves as Cyrene's coastal harbor in Origins.",
+    "description_full": "Port occupies the real bay at Marsa Susa; breakwaters and lighthouse are reduced, yet the triple-cove shoreline and uphill road to Cyrene mirror the ancient harbor town.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Anatolia",
+    "era": "Ionia, 5th century BCE",
+    "name_ingame": "Miletos",
+    "name_real": "Miletus",
+    "lat": 37.53,
+    "lon": 27.2769,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Miletos appears as an Ionian port with grand harbors in Odyssey.",
+    "description_full": "City lies at the mouth of the Meander where Miletus stood; harbors and theatre are condensed, but the peninsula layout and Sacred Way align with the historical polis.",
+    "cFactor": 0.7
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Anatolia",
+    "era": "Aeolis, 5th century BCE",
+    "name_ingame": "Pergamon",
+    "name_real": "Pergamon",
+    "lat": 39.1211,
+    "lon": 27.1847,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey nods to the hilltop acropolis of Pergamon in Mysia.",
+    "description_full": "Acropolis rises above the Caicus plain at its real Bergama site; terraces are simplified but the steep theater slope and altar plateau reflect the ancient city's layout.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Anatolia",
+    "era": "Ionia, 5th century BCE",
+    "name_ingame": "Ephesos",
+    "name_real": "Ephesus",
+    "lat": 37.939,
+    "lon": 27.341,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey references the sanctuary city of Ephesos on the Aegean coast.",
+    "description_full": "City sits in the Kaystros valley at its true site; harbor is silted and stylized, but the Artemision precinct and theater-agora axis align with the archaeological plan.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "Assassins Creed",
+    "region": "Greece",
+    "era": "Samos, 5th century BCE",
+    "name_ingame": "Pythagoreion",
+    "name_real": "Pythagoreion, Samos",
+    "lat": 37.691,
+    "lon": 26.9429,
+    "media": [
+      "ACOD"
+    ],
+    "description_short": "Odyssey includes the harbor of Pythagoreion on the island of Samos.",
+    "description_full": "Town sits on Samos' south coast where the ancient port of Tigani lay; harbor moles and hillside streets are compressed, yet the tunnel mouth and quay line match the Pythagoreion site.",
+    "cFactor": 0.7
+  }
+]
