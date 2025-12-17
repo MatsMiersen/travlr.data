@@ -1,0 +1,936 @@
+[
+  {
+    "franchise": "James Bond",
+    "country": "United Kingdom",
+    "city_or_region": "London",
+    "name_location": "SIS Building (Vauxhall Cross)",
+    "lat": 51.4895,
+    "lon": -0.1245,
+    "media": [
+      "GOLDENEYE",
+      "THE_WORLD_IS_NOT_ENOUGH",
+      "SKYFALL",
+      "SPECTRE"
+    ],
+    "location_type": "facility",
+    "description_short": "MI6 headquarters exterior on the Thames seen in GoldenEye, Skyfall, and Spectre.",
+    "description_full": "The SIS Building at Vauxhall Cross in London stands in for MI6 headquarters in GoldenEye (1995), The World Is Not Enough (1999), Skyfall (2012), and Spectre (2015). Exterior shots along the Thames establish the spy agency's home and serve as plot points in the Craig era. The distinctive stepped design makes it one of the franchise's most recognizable modern landmarks.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United Kingdom",
+    "city_or_region": "Scottish Highlands",
+    "name_location": "Glen Etive",
+    "lat": 56.637,
+    "lon": -4.9128,
+    "media": [
+      "SKYFALL"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Highland valley where Bond and M pause en route to the Skyfall estate.",
+    "description_full": "Glen Etive in the Scottish Highlands appears in Skyfall (2012) as Bond and M pause by the Aston Martin on their way to the Skyfall estate. The sweeping valley scenery underscores Bond's ties to Scotland and sets the tone for the film's finale. The spot has become a popular pilgrimage for fans recreating the drive.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Matera",
+    "name_location": "Sassi di Matera",
+    "lat": 40.6669,
+    "lon": 16.604,
+    "media": [
+      "NO_TIME_TO_DIE"
+    ],
+    "location_type": "city",
+    "description_short": "Ancient cave city used for No Time to Die's pre-title chase.",
+    "description_full": "Matera's Sassi district provides the dramatic cliffside streets for the pre-title chase in No Time to Die (2021). Motorcycles and Aston Martins race through the carved stone lanes and across the Roman bridge. The UNESCO-listed city delivers a timeless look while remaining clearly identifiable on screen.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Thailand",
+    "city_or_region": "Phang Nga Bay",
+    "name_location": "Khao Phing Kan (James Bond Island)",
+    "lat": 8.2749,
+    "lon": 98.5012,
+    "media": [
+      "THE_MAN_WITH_THE_GOLDEN_GUN"
+    ],
+    "location_type": "island",
+    "description_short": "Limestone islet nicknamed James Bond Island from Scaramanga's hideout.",
+    "description_full": "Khao Phing Kan in Phang Nga Bay became world-famous after featuring as Scaramanga's hideout in The Man with the Golden Gun (1974). The towering karst stacks and secluded beach are shown throughout the finale. Its Bond connection turned the once-quiet island into a major tourist draw.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Monaco",
+    "city_or_region": "Monte Carlo",
+    "name_location": "Casino de Monte-Carlo",
+    "lat": 43.7396,
+    "lon": 7.4276,
+    "media": [
+      "GOLDENEYE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Bond's arrival and car chase backdrop in GoldenEye's opening act.",
+    "description_full": "The Casino de Monte-Carlo provides the luxurious backdrop for Bond's arrival in GoldenEye (1995). The building's exterior and nearby streets frame the Aston Martin versus Ferrari duel with Xenia Onatopp. Its Belle \u00c9poque facade anchors Monaco's long association with Bond's high-rolling lifestyle.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Switzerland",
+    "city_or_region": "Schilthorn",
+    "name_location": "Piz Gloria",
+    "lat": 46.556,
+    "lon": 7.8355,
+    "media": [
+      "OHMSS"
+    ],
+    "location_type": "facility",
+    "description_short": "Rotating Alpine restaurant used as Blofeld's lair in OHMSS.",
+    "description_full": "Piz Gloria, the revolving restaurant atop the Schilthorn, serves as Blofeld's allergy research clinic in On Her Majesty's Secret Service (1969). Exterior and interior shots highlight the panoramic perch above the Bernese Alps. The site still trades on its Bond heritage with exhibits and themed menus.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Turkey",
+    "city_or_region": "Istanbul",
+    "name_location": "Grand Bazaar",
+    "lat": 41.008,
+    "lon": 28.968,
+    "media": [
+      "SKYFALL"
+    ],
+    "location_type": "landmark",
+    "description_short": "Rooftop motorbike chase start of Skyfall across Istanbul's bazaar roofs.",
+    "description_full": "Istanbul's Grand Bazaar opens Skyfall (2012) with a motorbike pursuit over its rooftops and through the market's alleys. The sequence showcases the sprawling covered bazaar as Bond chases Patrice toward the train. The recognizable domes and market stalls make the location unmistakable.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Austria",
+    "city_or_region": "Bregenz",
+    "name_location": "Bregenz Festspielhaus",
+    "lat": 47.5045,
+    "lon": 9.7417,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "facility",
+    "description_short": "Opera house meeting backdrop during Quantum of Solace's Tosca sequence.",
+    "description_full": "The Bregenz Festspielhaus and its floating stage feature in Quantum of Solace (2008) during the Tosca performance. Bond eavesdrops on the Quantum members and exposes their meeting amid the modern sets. The striking lakefront architecture grounds one of the film's most stylish scenes.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Siena",
+    "name_location": "Piazza del Campo",
+    "lat": 43.3189,
+    "lon": 11.3308,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Palio di Siena horse race setting glimpsed in Quantum of Solace prologue.",
+    "description_full": "Quantum of Solace (2008) cuts to the Palio di Siena taking place in Piazza del Campo as Bond interrogates Mr. White's contact. The famous shell-shaped square and packed grandstands are clearly shown. The footage anchors the opening montage in a real Italian festival.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Jamaica",
+    "city_or_region": "Oracabessa",
+    "name_location": "James Bond Beach",
+    "lat": 18.4706,
+    "lon": -76.3645,
+    "media": [
+      "DR_NO"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Beach where Honey Ryder meets Bond in Dr. No.",
+    "description_full": "James Bond Beach near Oracabessa, Jamaica appears in Dr. No (1962) during Honey Ryder's famous emergence from the sea. The cove stands in for Crab Key and hosts the first meeting between Bond and Ryder. Its association with the franchise has made it a lasting tourist draw.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Chile",
+    "city_or_region": "Atacama Desert",
+    "name_location": "Paranal Observatory",
+    "lat": -24.627,
+    "lon": -70.4045,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "facility",
+    "description_short": "ESO observatory doubled as Greene's desert hotel in Quantum of Solace.",
+    "description_full": "The ESO Paranal Observatory complex in Chile provided the exterior for Dominic Greene's desert hotel in Quantum of Solace (2008). The modernist structures and remote Atacama setting frame the explosive climax. Interiors were recreated elsewhere, making the on-screen location a partial composite.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Lake Como",
+    "name_location": "Villa del Balbianello",
+    "lat": 45.9665,
+    "lon": 9.2088,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Lakeside villa where Bond recovers and meets Vesper in Casino Royale.",
+    "description_full": "Villa del Balbianello on Lake Como appears in Casino Royale (2006) as the clinic where Bond recuperates after torture and later as a retreat with Vesper. The terraced gardens and loggia overlooking the lake are shown in daylight and dusk. Its elegant setting reinforces the film's romantic closing acts.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Switzerland",
+    "city_or_region": "Schilthorn",
+    "name_location": "Piz Gloria",
+    "lat": 46.5576,
+    "lon": 7.8355,
+    "media": [
+      "OHMSS"
+    ],
+    "location_type": "landmark",
+    "description_short": "Revolving mountaintop restaurant used as Blofeld's Alpine lair in OHMSS.",
+    "description_full": "Piz Gloria atop the Schilthorn doubles as Blofeld's mountain hideout in On Her Majesty's Secret Service (1969). The real revolving restaurant and cable car station feature throughout Bond's infiltration and escape, making it one of the series' most iconic Alpine settings.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Switzerland",
+    "city_or_region": "Furka Pass",
+    "name_location": "Hotel Belvedere Hairpin",
+    "lat": 46.5619,
+    "lon": 8.3664,
+    "media": [
+      "GOLDFINGER"
+    ],
+    "location_type": "route",
+    "description_short": "Hairpin above Hotel Belvedere where Bond pursues Tilly Masterson in Goldfinger.",
+    "description_full": "The Furka Pass hairpins near the Hotel Belvedere appear in Goldfinger (1964) during Bond's Aston Martin pursuit of Tilly Masterson. Sweeping views of the Rhone Glacier road helped cement the film's reputation for stylish European car chases.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United Kingdom",
+    "city_or_region": "Buckinghamshire",
+    "name_location": "Stoke Park Golf Club",
+    "lat": 51.5487,
+    "lon": -0.591,
+    "media": [
+      "GOLDFINGER"
+    ],
+    "location_type": "landmark",
+    "description_short": "Golf course where Bond and Goldfinger play the notorious cheating match.",
+    "description_full": "Stoke Park's golf course hosts the tense match between Bond and Auric Goldfinger in Goldfinger (1964). The club's Georgian clubhouse and rolling fairways provide the backdrop as Oddjob beheads a statue with his hat, anchoring one of the franchise's most memorable duels.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United States",
+    "city_or_region": "Miami Beach",
+    "name_location": "Fontainebleau Miami Beach",
+    "lat": 25.821,
+    "lon": -80.1228,
+    "media": [
+      "GOLDFINGER"
+    ],
+    "location_type": "hotel",
+    "description_short": "Poolside hotel where Bond meets Jill Masterson during the opening of Goldfinger.",
+    "description_full": "The Fontainebleau Miami Beach appears in Goldfinger (1964) as Bond surveils Goldfinger from the iconic curved tower and pool deck. The resort sets the glamorous tone for the film's pre-title investigation in the United States.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Japan",
+    "city_or_region": "Nagasaki Prefecture",
+    "name_location": "Hashima Island (Gunkanjima)",
+    "lat": 32.6283,
+    "lon": 129.738,
+    "media": [
+      "SKYFALL"
+    ],
+    "location_type": "island",
+    "description_short": "Abandoned mining island that inspired Silva's ruined Macau stronghold in Skyfall.",
+    "description_full": "Hashima Island, nicknamed Battleship Island, provides the exterior inspiration for Silva's decaying base in Skyfall (2012). Establishing shots of the real island underscore the villain's isolation before Bond is led into the crumbling complex.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United Kingdom",
+    "city_or_region": "Cambridgeshire",
+    "name_location": "Nene Valley Railway, Wansford",
+    "lat": 52.5591,
+    "lon": -0.3707,
+    "media": [
+      "OCTOPUSSY"
+    ],
+    "location_type": "route",
+    "description_short": "Heritage rail line used for the German train stunt sequences in Octopussy.",
+    "description_full": "The Nene Valley Railway near Wansford stands in for German tracks during the circus train scenes in Octopussy (1983). Bond clings to carriages and fights atop the moving train along this preserved line, making it a staple for railway film productions.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Venice",
+    "name_location": "Piazza San Marco",
+    "lat": 45.434,
+    "lon": 12.3388,
+    "media": [
+      "MOONRAKER",
+      "CASINO_ROYALE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Central square seen in Moonraker gondola chase and Casino Royale finale.",
+    "description_full": "Venice's Piazza San Marco is featured during Moonraker (1979) when Bond's gondola glides past the square, and again in Casino Royale (2006) as part of the sinking house climax. The recognizable basilica and campanile anchor both sequences on screen.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Brazil",
+    "city_or_region": "Rio de Janeiro",
+    "name_location": "Christ the Redeemer",
+    "lat": -22.9519,
+    "lon": -43.2105,
+    "media": [
+      "MOONRAKER"
+    ],
+    "location_type": "landmark",
+    "description_short": "Statue overlooking Bond and Goodhead's visit to Rio in Moonraker.",
+    "description_full": "The Christ the Redeemer statue towers over multiple establishing shots in Moonraker (1979) as Bond follows Drax's trail through Rio. The monument grounds the action in the city before Bond rides the Sugarloaf cable cars.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Brazil",
+    "city_or_region": "Iguazu Falls",
+    "name_location": "Iguazu Falls Viewpoints",
+    "lat": -25.6953,
+    "lon": -54.4367,
+    "media": [
+      "MOONRAKER"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Waterfalls glimpsed during Moonraker's aerial travel montage in South America.",
+    "description_full": "Iguazu Falls appears in Moonraker (1979) as part of Bond and Goodhead's travel montage en route to Drax's Amazon compound. The sweeping shots of the falls emphasize the scale of the villain's jungle operation and root the adventure in real South American scenery.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Greece",
+    "city_or_region": "Corfu",
+    "name_location": "Achilleion Palace",
+    "lat": 39.5626,
+    "lon": 19.9091,
+    "media": [
+      "FOR_YOUR_EYES_ONLY"
+    ],
+    "location_type": "landmark",
+    "description_short": "Corfu palace used for Gonzales' villa exterior and pool fight in FYEO.",
+    "description_full": "The Achilleion Palace in Corfu appears in For Your Eyes Only (1981) as the exterior of Hector Gonzales' villa. Bond observes Melina's revenge from the palace gardens and escapes via the hillside, making the neoclassical site a key Mediterranean backdrop.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Greece",
+    "city_or_region": "Meteora",
+    "name_location": "Holy Trinity Monastery",
+    "lat": 39.7219,
+    "lon": 21.6307,
+    "media": [
+      "FOR_YOUR_EYES_ONLY"
+    ],
+    "location_type": "landmark",
+    "description_short": "Clifftop monastery scaled by Bond to reach the St Cyrils hideout in FYEO.",
+    "description_full": "Meteora's Holy Trinity Monastery serves as the model for the St Cyrils hideout in For Your Eyes Only (1981). Bond free-climbs the towering rock to confront Kristatos, with sweeping shots of the real monastery anchoring the climax.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Cortina d'Ampezzo",
+    "name_location": "Cortina Town Center",
+    "lat": 46.5405,
+    "lon": 12.1357,
+    "media": [
+      "FOR_YOUR_EYES_ONLY"
+    ],
+    "location_type": "city",
+    "description_short": "Dolomite ski resort hosting Bond's biathlon and bobsled pursuits in FYEO.",
+    "description_full": "Cortina d'Ampezzo provides the winter resort setting for For Your Eyes Only (1981). Bond meets allies at the Miramonti, trails assassins through the town center, and launches ski and bobsled chases on the nearby slopes.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Lake Como",
+    "name_location": "Villa del Balbianello",
+    "lat": 45.967,
+    "lon": 9.207,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Lakeside villa used as the recuperation clinic for Bond and Vesper.",
+    "description_full": "Villa del Balbianello on Lake Como appears in Casino Royale (2006) as the hospital where Bond recuperates with Vesper. Its terraces overlooking the lake provide the serene backdrop for their conversations after the Montenegro mission.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Bahamas",
+    "city_or_region": "Paradise Island",
+    "name_location": "The Ocean Club",
+    "lat": 25.0829,
+    "lon": -77.3184,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "hotel",
+    "description_short": "Luxury resort where Bond stays and gambles while trailing Dimitrios.",
+    "description_full": "The Ocean Club on Paradise Island features in Casino Royale (2006) as Bond's base while tracking terrorist middleman Dimitrios. The resort's casino, villas, and beach provide a glamorous setting for Bond's investigation and a parking-lot Aston Martin chase.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Czech Republic",
+    "city_or_region": "Prague",
+    "name_location": "Danube House",
+    "lat": 50.0605,
+    "lon": 14.4512,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "facility",
+    "description_short": "Modern office block used for the black-and-white section chief confrontation.",
+    "description_full": "Prague's Danube House portrays the Mbale, Uganda office where Bond earns his 00 status in the black-and-white prologue of Casino Royale (2006). Its stark modern interior stages the brutal bathroom fight with the traitorous section chief.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Czech Republic",
+    "city_or_region": "Karlovy Vary",
+    "name_location": "Grandhotel Pupp",
+    "lat": 50.2187,
+    "lon": 12.8817,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "hotel",
+    "description_short": "Stand-in for Hotel Splendide in Montenegro during the poker tournament.",
+    "description_full": "The Grandhotel Pupp in Karlovy Vary doubles as the Hotel Splendide in Montenegro in Casino Royale (2006). Bond and Vesper stay here while competing against Le Chiffre at the casino, with the hotel's ornate facade clearly shown on screen.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United States",
+    "city_or_region": "Miami",
+    "name_location": "Miami International Airport",
+    "lat": 25.7959,
+    "lon": -80.287,
+    "media": [
+      "CASINO_ROYALE"
+    ],
+    "location_type": "facility",
+    "description_short": "Airport targeted by Le Chiffre's Skyfleet attack foiled by Bond.",
+    "description_full": "Miami International Airport is the site of Le Chiffre's attempted bombing of a Skyfleet prototype in Casino Royale (2006). Bond pursues the terrorist through the baggage and tanker areas, preventing the explosion on the runway.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Tremosine sul Garda",
+    "name_location": "Strada della Forra",
+    "lat": 45.7693,
+    "lon": 10.7433,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "route",
+    "description_short": "Cliffside road used in Quantum of Solace's opening Aston Martin chase.",
+    "description_full": "The Strada della Forra above Lake Garda appears in Quantum of Solace (2008) during the pre-title Aston Martin chase. Tight tunnels and cliff drops amplify the tension as Bond races to Siena with Mr. White in the trunk.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Siena",
+    "name_location": "Piazza del Campo",
+    "lat": 43.3186,
+    "lon": 11.3306,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Central square where Bond pursues Mitchell through the Palio stands.",
+    "description_full": "Siena's Piazza del Campo hosts the Palio horse race and the rooftop chase in Quantum of Solace (2008). Bond pursues the traitor Mitchell across the medieval square and its surrounding buildings as the race thunders below.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Austria",
+    "city_or_region": "Bregenz",
+    "name_location": "Seeb\u00fchne Floating Stage",
+    "lat": 47.5047,
+    "lon": 9.7364,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Open-air opera stage hosting the Tosca sequence where Bond confronts Quantum.",
+    "description_full": "The Seeb\u00fchne floating stage on Lake Constance features in Quantum of Solace (2008) during the Tosca performance. Bond slips through the audience and exposes the Quantum cabal as the dramatic 'Tosca' set towers over the water.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Chile",
+    "city_or_region": "Atacama Desert",
+    "name_location": "Paranal Observatory",
+    "lat": -24.6252,
+    "lon": -70.4036,
+    "media": [
+      "QUANTUM_OF_SOLACE"
+    ],
+    "location_type": "facility",
+    "description_short": "ESO Paranal Observatory stands in for the Andean eco-hotel hideout.",
+    "description_full": "The ESO Paranal Observatory complex in Chile doubles as the Perla de las Dunas eco-hotel in Quantum of Solace (2008). Bond confronts Dominic Greene here amid the desert, culminating in the fuel-cell explosion that consumes the facility.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Gibraltar",
+    "city_or_region": "Gibraltar",
+    "name_location": "RAF Gibraltar",
+    "lat": 36.1114,
+    "lon": -5.3496,
+    "media": [
+      "THE_LIVING_DAYLIGHTS"
+    ],
+    "location_type": "facility",
+    "description_short": "Clifftop training base used in The Living Daylights pre-title exercise.",
+    "description_full": "RAF Gibraltar hosts the SAS exercise that opens The Living Daylights (1987). Bond parachutes onto the runway and pursues an impostor down the Rock, showcasing the dramatic military setting atop the iconic promontory.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Austria",
+    "city_or_region": "Vienna",
+    "name_location": "Wiener Riesenrad, Prater",
+    "lat": 48.216,
+    "lon": 16.3956,
+    "media": [
+      "THE_LIVING_DAYLIGHTS"
+    ],
+    "location_type": "landmark",
+    "description_short": "Ferris wheel where Bond and Kara share a quiet moment in Vienna.",
+    "description_full": "Vienna's giant Ferris wheel, the Wiener Riesenrad, appears in The Living Daylights (1987) during Bond and Kara's date in the Prater. The ride and surrounding park ground the film's romantic interlude in the Austrian capital.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Slovakia",
+    "city_or_region": "Bratislava",
+    "name_location": "Bratislava Old Town",
+    "lat": 48.1459,
+    "lon": 17.1078,
+    "media": [
+      "THE_LIVING_DAYLIGHTS"
+    ],
+    "location_type": "city",
+    "description_short": "City backdrop for Kara Milovy's conservatory and tram escape.",
+    "description_full": "Bratislava's Old Town serves as the setting for Kara Milovy's defection in The Living Daylights (1987). Bond stages a sniper cover near the concert hall and later flees with Kara by tram through the historic streets.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Morocco",
+    "city_or_region": "Tangier",
+    "name_location": "Tangier Kasbah",
+    "lat": 35.789,
+    "lon": -5.8085,
+    "media": [
+      "THE_LIVING_DAYLIGHTS"
+    ],
+    "location_type": "landmark",
+    "description_short": "Kasbah quarter where Bond meets Pushkin and tails Necros.",
+    "description_full": "The Tangier Kasbah features in The Living Daylights (1987) as Bond seeks General Pushkin. The whitewashed alleys and rooftops frame Bond's surveillance of Necros and the tense hotel confrontation with Pushkin.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United States",
+    "city_or_region": "Florida Keys",
+    "name_location": "Seven Mile Bridge",
+    "lat": 24.7059,
+    "lon": -81.1196,
+    "media": [
+      "LICENCE_TO_KILL"
+    ],
+    "location_type": "route",
+    "description_short": "Iconic Keys bridge used during the Sanchez prisoner convoy in Licence to Kill.",
+    "description_full": "Seven Mile Bridge in the Florida Keys appears in Licence to Kill (1989) as part of the DEA convoy transporting Franz Sanchez. Bond and Leiter capture the villain via helicopter along the span, showcasing the turquoise waters below.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "United States",
+    "city_or_region": "Key West",
+    "name_location": "Ernest Hemingway Home",
+    "lat": 24.5514,
+    "lon": -81.8016,
+    "media": [
+      "LICENCE_TO_KILL"
+    ],
+    "location_type": "landmark",
+    "description_short": "Historic house seen as a Key West landmark during Bond's travels.",
+    "description_full": "The Ernest Hemingway Home and Museum appears briefly in Licence to Kill (1989) as Bond traverses Key West. The recognizable Spanish colonial house with six-toed cats grounds the story in the island's literary heritage.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Mexico",
+    "city_or_region": "Mexico City",
+    "name_location": "Museo Nacional de Arte",
+    "lat": 19.4352,
+    "lon": -99.1419,
+    "media": [
+      "LICENCE_TO_KILL"
+    ],
+    "location_type": "facility",
+    "description_short": "Neoclassical building used as the exterior of Banco de Isthmus.",
+    "description_full": "Mexico City's Museo Nacional de Arte portrays the Banco de Isthmus in Licence to Kill (1989). Bond enters the grand facade to access Sanchez's funds, using the museum's ornate exterior to sell the fictional republic's capital.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Switzerland",
+    "city_or_region": "Ticino",
+    "name_location": "Verzasca Dam",
+    "lat": 46.1756,
+    "lon": 8.8467,
+    "media": [
+      "GOLDENEYE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Damside used for Bond's record-setting bungee jump in GoldenEye's opening.",
+    "description_full": "The Verzasca Dam near Locarno hosts the dramatic 220-meter bungee jump that opens GoldenEye (1995). Bond dives from the towering concrete wall to infiltrate a Soviet facility, creating one of the franchise's most famous stunts.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Puerto Rico",
+    "city_or_region": "Arecibo",
+    "name_location": "Arecibo Observatory",
+    "lat": 18.3441,
+    "lon": -66.7528,
+    "media": [
+      "GOLDENEYE"
+    ],
+    "location_type": "facility",
+    "description_short": "Radio telescope cradle where Bond fights Alec Trevelyan in GoldenEye.",
+    "description_full": "Arecibo Observatory's dish and gantry feature in GoldenEye (1995) as the hidden Cuban antenna. Bond and Alec Trevelyan battle atop the suspended platform before it collapses, showcasing the massive radio telescope structure.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Monaco",
+    "city_or_region": "Monte Carlo",
+    "name_location": "Casino de Monte-Carlo",
+    "lat": 43.7396,
+    "lon": 7.4276,
+    "media": [
+      "GOLDENEYE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Grand casino where Bond meets Xenia Onatopp in Monaco.",
+    "description_full": "The Casino de Monte-Carlo appears in GoldenEye (1995) during Bond's reconnaissance of Xenia Onatopp. The Belle \u00c9poque gaming rooms and harborfront facade emphasize the series' Monte Carlo tradition of high-stakes glamour.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Russia",
+    "city_or_region": "Saint Petersburg",
+    "name_location": "Palace Square",
+    "lat": 59.9398,
+    "lon": 30.3156,
+    "media": [
+      "GOLDENEYE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Expansive square seen during the tank chase through St. Petersburg.",
+    "description_full": "Palace Square in Saint Petersburg is featured in GoldenEye (1995) as Bond commandeers a T-55 tank. The square's expanse and the Winter Palace backdrop anchor the chaotic chase across the city center.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Germany",
+    "city_or_region": "Hamburg",
+    "name_location": "Hotel Atlantic Kempinski",
+    "lat": 53.5539,
+    "lon": 9.9941,
+    "media": [
+      "TOMORROW_NEVER_DIES"
+    ],
+    "location_type": "hotel",
+    "description_short": "Elliot Carver's Hamburg hotel base and site of Bond's stealth car parking chase.",
+    "description_full": "Hamburg's Hotel Atlantic Kempinski serves as Elliot Carver's headquarters in Tomorrow Never Dies (1997). Bond infiltrates the hotel, later retrieving his remote-driven BMW from the rooftop garage in a memorable parking-lot chase.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Vietnam",
+    "city_or_region": "Ha Long Bay",
+    "name_location": "Ha Long Bay Karsts",
+    "lat": 20.9101,
+    "lon": 107.1839,
+    "media": [
+      "TOMORROW_NEVER_DIES"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Limestone islands near the stealth boat's South China Sea location.",
+    "description_full": "The karst formations of Ha Long Bay appear in Tomorrow Never Dies (1997) as the South China Sea setting for Carver's stealth ship. Bond and Wai Lin navigate the dramatic seascape en route to the final assault.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Spain",
+    "city_or_region": "Bilbao",
+    "name_location": "Guggenheim Museum Bilbao",
+    "lat": 43.2686,
+    "lon": -2.934,
+    "media": [
+      "THE_WORLD_IS_NOT_ENOUGH"
+    ],
+    "location_type": "landmark",
+    "description_short": "Futuristic museum used in the Bilbao pre-title sequence exchange.",
+    "description_full": "The Guggenheim Museum Bilbao features in The World Is Not Enough (1999) during Bond's money exchange with Lachaise. Its titanium curves frame the initial sniper incident before Bond escapes down the river Thames in the Q-boat.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Turkey",
+    "city_or_region": "Istanbul",
+    "name_location": "Maiden's Tower",
+    "lat": 41.0211,
+    "lon": 29.0044,
+    "media": [
+      "THE_WORLD_IS_NOT_ENOUGH"
+    ],
+    "location_type": "landmark",
+    "description_short": "Islet tower used as Renard's hideout and MI6 operations base.",
+    "description_full": "Istanbul's Maiden's Tower appears in The World Is Not Enough (1999) as MI6's operations center and later Renard's hideout. The Bosphorus landmark provides a distinctive setting for the submarine climax setup.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Azerbaijan",
+    "city_or_region": "Baku",
+    "name_location": "Bibi-Heybat Oil Fields",
+    "lat": 40.316,
+    "lon": 49.8,
+    "media": [
+      "THE_WORLD_IS_NOT_ENOUGH"
+    ],
+    "location_type": "facility",
+    "description_short": "Caspian oil fields near Baku visited by Bond while protecting Elektra King.",
+    "description_full": "The Bibi-Heybat oil fields outside Baku feature in The World Is Not Enough (1999) when Bond escorts Elektra King. The sprawling rigs and flame stacks ground the plot's focus on pipelines and petroleum wealth.",
+    "cFactor": 0.6
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Iceland",
+    "city_or_region": "Vatnaj\u00f6kull",
+    "name_location": "J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon",
+    "lat": 64.0785,
+    "lon": -16.221,
+    "media": [
+      "DIE_ANOTHER_DAY"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Frozen lagoon used for the Aston Martin vs. Jaguar ice chase.",
+    "description_full": "J\u00f6kuls\u00e1rl\u00f3n in Iceland provides the frozen lake setting for the car duel between Bond's Vanquish and Zao's Jaguar in Die Another Day (2002). The glacial scenery also surrounds Gustav Graves' ice palace complex.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Spain",
+    "city_or_region": "C\u00e1diz",
+    "name_location": "La Caleta Beach",
+    "lat": 36.5333,
+    "lon": -6.2997,
+    "media": [
+      "DIE_ANOTHER_DAY"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Cadiz beach that doubles for Havana when Bond meets Jinx.",
+    "description_full": "La Caleta Beach in C\u00e1diz, Spain, stands in for Havana in Die Another Day (2002). Bond swims ashore and meets Jinx here, with the seaside promenade and castle walls visible in the background.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Mexico",
+    "city_or_region": "Mexico City",
+    "name_location": "Z\u00f3calo",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "media": [
+      "SPECTRE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Central square hosting the Day of the Dead parade in Spectre's pre-title.",
+    "description_full": "Mexico City's Z\u00f3calo is the site of Spectre (2015)'s Day of the Dead pre-title sequence. Bond stalks Marco Sciarra through the crowded parade before the helicopter fight above the historic plaza.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Italy",
+    "city_or_region": "Rome",
+    "name_location": "Via della Conciliazione",
+    "lat": 41.9019,
+    "lon": 12.4573,
+    "media": [
+      "SPECTRE"
+    ],
+    "location_type": "route",
+    "description_short": "Grand boulevard used in the Aston Martin vs. Jaguar night chase past the Vatican.",
+    "description_full": "Via della Conciliazione in Rome features in Spectre (2015) during Bond's nighttime car chase with Hinx. The boulevard leading to St. Peter's Basilica provides sweeping shots of the Vatican skyline as the cars weave through traffic barriers.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Austria",
+    "city_or_region": "Altaussee",
+    "name_location": "Lake Altaussee Boathouse",
+    "lat": 47.6419,
+    "lon": 13.7838,
+    "media": [
+      "SPECTRE"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Lakeside cabin where Bond finds Mr. White in Spectre.",
+    "description_full": "Lake Altaussee in Austria serves as the secluded hideaway for Mr. White in Spectre (2015). Bond rows to the boathouse amid misty alpine scenery, anchoring the emotional handoff that leads him to Madeleine Swann.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Austria",
+    "city_or_region": "S\u00f6lden",
+    "name_location": "ICE Q / Gaislachkogl",
+    "lat": 46.9723,
+    "lon": 10.9883,
+    "media": [
+      "SPECTRE"
+    ],
+    "location_type": "facility",
+    "description_short": "Mountaintop clinic exterior where Bond meets Dr. Madeleine Swann.",
+    "description_full": "The ICE Q restaurant atop Gaislachkogl in S\u00f6lden, Austria, portrays the Hoffler Klinik exterior in Spectre (2015). Bond visits the glass cube to question Dr. Madeleine Swann, with sweeping alpine vistas before the ensuing cable car escape.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Jamaica",
+    "city_or_region": "Oracabessa",
+    "name_location": "GoldenEye Resort",
+    "lat": 18.4043,
+    "lon": -76.9691,
+    "media": [
+      "NO_TIME_TO_DIE"
+    ],
+    "location_type": "hotel",
+    "description_short": "Seaside villa complex used for Bond's retirement home in No Time to Die.",
+    "description_full": "GoldenEye Resort on Jamaica's north coast serves as Bond's secluded retirement bungalow in No Time to Die (2021). The real-life former Ian Fleming estate anchors the film's opening stretch before Bond is drawn back into service.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Norway",
+    "city_or_region": "M\u00f8re og Romsdal",
+    "name_location": "Atlantic Ocean Road",
+    "lat": 63.0008,
+    "lon": 7.3525,
+    "media": [
+      "NO_TIME_TO_DIE"
+    ],
+    "location_type": "route",
+    "description_short": "Coastal highway used in the Norway car chase with Safin's assassins.",
+    "description_full": "Norway's Atlantic Ocean Road appears in No Time to Die (2021) during the chase where Bond and Madeleine flee with Mathilde. The sweeping bridges and exposed causeways heighten the peril amid crashing waves.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Faroe Islands",
+    "city_or_region": "Kalsoy",
+    "name_location": "Kalsoy Island Cliffs",
+    "lat": 62.3339,
+    "lon": -6.7293,
+    "media": [
+      "NO_TIME_TO_DIE"
+    ],
+    "location_type": "island",
+    "description_short": "Sheer cliffs used for the exterior of Safin's poison factory lair.",
+    "description_full": "Kalsoy Island in the Faroe Islands provides the dramatic exterior for Safin's missile-silo base in No Time to Die (2021). The jagged cliffs and isolated lighthouse frame the final showdown before the airstrike.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Jamaica",
+    "city_or_region": "Ocho Rios",
+    "name_location": "Laughing Waters Beach",
+    "lat": 18.4185,
+    "lon": -77.0986,
+    "media": [
+      "DR_NO"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Beach where Honey Ryder famously emerges from the sea in Dr. No.",
+    "description_full": "Laughing Waters Beach near Ocho Rios appears in Dr. No (1962) during Honey Ryder's iconic emergence from the surf. The lush cove also hosts Bond and Quarrel's landing on Crab Key, anchoring the franchise's first tropical adventure.",
+    "cFactor": 1.0
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Turkey",
+    "city_or_region": "Istanbul",
+    "name_location": "Hagia Sophia",
+    "lat": 41.0086,
+    "lon": 28.9802,
+    "media": [
+      "FROM_RUSSIA_WITH_LOVE"
+    ],
+    "location_type": "landmark",
+    "description_short": "Museum where Kerim Bey and Bond trail a Soviet agent in FRWL.",
+    "description_full": "Hagia Sophia features in From Russia with Love (1963) during Bond and Kerim Bey's surveillance of a Soviet agent. The Byzantine interiors underscore Istanbul's strategic position as Bond seeks to secure the Lektor device.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Bahamas",
+    "city_or_region": "Nassau",
+    "name_location": "Bay Street Junkanoo Route",
+    "lat": 25.063,
+    "lon": -77.344,
+    "media": [
+      "THUNDERBALL"
+    ],
+    "location_type": "route",
+    "description_short": "Parade route where Bond tails Largo during the Junkanoo celebration.",
+    "description_full": "Bay Street in downtown Nassau hosts the Junkanoo parade featured in Thunderball (1965). Bond follows Largo through the costumed crowds, using the vibrant Bahamian festival as cover for surveillance.",
+    "cFactor": 0.8
+  },
+  {
+    "franchise": "James Bond",
+    "country": "Bahamas",
+    "city_or_region": "Exuma",
+    "name_location": "Thunderball Grotto, Staniel Cay",
+    "lat": 24.1842,
+    "lon": -76.4563,
+    "media": [
+      "THUNDERBALL"
+    ],
+    "location_type": "natural_feature",
+    "description_short": "Underwater cave system used for the climactic spear-gun battle in Thunderball.",
+    "description_full": "Thunderball Grotto near Staniel Cay in the Exumas is the site of Thunderball (1965)'s underwater finale. Bond and Largo's forces clash among the sunlit caverns, showcasing the Bahamas' crystal-clear waters.",
+    "cFactor": 1.0
+  }
+]
