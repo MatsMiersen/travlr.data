@@ -1,0 +1,10 @@
+{
+  "id": "traditional_food",
+  "name": "Traditional Dishes and Origins",
+  "type": "point",
+  "category": "Food & Culture",
+  "index": 10,
+  "title": "Where iconic dishes were born",
+  "description": "Origins of 800 beloved traditional dishes mapped to the specific venues, markets, and kitchens where each recipe first took hold, with a cFactor noting confidence per entry.",
+  "markercount": 800
+}
