@@ -1,0 +1,10 @@
+{
+  "id": "assassins-creed-locations",
+  "name": "Assassin's Creed Real-World Locations",
+  "type": "point",
+  "category": "Games",
+  "index": 12,
+  "title": "Historical cities and landmarks across the Creed",
+  "description": "Playable, mappable landmarks from Assassin's Creed titles with confidence factors for how closely they map to reality.",
+  "markercount": 263
+}
