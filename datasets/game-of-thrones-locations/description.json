@@ -1,0 +1,10 @@
+{
+  "id": "game-of-thrones-locations",
+  "name": "Game of Thrones Filming Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 10,
+  "title": "From Winterfell to King's Landing",
+  "description": "Key Game of Thrones filming sites with per-location confidence factors (cFactor).",
+  "markercount": 118
+}
