@@ -8,29 +8,36 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 - `datasets/<dataset-id>/description.json` — dataset metadata (`id`, `name`, `index`, `title`, `description`, `markercount`).
 - `tools/` — helper scripts for dataset maintenance and asset management.
 
-## Current datasets
-### Point datasets
-1. **Lord of the Rings Filming Locations** (`lotr-locations`) — 131 markers (Category: Film & TV).
-2. **Reddit Travel Locations** (`reddit-travel-locations`) — 26,479 markers (Category: Travel).
-3. **UNESCO World Heritage Sites - Natural** (`unesco-nature`) — 203 markers (Category: Heritage).
-4. **UNESCO World Heritage Sites - Human** (`unesco-human`) — 849 markers (Category: Heritage).
-5. **Meteorite Landings** (`meteorites`) — 45,716 markers (Category: Science).
-6. **Star Wars Filming & Story Locations** (`star-wars-locations`) — 62 markers (Category: Film & TV).
-7. **Harry Potter Filming Locations** (`harry-potter-locations`) — 74 markers with per-entry confidence ratings (Category: Film & TV).
-8. **Game of Thrones Filming Locations** (`game-of-thrones-locations`) — 300 markers with cFactor confidence scores for each site (Category: Film & TV).
-9. **James Bond Filming & Story Locations** (`james-bond-locations`) — 62 markers mixing filming sites and in-universe anchors with confidence factors (Category: Film & TV).
-10. **World Pyramids** (`pyramids`) — 122 markers spanning ancient through modern pyramids (Category: Architecture).
-11. **Iconic Waterfalls** (`waterfalls`) — 1100 markers with heights and confidence factors (Category: Nature).
-12. **Traditional Dishes and Origins** (`traditional_food`) — 800 markers tying iconic recipes to the precise venues where they originated, each with a cFactor confidence note (Category: Food & Culture).
-9. **World Pyramids** (`pyramids`) — 122 markers spanning ancient through modern pyramids (Category: Architecture).
-10. **Iconic Waterfalls** (`waterfalls`) — 1100 markers with heights and confidence factors (Category: Nature).
-11. **Traditional Dishes and Origins** (`traditional_food`) — 800 markers tying iconic recipes to the precise venues where they originated, each with a cFactor confidence note (Category: Food & Culture).
-12. **Assassin's Creed Real-World Locations** (`assassins-creed-locations`) — 263 markers mapping historical sites and analogs from the franchise (Category: Games).
-12. **Fallout Explorable Locations** (`fallout-explore`) — 350 markers mapping Fallout's Mojave, Capital Wasteland, Commonwealth, and New California locales to real-world coordinates with confidence ratings (Category: Film & TV).
+## Explore functions
+Explore-ready datasets grouped by theme.
 
-### Polygon datasets
-13. **Country and US Bounding Boxes** (`country-bounds`) — 254 entries (Category: Boundaries).
-14. **United States Feature Collection** (`us-states`) — 52 features (Category: Boundaries).
+| Theme | Dataset | ID | Markers | Notes |
+| --- | --- | --- | --- | --- |
+| Culture | Traditional Dishes and Origins | `traditional_food` | 800 | Iconic recipes mapped to the venues where they originated with confidence notes. |
+| Culture | UNESCO World Heritage Sites – Human | `unesco-human` | 849 | Human-made heritage sites with marker confidence values. |
+| Culture | World Pyramids | `pyramids` | 122 | Ancient through modern pyramids. |
+| Culture | Reddit Travel Locations | `reddit-travel-locations` | 26,479 | Crowd-sourced travel tips and places to visit. |
+| Nature | UNESCO World Heritage Sites – Natural | `unesco-nature` | 203 | Natural heritage sites. |
+| Nature | Meteorite Landings | `meteorites` | 45,716 | Global meteorite strike records. |
+| Nature | Iconic Waterfalls | `waterfalls` | 1,100 | Waterfalls with height and confidence factors. |
+| Nature | Volcanoes | `vulcanoes` | 425 | Volcano locations with supporting details. |
+| Fiction | Lord of the Rings Filming Locations | `lotr-locations` | 131 | Filming locations for Peter Jackson's trilogy. |
+| Fiction | Star Wars Filming & Story Locations | `star-wars-locations` | 62 | Filming sites and in-universe anchors. |
+| Fiction | Harry Potter Filming Locations | `harry-potter-locations` | 74 | Locations used across the film series. |
+| Fiction | Game of Thrones Filming Locations | `game-of-thrones-locations` | 300 | Filming sites with confidence scores. |
+| Fiction | James Bond Filming & Story Locations | `james-bond-locations` | 62 | Mix of filming sites and in-universe anchors with confidence factors. |
+| Fiction | Assassin's Creed Real-World Locations | `assassins-creed-locations` | 263 | Historical sites and analogs from the franchise. |
+| Fiction | Fallout Explorable Locations | `fallout-explore` | 350 | Fallout locales mapped to real-world coordinates with confidence ratings. |
+
+## Polygon sets
+Boundary and region geometries for polygon-based exploration.
+
+| Dataset | ID/Source | Features | Notes |
+| --- | --- | --- | --- |
+| Country and US Bounding Boxes | `country-bounds` | 254 | Bounding boxes for global countries and U.S. regions. |
+| United States Feature Collection | `us-states` | 52 | U.S. state and territory polygons. |
+| Time Zones | `ne_10m_time_zones.shp` | Shapefile | Natural Earth 1:10m time zone polygons (feature count depends on importer). |
+| Tectonic Plates | `PB2002_plates.json` | 54 | PB2002 tectonic plate boundaries in GeoJSON format. |
 
 ## Adding a dataset
 1. Create `datasets/<dataset-id>/` and place the source JSON in `data.json` without altering its structure unless necessary.
