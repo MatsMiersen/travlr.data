@@ -46,3 +46,122 @@ Boundary and region geometries for polygon-based exploration.
 
 ## Tools
 - `tools/download_images.py` — download images from an `images.txt` manifest. Use `--dataset <id>` to drop images into `datasets/<id>/assets/images` (or override with `--out`). The script commits changes by default and only pushes when `--push` is provided. Requires the `requests` package.
+
+## Coming Soon: New Explore Datasets
+
+These upcoming Explore datasets expand TRAVLR beyond classic points of interest, focusing on **context, scale, and human stories**. Each dataset is designed to support curiosity-driven exploration and long-term memory building, rather than checklist tourism.
+
+---
+
+### 🌍 Unique Geological Formations
+
+**Dataset ID:** `unique-geology`
+
+This dataset highlights rare and visually striking geological phenomena that reveal how the planet was formed.
+
+**Core Concept:**
+Explore places shaped by deep time and extreme natural processes — formations that exist nowhere else or only in a handful of locations worldwide.
+
+**Includes:**
+
+* Columnar basalt formations
+* Salt flats and evaporite basins
+* Sinkholes and karst systems
+* Stone forests and eroded rock cities
+
+**Why it matters:**
+These locations invite awe and curiosity, offering a tangible connection to Earth’s geological history and reinforcing TRAVLR’s focus on meaningful exploration.
+
+---
+
+### 🧭 Extreme Geography Points
+
+**Dataset ID:** `geographic-extremes`
+
+This dataset maps the physical limits of human habitation and natural conditions.
+
+**Core Concept:**
+Discover where life persists under extreme environmental conditions — the edges of what is geographically possible.
+
+**Includes:**
+
+* Highest permanently inhabited villages
+* Driest places on Earth
+* Coldest inhabited towns
+* Remote and isolated settlements
+
+**Why it matters:**
+Extreme geography reframes travel as a story of adaptation and resilience, adding depth to how places are understood and remembered.
+
+---
+
+## 🕰️ History
+
+A new Explore pillar focused on **movement, power, and modern memory** — showing how human decisions and events shaped the world map over time.
+
+---
+
+### 🧳 Famous Journeys & Expeditions
+
+**Dataset ID:** `historic-expeditions`
+
+This dataset traces the routes of history’s most influential journeys.
+
+**Core Concept:**
+Follow the paths of explorers, scientists, and adventurers whose travels changed global understanding.
+
+**Includes:**
+
+* Marco Polo’s trade routes
+* Magellan’s circumnavigation
+* Darwin’s voyage on the HMS Beagle
+* Polar expeditions (e.g. Shackleton)
+
+**Why it matters:**
+Travel becomes narrative-driven, allowing users to explore movement through space and time rather than static locations.
+
+---
+
+### 🏛️ Rise & Fall of Empires (Capital Layers)
+
+**Dataset ID:** `historic-capitals`
+
+This dataset visualizes political power through shifting capitals across history.
+
+**Core Concept:**
+See how centers of power emerge, move, and disappear as empires rise and fall.
+
+**Includes:**
+
+* Ancient and medieval capitals
+* Successive capitals within the same empire
+* Temporal layers showing change over centuries
+
+**Why it matters:**
+It transforms the map into a historical timeline, helping users understand geopolitical evolution at a glance.
+
+---
+
+### 🧱 Cold War & Modern History Sites
+
+**Dataset ID:** `cold-war-sites`
+
+This dataset focuses on recent history that still shapes today’s world.
+
+**Core Concept:**
+Explore physical remnants of 20th-century geopolitics and global tension.
+
+**Includes:**
+
+* Berlin Wall remnants
+* Missile silos and launch sites
+* Bunkers, borders, and surveillance infrastructure
+
+**Why it matters:**
+These sites connect personal memory, collective history, and modern identity — aligning strongly with TRAVLR’s Memory Ecosystem vision.
+
+---
+
+**Status:** Coming Soon
+
+These datasets will be progressively introduced into Explore Mode, expanding TRAVLR’s map from a collection of places into a living, layered memory system.
