@@ -1,0 +1,1002 @@
+[
+  {
+    "lat": 51.0447,
+    "lon": -114.0719,
+    "Placename": "Downtown Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Calgary's downtown core stood in for quarantined Boston streets and skyline plates throughout the season, including FEDRA checkpoints and evacuation traffic shots.",
+    "cFactor": 0.82,
+    "pictures": [],
+    "Scene": "S01E01 - Boston QZ street patrols"
+  },
+  {
+    "lat": 53.5344,
+    "lon": -113.5065,
+    "Placename": "Alberta Legislature Building, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The Alberta Legislature Building and grounds doubled as the Massachusetts State House, framing Boston QZ establishing shots.",
+    "cFactor": 0.9,
+    "pictures": [],
+    "Scene": "S01E01 - Massachusetts State House exterior"
+  },
+  {
+    "lat": 50.5801,
+    "lon": -113.87,
+    "Placename": "High River, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "High River's historic downtown became Jackson, Wyoming, with set dressing for the fortified streets, patrol routes, and winter scenes.",
+    "cFactor": 0.92,
+    "pictures": [],
+    "Scene": "S01E06 - Jackson settlement exterior"
+  },
+  {
+    "lat": 51.089,
+    "lon": -115.344,
+    "Placename": "Canmore, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Canmore's mountain town streets represented Austin, Texas in the 2003 outbreak prologue and nearby wilderness transitions.",
+    "cFactor": 0.86,
+    "pictures": [],
+    "Scene": "S01E01 - Austin outbreak street chaos"
+  },
+  {
+    "lat": 50.725,
+    "lon": -113.974,
+    "Placename": "Okotoks, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Residential blocks in Okotoks were used for outbreak day suburb scenes with evacuation traffic and neighborhood panic.",
+    "cFactor": 0.8,
+    "pictures": [],
+    "Scene": "S01E01 - Suburban evacuation"
+  },
+  {
+    "lat": 49.72,
+    "lon": -113.397,
+    "Placename": "Fort Macleod, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Fort Macleod's heritage streets served as the rural town site visited by Joel and Ellie on their westbound journey.",
+    "cFactor": 0.78,
+    "pictures": [],
+    "Scene": "S01E04 - Rural town stop"
+  },
+  {
+    "lat": 49.6935,
+    "lon": -112.8418,
+    "Placename": "Downtown Lethbridge, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Lethbridge provided urban plates and streetscape filming for the Boston QZ exterior sequences.",
+    "cFactor": 0.76,
+    "pictures": [],
+    "Scene": "S01E01 - QZ street market"
+  },
+  {
+    "lat": 49.0515,
+    "lon": -113.918,
+    "Placename": "Waterton Lakes National Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Waterton Lakes National Park doubled for the western wilderness in episodes featuring Bill and Frank's off-grid community.",
+    "cFactor": 0.84,
+    "pictures": [],
+    "Scene": "S01E03 - Bill and Frank wilderness"
+  },
+  {
+    "lat": 51.4667,
+    "lon": -112.709,
+    "Placename": "Drumheller Badlands, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The dramatic badlands terrain around Drumheller formed part of the post-apocalyptic travel montage across the interior West.",
+    "cFactor": 0.73,
+    "pictures": [],
+    "Scene": "S01E02 - Badlands travel montage"
+  },
+  {
+    "lat": 50.3512,
+    "lon": -113.7687,
+    "Placename": "Nanton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Nanton's small-town blocks were dressed to capture rural storefronts encountered during Joel and Ellie's road trip.",
+    "cFactor": 0.75,
+    "pictures": [],
+    "Scene": "S01E04 - Countryside storefronts"
+  },
+  {
+    "lat": 51.0469,
+    "lon": -114.0714,
+    "Placename": "Stephen Avenue Walk, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The pedestrian mall on Stephen Avenue was used for Boston QZ street scenes with period storefront dressing and military patrols.",
+    "cFactor": 0.81,
+    "pictures": [],
+    "Scene": "S01E01 - FEDRA checkpoint corridor"
+  },
+  {
+    "lat": 53.532,
+    "lon": -113.498,
+    "Placename": "Edmonton City Hall, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Edmonton City Hall and surrounding plazas provided exterior plates for the Boston quarantine zone civic core.",
+    "cFactor": 0.77,
+    "pictures": [],
+    "Scene": "S01E01 - QZ civic plaza"
+  },
+  {
+    "lat": 51.2833,
+    "lon": -114.0103,
+    "Placename": "Airdrie, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Airdrie neighborhoods doubled as outbreak-era suburbs with emergency response vehicles and evacuee traffic.",
+    "cFactor": 0.74,
+    "pictures": [],
+    "Scene": "S01E01 - Neighborhood panic"
+  },
+  {
+    "lat": 50.4708,
+    "lon": -113.987,
+    "Placename": "Blackie, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Blackie's rural crossroads were used to frame highway travel shots across the post-outbreak prairie.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E02 - Highway escape"
+  },
+  {
+    "lat": 50.145,
+    "lon": -114.478,
+    "Placename": "Crowsnest Pass, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The Crowsnest Pass area supplied mountainous travel plates and exterior wilderness vistas during the westbound journey.",
+    "cFactor": 0.76,
+    "pictures": [],
+    "Scene": "S01E08 - Winter mountain pass"
+  },
+  {
+    "lat": 52.2869,
+    "lon": -113.8119,
+    "Placename": "Downtown Red Deer, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Red Deer's downtown blocks were dressed for abandoned urban streets seen in the cross-country travel montage.",
+    "cFactor": 0.71,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned urban blocks"
+  },
+  {
+    "lat": 51.1784,
+    "lon": -115.5708,
+    "Placename": "Banff National Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Banff's alpine landscapes appear in sweeping establishing shots of the wilderness between settlements.",
+    "cFactor": 0.79,
+    "pictures": [],
+    "Scene": "S01E06 - Alpine wilderness traversal"
+  },
+  {
+    "lat": 49.515,
+    "lon": -115.769,
+    "Placename": "Fernie, British Columbia, Canada",
+    "Category": "Filming Location",
+    "Description": "Fernie's historic town center served as a stand-in for smaller frontier settlements visited en route west.",
+    "cFactor": 0.73,
+    "pictures": [],
+    "Scene": "S01E06 - Frontier settlement exterior"
+  },
+  {
+    "lat": 52.018,
+    "lon": -111.726,
+    "Placename": "Hanna, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Hanna's main street was dressed for abandoned town sequences during the mid-season road trip episode.",
+    "cFactor": 0.72,
+    "pictures": [],
+    "Scene": "S01E04 - Empty main street"
+  },
+  {
+    "lat": 52.6714,
+    "lon": -113.5803,
+    "Placename": "Camrose, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Camrose was used for civic street scenes and neighborhood exteriors tied to the pre-outbreak prologue.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E01 - Pre-outbreak street"
+  },
+  {
+    "lat": 50.0395,
+    "lon": -110.6788,
+    "Placename": "Medicine Hat, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Medicine Hat provided industrial outskirts and railyard backdrops for travel and supply-run sequences.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E05 - Industrial outskirts"
+  },
+  {
+    "lat": 53.2783,
+    "lon": -110.0061,
+    "Placename": "Lloydminster, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Lloydminster's prairie townscape supported cross-country plates of abandoned settlements.",
+    "cFactor": 0.68,
+    "pictures": [],
+    "Scene": "S01E04 - Prairie town"
+  },
+  {
+    "lat": 50.298,
+    "lon": -113.817,
+    "Placename": "Stavely, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Stavely's rural lanes and grain elevator backdrops were captured for countryside travel sequences.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E04 - Farm country travel"
+  },
+  {
+    "lat": 50.842,
+    "lon": -114.082,
+    "Placename": "Okotoks Air Ranch, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The air ranch area offered hangar exteriors and runway-adjacent shots for Joel and Tess's travel segment.",
+    "cFactor": 0.71,
+    "pictures": [],
+    "Scene": "S01E02 - Airfield exteriors"
+  },
+  {
+    "lat": 51.02,
+    "lon": -114.0703,
+    "Placename": "Calgary Stampede Grounds, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The Stampede grounds provided industrial edges and fairground structures used for Boston QZ worksite scenes.",
+    "cFactor": 0.74,
+    "pictures": [],
+    "Scene": "S01E01 - QZ labor yard"
+  },
+  {
+    "lat": 51.095,
+    "lon": -113.993,
+    "Placename": "Northeast Calgary Industrial Area, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Warehouse-lined streets in northeast Calgary doubled as cargo depots and black-market alleys in the QZ.",
+    "cFactor": 0.72,
+    "pictures": [],
+    "Scene": "S01E02 - QZ depot alleys"
+  },
+  {
+    "lat": 51.085,
+    "lon": -114.13,
+    "Placename": "Kensington, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Kensington's compact commercial blocks were adapted for early Boston QZ neighborhood exteriors.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E01 - QZ neighborhood"
+  },
+  {
+    "lat": 51.044,
+    "lon": -114.043,
+    "Placename": "Inglewood, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Historic storefronts in Inglewood appear in street-level establishing shots of the quarantine zone.",
+    "cFactor": 0.72,
+    "pictures": [],
+    "Scene": "S01E01 - QZ streets"
+  },
+  {
+    "lat": 53.54,
+    "lon": -113.482,
+    "Placename": "Commonwealth Stadium Area, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The stadium district supplied wide exterior plates for large-scale Boston QZ rally and evacuation scenes.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E01 - Evacuation crowd"
+  },
+  {
+    "lat": 53.57,
+    "lon": -113.456,
+    "Placename": "Borden Park, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Borden Park's tree-lined paths and river views were used for traversal shots outside the QZ perimeter.",
+    "cFactor": 0.68,
+    "pictures": [],
+    "Scene": "S01E02 - River park travel"
+  },
+  {
+    "lat": 51.0375,
+    "lon": -114.037,
+    "Placename": "East Village, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "East Village blocks supplied gritty urban textures for Boston QZ side streets and barricade lines.",
+    "cFactor": 0.73,
+    "pictures": [],
+    "Scene": "S01E01 - QZ alley patrol"
+  },
+  {
+    "lat": 51.0509,
+    "lon": -114.0853,
+    "Placename": "Prince's Island Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The park's river paths were used for exterior traversal shots outside the quarantine core.",
+    "cFactor": 0.72,
+    "pictures": [],
+    "Scene": "S01E02 - Riverside escape route"
+  },
+  {
+    "lat": 50.7472,
+    "lon": -113.645,
+    "Placename": "Aldersyde, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Aldersyde's prairie crossroads offered open-road establishing shots during the travel montage.",
+    "cFactor": 0.67,
+    "pictures": [],
+    "Scene": "S01E02 - Prairie highway"
+  },
+  {
+    "lat": 52.2681,
+    "lon": -113.8112,
+    "Placename": "Heritage Ranch, Red Deer, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The ranch setting was used for rural homestead exteriors featured in the cross-country journey.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E04 - Ranch exterior"
+  },
+  {
+    "lat": 53.5461,
+    "lon": -113.4938,
+    "Placename": "Muttart Conservatory, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The conservatory's glass pyramids served as an architectural backdrop for QZ skyline plates.",
+    "cFactor": 0.71,
+    "pictures": [],
+    "Scene": "S01E01 - QZ skyline plate"
+  },
+  {
+    "lat": 53.631,
+    "lon": -113.625,
+    "Placename": "St. Albert, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "St. Albert streets doubled for suburban neighborhoods in early outbreak flashbacks.",
+    "cFactor": 0.68,
+    "pictures": [],
+    "Scene": "S01E01 - Suburban flashback"
+  },
+  {
+    "lat": 53.5179,
+    "lon": -113.6205,
+    "Placename": "West Edmonton Mall Exterior, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The mall exterior was framed as an abandoned commercial corridor during the travel sequence.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned commercial strip"
+  },
+  {
+    "lat": 50.9251,
+    "lon": -113.964,
+    "Placename": "Sikome Lake, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Sikome Lake's shoreline provided tranquil exterior plates used in the wilderness journey.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E03 - Lakeside wilderness"
+  },
+  {
+    "lat": 50.6729,
+    "lon": -114.2415,
+    "Placename": "Okotoks Erratic (Big Rock), Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The Big Rock landmark appears in wide landscape shots emphasizing the vast prairie terrain.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E02 - Prairie landmark"
+  },
+  {
+    "lat": 49.056,
+    "lon": -111.95,
+    "Placename": "Milk River, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Milk River surroundings provided arid travel plates used to convey the long journey west.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E04 - Arid roadway"
+  },
+  {
+    "lat": 51.178,
+    "lon": -114.467,
+    "Placename": "Cochrane, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Cochrane's historic streets were dressed for small-town exterior shots during the winter arc.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E08 - Winter town exterior"
+  },
+  {
+    "lat": 53.5862,
+    "lon": -113.526,
+    "Placename": "124 Street, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "124 Street's storefronts were repurposed for Boston QZ market streetscapes.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E01 - QZ market street"
+  },
+  {
+    "lat": 53.5197,
+    "lon": -113.5077,
+    "Placename": "Ezio Faraone Park, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The riverside park appears in outdoor traversal shots beyond the QZ perimeter.",
+    "cFactor": 0.67,
+    "pictures": [],
+    "Scene": "S01E02 - River walk"
+  },
+  {
+    "lat": 51.0393,
+    "lon": -114.0402,
+    "Placename": "Studio Bell, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Studio Bell's angular architecture appears in establishing shots of the QZ skyline.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E01 - QZ skyline plate"
+  },
+  {
+    "lat": 50.891,
+    "lon": -114.018,
+    "Placename": "Fish Creek Provincial Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Fish Creek's trails provided wooded pathways used in travel sequences beyond urban areas.",
+    "cFactor": 0.68,
+    "pictures": [],
+    "Scene": "S01E02 - Forest trail"
+  },
+  {
+    "lat": 52.953,
+    "lon": -113.363,
+    "Placename": "Sherwood Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Sherwood Park neighborhoods were used for residential exteriors in outbreak-era scenes.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E01 - Residential outbreak"
+  },
+  {
+    "lat": 51.29,
+    "lon": -113.583,
+    "Placename": "Irricana, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Irricana's grain silos and rail lines appear in wide rural transition shots.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E02 - Rural transition"
+  },
+  {
+    "lat": 51.1765,
+    "lon": -115.5724,
+    "Placename": "Tunnel Mountain Road, Banff, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Tunnel Mountain Road supplied scenic switchback shots of the mountainous journey.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E06 - Mountain switchbacks"
+  },
+  {
+    "lat": 52.667,
+    "lon": -114.37,
+    "Placename": "Rocky Mountain House, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Rocky Mountain House interiors and exteriors were used for frontier outpost plates.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E06 - Frontier outpost"
+  },
+  {
+    "lat": 53.714,
+    "lon": -113.217,
+    "Placename": "Fort Saskatchewan, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Fort Saskatchewan's historic core provided additional small-town exteriors during the winter arc.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E08 - Winter town exterior"
+  },
+  {
+    "lat": 51.0419,
+    "lon": -114.0605,
+    "Placename": "City Hall Station, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The downtown transit hub appears in QZ entry shots with military checkpoints and commuter lines.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E01 - QZ entry"
+  },
+  {
+    "lat": 51.0486,
+    "lon": -114.0708,
+    "Placename": "Calgary Tower Plaza, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The tower plaza was used for skyline plates and crowd flow scenes in the QZ core.",
+    "cFactor": 0.69,
+    "pictures": [],
+    "Scene": "S01E01 - QZ skyline"
+  },
+  {
+    "lat": 51.0536,
+    "lon": -114.0647,
+    "Placename": "Olympic Plaza, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Olympic Plaza doubled as an outdoor gathering spot during FEDRA announcements.",
+    "cFactor": 0.68,
+    "pictures": [],
+    "Scene": "S01E01 - FEDRA announcement"
+  },
+  {
+    "lat": 51.0479,
+    "lon": -114.0571,
+    "Placename": "Central Library, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The modern library exterior appears in QZ establishing plates with barricades.",
+    "cFactor": 0.67,
+    "pictures": [],
+    "Scene": "S01E01 - QZ exterior"
+  },
+  {
+    "lat": 51.0443,
+    "lon": -114.0756,
+    "Placename": "Millennium Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Millennium Park paths were used for traversal shots outside the QZ perimeter.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E02 - Perimeter walk"
+  },
+  {
+    "lat": 51.083,
+    "lon": -114.197,
+    "Placename": "Bowness Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Bowness Park greenery served as a serene wilderness beat during the journey.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E03 - Woodland break"
+  },
+  {
+    "lat": 50.9975,
+    "lon": -114.014,
+    "Placename": "Deerfoot Trail Overpass, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The freeway overpass appears in evacuation traffic shots during outbreak day.",
+    "cFactor": 0.7,
+    "pictures": [],
+    "Scene": "S01E01 - Evacuation traffic"
+  },
+  {
+    "lat": 51.0865,
+    "lon": -114.0465,
+    "Placename": "Bridgeland, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Bridgeland streets doubled as residential blocks for QZ neighborhood scenes.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E01 - QZ neighborhood"
+  },
+  {
+    "lat": 51.0427,
+    "lon": -114.1346,
+    "Placename": "Shaganappi Point Station, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The LRT station appears in shots of transit infrastructure within the QZ.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E01 - QZ transit"
+  },
+  {
+    "lat": 50.8864,
+    "lon": -114.0907,
+    "Placename": "South Glenmore Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "South Glenmore's reservoir views appear in open-air travel plates.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E02 - Reservoir vista"
+  },
+  {
+    "lat": 51.2449,
+    "lon": -114.4619,
+    "Placename": "Ghost Lake, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Ghost Lake shoreline provides mountain foothill landscapes for travel sequences.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E02 - Foothills drive"
+  },
+  {
+    "lat": 51.0932,
+    "lon": -114.309,
+    "Placename": "Cochrane Ranch Historic Site, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The historic ranch site served as a rustic exterior location during the winter arc.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E08 - Winter ranch"
+  },
+  {
+    "lat": 51.2336,
+    "lon": -114.397,
+    "Placename": "Big Hill Springs Provincial Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The park's waterfall and trails appear in wilderness traversal shots.",
+    "cFactor": 0.67,
+    "pictures": [],
+    "Scene": "S01E02 - Forest trail"
+  },
+  {
+    "lat": 51.189,
+    "lon": -114.469,
+    "Placename": "Bow Valley Provincial Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Bow Valley landscapes were used for scenic travel plates.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E02 - Scenic drive"
+  },
+  {
+    "lat": 51.719,
+    "lon": -114.653,
+    "Placename": "Cremona, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Cremona's main street appears in small-town exterior beats during the journey.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E04 - Small-town stop"
+  },
+  {
+    "lat": 52.466,
+    "lon": -113.732,
+    "Placename": "Lacombe, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Lacombe heritage buildings were dressed for abandoned town sequences.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned town"
+  },
+  {
+    "lat": 53.2682,
+    "lon": -113.552,
+    "Placename": "Leduc, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Leduc provided suburban streets for outbreak-era flashbacks.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E01 - Outbreak flashback"
+  },
+  {
+    "lat": 53.6054,
+    "lon": -113.4909,
+    "Placename": "Beverly, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Beverly's older storefronts were used for QZ market street backdrops.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - QZ market street"
+  },
+  {
+    "lat": 53.5457,
+    "lon": -113.3685,
+    "Placename": "Sherwood Park Mall Exterior, Sherwood Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The mall exterior appears in abandoned commercial corridor shots.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned mall"
+  },
+  {
+    "lat": 53.6023,
+    "lon": -113.6052,
+    "Placename": "St. Albert Botanic Park, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Garden paths in St. Albert appear in quiet outdoor traversal sequences.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E02 - Garden path"
+  },
+  {
+    "lat": 51.0113,
+    "lon": -113.9642,
+    "Placename": "Elliston Park, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Elliston Park lakefront was used for reflective wilderness shots.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E03 - Lakefront pause"
+  },
+  {
+    "lat": 50.8809,
+    "lon": -113.951,
+    "Placename": "McKenzie Towne, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "McKenzie Towne streets were dressed as outbreak-era suburban neighborhoods.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E01 - Suburban outbreak"
+  },
+  {
+    "lat": 50.992,
+    "lon": -114.0659,
+    "Placename": "Heritage Park Historical Village, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Heritage Park's vintage streets provided rustic town exteriors in travel sequences.",
+    "cFactor": 0.66,
+    "pictures": [],
+    "Scene": "S01E04 - Rustic town"
+  },
+  {
+    "lat": 50.9025,
+    "lon": -114.1205,
+    "Placename": "Spruce Meadows, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Spruce Meadows grounds appear in rural estate exterior shots.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E03 - Estate exterior"
+  },
+  {
+    "lat": 50.717,
+    "lon": -113.871,
+    "Placename": "Shepard, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Shepard's industrial edges were used for QZ worksite exteriors.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - QZ worksite"
+  },
+  {
+    "lat": 50.9003,
+    "lon": -114.1009,
+    "Placename": "Bridlewood, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Bridlewood residential blocks appear in outbreak day neighborhood sequences.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - Neighborhood panic"
+  },
+  {
+    "lat": 51.0455,
+    "lon": -114.0685,
+    "Placename": "Glenbow Museum Exterior, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The museum exterior was used for QZ civic building plates.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E01 - QZ civic building"
+  },
+  {
+    "lat": 53.534,
+    "lon": -113.523,
+    "Placename": "Fort Edmonton Park, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Fort Edmonton Park's historic buildings appear in frontier settlement exterior shots.",
+    "cFactor": 0.65,
+    "pictures": [],
+    "Scene": "S01E06 - Frontier settlement"
+  },
+  {
+    "lat": 53.556,
+    "lon": -113.506,
+    "Placename": "Churchill Square, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Churchill Square was used for public gathering shots within the QZ.",
+    "cFactor": 0.64,
+    "pictures": [],
+    "Scene": "S01E01 - QZ gathering"
+  },
+  {
+    "lat": 53.544,
+    "lon": -113.487,
+    "Placename": "Ice District Plaza, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The Ice District plaza appears in urban plates for Boston QZ streets.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - QZ street"
+  },
+  {
+    "lat": 53.5685,
+    "lon": -113.6,
+    "Placename": "MacEwan University City Centre Campus, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Campus buildings were used as institutional exteriors inside the QZ.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - QZ institution"
+  },
+  {
+    "lat": 53.4632,
+    "lon": -113.5815,
+    "Placename": "Blackmud Creek Ravine, Edmonton, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The ravine trails appear in woodland traversal shots.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E02 - Ravine trail"
+  },
+  {
+    "lat": 51.0422,
+    "lon": -114.0525,
+    "Placename": "East Village Community Plaza, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The plaza was used for QZ foot traffic and checkpoint staging.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - Checkpoint staging"
+  },
+  {
+    "lat": 51.049,
+    "lon": -114.0412,
+    "Placename": "Ramsay, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Ramsay's industrial-residential mix appears in backstreet QZ scenes.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E01 - QZ backstreets"
+  },
+  {
+    "lat": 50.9534,
+    "lon": -114.074,
+    "Placename": "Canyon Meadows, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Canyon Meadows was used for suburban evacuation beats in outbreak flashbacks.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - Suburban evacuation"
+  },
+  {
+    "lat": 51.146,
+    "lon": -114.229,
+    "Placename": "Bearspaw, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Bearspaw rural roads appear in the open-road travel montage.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E02 - Open-road montage"
+  },
+  {
+    "lat": 52.364,
+    "lon": -112.711,
+    "Placename": "Stettler, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Stettler served as a small-town exterior for abandoned settlement shots.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned settlement"
+  },
+  {
+    "lat": 52.229,
+    "lon": -113.809,
+    "Placename": "Waskasoo Park, Red Deer, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Waskasoo Park trails appear in wooded traversal scenes.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E02 - Wooded traversal"
+  },
+  {
+    "lat": 52.8075,
+    "lon": -113.219,
+    "Placename": "Tofield, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Tofield's grain elevators were used as prairie landmarks during travel.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E02 - Prairie landmark"
+  },
+  {
+    "lat": 50.846,
+    "lon": -113.965,
+    "Placename": "Seton, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Seton commercial streets appear in outbreak-era suburban shots.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E01 - Suburban streets"
+  },
+  {
+    "lat": 53.761,
+    "lon": -113.67,
+    "Placename": "Morinville, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Morinville was used for small-town exterior plates during the winter arc.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E08 - Winter town"
+  },
+  {
+    "lat": 51.503,
+    "lon": -114.979,
+    "Placename": "Sundre, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Sundre's rural outskirts appear in wide travel plates.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E02 - Rural outskirts"
+  },
+  {
+    "lat": 52.132,
+    "lon": -113.328,
+    "Placename": "Sylvan Lake, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Sylvan Lake waterfront appears in scenic travel montage shots.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E02 - Lakefront montage"
+  },
+  {
+    "lat": 51.027,
+    "lon": -114.124,
+    "Placename": "Mount Royal University Exterior, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The university exterior doubled as institutional QZ infrastructure.",
+    "cFactor": 0.63,
+    "pictures": [],
+    "Scene": "S01E01 - QZ institution"
+  },
+  {
+    "lat": 51.115,
+    "lon": -113.965,
+    "Placename": "CrossIron Mills Exterior, Rocky View County, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "The mall exterior was used for abandoned commercial corridor plates.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E04 - Abandoned commercial"
+  },
+  {
+    "lat": 51.0391,
+    "lon": -114.0768,
+    "Placename": "Downtown West End, Calgary, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "West End streets provided additional QZ exterior shots with barricades.",
+    "cFactor": 0.62,
+    "pictures": [],
+    "Scene": "S01E01 - QZ exterior"
+  },
+  {
+    "lat": 53.666,
+    "lon": -113.087,
+    "Placename": "Lamont, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Lamont's prairie streets were used for abandoned settlement shots.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E04 - Prairie settlement"
+  },
+  {
+    "lat": 52.276,
+    "lon": -113.798,
+    "Placename": "Capstone District, Red Deer, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Capstone district streets appear in urban traversal sequences.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E04 - Urban traversal"
+  },
+  {
+    "lat": 53.794,
+    "lon": -113.65,
+    "Placename": "Legal, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Legal's small-town core provided winter arc exterior plates.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E08 - Winter town"
+  },
+  {
+    "lat": 51.328,
+    "lon": -114.015,
+    "Placename": "Beiseker, Alberta, Canada",
+    "Category": "Filming Location",
+    "Description": "Beiseker's grain elevators appear in prairie travel montages.",
+    "cFactor": 0.61,
+    "pictures": [],
+    "Scene": "S01E02 - Prairie montage"
+  }
+]

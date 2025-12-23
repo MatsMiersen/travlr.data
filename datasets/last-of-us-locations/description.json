@@ -1,0 +1,11 @@
+{
+  "id": "last-of-us-locations",
+  "name": "The Last of Us Filming Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 20,
+  "title": "End-of-the-world filming locations",
+  "description": "Key real-world locations in Alberta, Canada, used to film HBO's The Last of Us, with coordinates, confidence factors, and Scene identifiers (SxxExx) for map exploration.",
+  "markercount": 100,
+  "production": true
+}
