@@ -6,5 +6,6 @@
   "index": 8,
   "title": "Pyramids across eras",
   "description": "Point dataset of iconic pyramids from ancient Egypt and Mesoamerica to modern cultural and commercial landmarks, including build years and confidence ratings.",
-  "markercount": 122
+  "markercount": 122,
+  "production": true
 }

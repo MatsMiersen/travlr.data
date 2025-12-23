@@ -6,5 +6,6 @@
   "index": 12,
   "title": "Historical cities and landmarks across the Creed",
   "description": "Playable, mappable landmarks from Assassin's Creed titles with confidence factors for how closely they map to reality.",
-  "markercount": 263
+  "markercount": 263,
+  "production": true
 }

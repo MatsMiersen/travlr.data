@@ -6,5 +6,6 @@
   "index": 15,
   "title": "Global earthquake records",
   "description": "Worldwide earthquake events with magnitudes, felt reports, timestamps, and tsunami indicators for hazard context.",
-  "markercount": 6107
+  "markercount": 6107,
+  "production": true
 }

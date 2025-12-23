@@ -6,5 +6,6 @@
   "index": 4,
   "title": "Human heritage map",
   "description": "Cultural and mixed UNESCO World Heritage sites, including coordinates, descriptions, and source links.",
-  "markercount": 849
+  "markercount": 849,
+  "production": true
 }

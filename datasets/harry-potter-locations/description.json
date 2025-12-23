@@ -6,5 +6,6 @@
   "index": 7,
   "title": "Wizarding world on location",
   "description": "Famous real-world sites used to film the Harry Potter series, including castles, cathedrals, viaducts, and studio stages with coordinates for mapping and a confidence factor per marker.",
-  "markercount": 74
+  "markercount": 74,
+  "production": true
 }

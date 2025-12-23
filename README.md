@@ -11,28 +11,28 @@ Agentic environment for TRAVLR's explore section. Datasets are organized by fold
 ## Explore functions
 Explore-ready datasets grouped by theme.
 
-| Theme | Dataset | ID | Markers | Notes |
-| --- | --- | --- | --- | --- |
-| Culture | Traditional Dishes and Origins | `traditional_food` | 800 | Iconic recipes mapped to the venues where they originated with confidence notes. |
-| Culture | UNESCO World Heritage Sites – Human | `unesco-human` | 849 | Human-made heritage sites with marker confidence values. |
-| Culture | World Pyramids | `pyramids` | 122 | Ancient through modern pyramids. |
+| Theme | Dataset | ID | Markers | Image | Icon | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Culture | Traditional Dishes and Origins | `traditional_food` | 800 | ![Traditional Food](datasets/traditional_food/assets/images/traditional_food.webp) | ![Traditional Food Icon](datasets/traditional_food/assets/icons/traditional_food_blk.png) | Iconic recipes mapped to the venues where they originated with confidence notes. |
+| Culture | UNESCO World Heritage Sites – Human | `unesco-human` | 849 | ![UNESCO Human Sites](datasets/unesco-human/assets/images/unesco-human.webp) | ![UNESCO Human Icon](datasets/unesco-human/assets/icons/unesco-human_blk.png) | Human-made heritage sites with marker confidence values. |
+| Culture | World Pyramids | `pyramids` | 122 | ![Pyramids](datasets/pyramids/assets/images/pyramids.webp) | ![Pyramids Icon](datasets/pyramids/assets/icons/pyramids_blk.png) | Ancient through modern pyramids. |
 | Culture | Alien & UFO Landmarks | `alien_world` | 15 | UFO sightings, memorials, and alien-themed landmarks rooted in enthusiast subculture. |
-| Culture | Reddit Travel Locations | `reddit-travel-locations` | 26,479 | Crowd-sourced travel tips and places to visit. |
-| Nature | UNESCO World Heritage Sites – Natural | `unesco-nature` | 203 | Natural heritage sites. |
-| Nature | Meteorite Landings | `meteorites` | 45,716 | Global meteorite strike records. |
-| Nature | Earthquakes | `earthquakes` | 6,107 | Worldwide earthquake events with magnitudes, felt reports, timestamps, and tsunami flags. |
-| Nature | Iconic Waterfalls | `waterfalls` | 1,100 | Waterfalls with height and confidence factors. |
-| Nature | Volcanoes | `vulcanoes` | 425 | Volcano locations with supporting details. |
+| Culture | Reddit Travel Locations | `reddit-travel-locations` | 26,479 | ![Reddit Travel Locations](datasets/reddit-travel-locations/assets/images/reddit-travel-locations.webp) | ![Reddit Travel Icon](datasets/reddit-travel-locations/assets/icons/reddit-travel-locations_blk.png) | Crowd-sourced travel tips and places to visit. |
+| Nature | UNESCO World Heritage Sites – Natural | `unesco-nature` | 203 | ![UNESCO Natural Sites](datasets/unesco-nature/assets/images/unesco-nature.webp) | ![UNESCO Natural Icon](datasets/unesco-nature/assets/icons/unesco-nature_blk.png) | Natural heritage sites. |
+| Nature | Meteorite Landings | `meteorites` | 45,716 | ![Meteorites](datasets/meteorites/assets/images/meteorites.webp) | _Pending (see `explore/meteor_*.png`)_ | Global meteorite strike records. |
+| Nature | Earthquakes | `earthquakes` | 6,107 | ![Earthquakes](datasets/earthquakes/assets/images/earthquakes.webp) | ![Earthquakes Icon](datasets/earthquakes/assets/icons/earthquakes_blk.png) | Worldwide earthquake events with magnitudes, felt reports, timestamps, and tsunami flags. |
+| Nature | Iconic Waterfalls | `waterfalls` | 1,100 | ![Waterfalls](datasets/waterfalls/assets/images/waterfalls.webp) | ![Waterfalls Icon](datasets/waterfalls/assets/icons/waterfalls_blk.png) | Waterfalls with height and confidence factors. |
+| Nature | Volcanoes | `vulcanoes` | 425 | ![Volcanoes](datasets/vulcanoes/assets/images/vulcanoes.webp) | ![Volcanoes Icon](datasets/vulcanoes/assets/icons/vulcanoes_blk.png) | Volcano locations with supporting details. |
 | Transport | Global Airports | `airports` | 10,352 | Worldwide airports and heliports with codes, time zones, and flightability flags. |
 | Transport | Global Cities | `cities` | 9,639 | City points with translations, time zones, and airport readiness flags. |
-| Fiction | Lord of the Rings Filming Locations | `lotr-locations` | 131 | Filming locations for Peter Jackson's trilogy. |
-| Fiction | Star Wars Filming & Story Locations | `star-wars-locations` | 62 | Filming sites and in-universe anchors. |
-| Fiction | Harry Potter Filming Locations | `harry-potter-locations` | 74 | Locations used across the film series. |
-| Fiction | Game of Thrones Filming Locations | `game-of-thrones-locations` | 300 | Filming sites with confidence scores. |
+| Fiction | Lord of the Rings Filming Locations | `lotr-locations` | 131 | ![LOTR Locations](datasets/lotr-locations/assets/images/lotr-locations.webp) | ![LOTR Icon](datasets/lotr-locations/assets/icons/lotr-locations_blk.png) | Filming locations for Peter Jackson's trilogy. |
+| Fiction | Star Wars Filming & Story Locations | `star-wars-locations` | 62 | ![Star Wars Locations](datasets/star-wars-locations/assets/images/star-wars-locations.webp) | ![Star Wars Icon](datasets/star-wars-locations/assets/icons/star-wars-locations_blk.png) | Filming sites and in-universe anchors. |
+| Fiction | Harry Potter Filming Locations | `harry-potter-locations` | 74 | ![Harry Potter Locations](datasets/harry-potter-locations/assets/images/harry-potter-locations.webp) | ![Harry Potter Icon](datasets/harry-potter-locations/assets/icons/harry-potter-locations_blk.png) | Locations used across the film series. |
+| Fiction | Game of Thrones Filming Locations | `game-of-thrones-locations` | 300 | ![Game of Thrones Locations](datasets/game-of-thrones-locations/assets/images/game-of-thrones-locations.webp) | ![Game of Thrones Icon](datasets/game-of-thrones-locations/assets/icons/game-of-thrones-locations_blk.png) | Filming sites with confidence scores. |
 | Fiction | Breaking Bad Filming Locations | `breaking-bad-locations` | 222 | Albuquerque and New Mexico shoots with per-location notes. |
-| Fiction | James Bond Filming & Story Locations | `james-bond-locations` | 62 | Mix of filming sites and in-universe anchors with confidence factors. |
-| Fiction | Assassin's Creed Real-World Locations | `assassins-creed-locations` | 263 | Historical sites and analogs from the franchise. |
-| Fiction | Fallout Explorable Locations | `fallout-explore` | 350 | Fallout locales mapped to real-world coordinates with confidence ratings. |
+| Fiction | James Bond Filming & Story Locations | `james-bond-locations` | 62 | ![James Bond Locations](datasets/james-bond-locations/assets/images/james-bond-locations.webp) | ![James Bond Icon](datasets/james-bond-locations/assets/icons/james-bond-locations_blk.png) | Mix of filming sites and in-universe anchors with confidence factors. |
+| Fiction | Assassin's Creed Real-World Locations | `assassins-creed-locations` | 263 | ![Assassin's Creed Locations](datasets/assassins-creed-locations/assets/images/assassins-creed-locations.webp) | ![Assassin's Creed Icon](datasets/assassins-creed-locations/assets/icons/assassins-creed-locations_blk.png) | Historical sites and analogs from the franchise. |
+| Fiction | Fallout Explorable Locations | `fallout-explore` | 350 | ![Fallout Locations](datasets/fallout-explore/assets/images/fallout-explore.webp) | ![Fallout Icon](datasets/fallout-explore/assets/icons/fallout-explore_blk.png) | Fallout locales mapped to real-world coordinates with confidence ratings. |
 
 ## Polygon sets
 Boundary and region geometries for polygon-based exploration.

@@ -6,5 +6,6 @@
   "index": 10,
   "title": "From Winterfell to King's Landing",
   "description": "Key Game of Thrones filming sites with per-location confidence factors (cFactor).",
-  "markercount": 300
+  "markercount": 300,
+  "production": true
 }

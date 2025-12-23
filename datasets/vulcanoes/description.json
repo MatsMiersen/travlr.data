@@ -6,5 +6,6 @@
   "index": 14,
   "title": "Volcano locations with supporting details",
   "description": "Global volcano records with coordinates, elevation, type, and country metadata for exploration and layering.",
-  "markercount": 425
+  "markercount": 425,
+  "production": true
 }

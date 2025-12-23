@@ -6,5 +6,6 @@
   "index": 2,
   "title": "Community travel recommendations",
   "description": "Crowdsourced points of interest derived from Reddit travel discussions, including names, context, and geographic coordinates for mapping.",
-  "markercount": 26479
+  "markercount": 26479,
+  "production": true
 }

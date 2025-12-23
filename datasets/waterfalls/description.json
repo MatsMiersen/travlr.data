@@ -6,5 +6,6 @@
   "index": 10,
   "title": "Famous waterfalls around the world",
   "description": "Signature waterfalls with locations, heights, and per-entry confidence factors for mapping and exploration.",
-  "markercount": 1100
+  "markercount": 1100,
+  "production": true
 }

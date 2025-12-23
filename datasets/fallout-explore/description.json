@@ -6,5 +6,6 @@
   "index": 11,
   "title": "Fallout's Real-World Anchors",
   "description": "Mappable Fallout locations linked to their real-world sites with confidence scores (cFactor).",
-  "markercount": 350
+  "markercount": 350,
+  "production": true
 }

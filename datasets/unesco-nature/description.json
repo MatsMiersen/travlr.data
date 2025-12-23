@@ -6,5 +6,6 @@
   "index": 3,
   "title": "Natural heritage map",
   "description": "Natural-category UNESCO World Heritage sites with coordinates, descriptions, and source links.",
-  "markercount": 203
+  "markercount": 203,
+  "production": true
 }
