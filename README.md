@@ -26,6 +26,7 @@ Explore-ready datasets grouped by theme.
 | Fiction | Star Wars Filming & Story Locations | `star-wars-locations` | 62 | Filming sites and in-universe anchors. |
 | Fiction | Harry Potter Filming Locations | `harry-potter-locations` | 74 | Locations used across the film series. |
 | Fiction | Game of Thrones Filming Locations | `game-of-thrones-locations` | 300 | Filming sites with confidence scores. |
+| Fiction | Breaking Bad Filming Locations | `breaking-bad-locations` | 222 | Albuquerque and New Mexico shoots with per-location notes. |
 | Fiction | James Bond Filming & Story Locations | `james-bond-locations` | 62 | Mix of filming sites and in-universe anchors with confidence factors. |
 | Fiction | Assassin's Creed Real-World Locations | `assassins-creed-locations` | 263 | Historical sites and analogs from the franchise. |
 | Fiction | Fallout Explorable Locations | `fallout-explore` | 350 | Fallout locales mapped to real-world coordinates with confidence ratings. |
