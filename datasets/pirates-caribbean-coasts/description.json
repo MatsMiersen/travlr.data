@@ -1,0 +1,11 @@
+{
+  "id": "pirates-caribbean-coasts",
+  "name": "Pirates of the Caribbean Ports & Coastlines",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 21,
+  "title": "Sailing the Caribbean",
+  "description": "Real-world ports, islands, and coastal vistas that appear on screen across the Pirates of the Caribbean film series. Entries include the film reference, scene description, and a confidence factor.",
+  "markercount": 108,
+  "production": true
+}
