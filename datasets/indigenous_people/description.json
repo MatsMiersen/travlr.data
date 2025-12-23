@@ -1,0 +1,10 @@
+{
+  "id": "indigenous_people",
+  "name": "Indigenous and Community Conserved Areas",
+  "type": "polygon",
+  "category": "Culture",
+  "index": 18,
+  "title": "Indigenous territories and community-conserved areas",
+  "description": "ICCA Registry polygons highlighting Indigenous lands and community-managed conservation areas with governance details for each site.",
+  "markercount": 24
+}

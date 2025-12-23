@@ -40,6 +40,7 @@ Boundary and region geometries for polygon-based exploration.
 | --- | --- | --- | --- |
 | Ancient Empires Peak Extents | `ancient-empires` | 14 | MultiPolygon outlines for major empires at their peak reach. |
 | Country and US Bounding Boxes | `country-bounds` | 254 | Bounding boxes for global countries and U.S. regions. |
+| Indigenous & Community Conserved Areas | `indigenous_people` | 24 | ICCA Registry polygons highlighting Indigenous and community stewarded territories. |
 | United States Feature Collection | `us-states` | 52 | U.S. state and territory polygons. |
 | Time Zones | `time-zones` | Shapefile | Natural Earth 1:10m time zone polygons (feature count depends on importer). |
 | Tectonic Plates | `tectonic-plates` | 54 | PB2002 tectonic plate boundaries in GeoJSON format. |
