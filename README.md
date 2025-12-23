@@ -60,119 +60,30 @@ Boundary and region geometries for polygon-based exploration.
 
 ## Coming Soon: New Explore Datasets
 
-These upcoming Explore datasets expand TRAVLR beyond classic points of interest, focusing on **context, scale, and human stories**. Each dataset is designed to support curiosity-driven exploration and long-term memory building, rather than checklist tourism.
-
----
-
-### 🌍 Unique Geological Formations
-
-**Dataset ID:** `unique-geology`
-
-This dataset highlights rare and visually striking geological phenomena that reveal how the planet was formed.
-
-**Core Concept:**
-Explore places shaped by deep time and extreme natural processes — formations that exist nowhere else or only in a handful of locations worldwide.
-
-**Includes:**
-
-* Columnar basalt formations
-* Salt flats and evaporite basins
-* Sinkholes and karst systems
-* Stone forests and eroded rock cities
-
-**Why it matters:**
-These locations invite awe and curiosity, offering a tangible connection to Earth’s geological history and reinforcing TRAVLR’s focus on meaningful exploration.
-
----
-
-### 🧭 Extreme Geography Points
-
-**Dataset ID:** `geographic-extremes`
-
-This dataset maps the physical limits of human habitation and natural conditions.
-
-**Core Concept:**
-Discover where life persists under extreme environmental conditions — the edges of what is geographically possible.
-
-**Includes:**
-
-* Highest permanently inhabited villages
-* Driest places on Earth
-* Coldest inhabited towns
-* Remote and isolated settlements
-
-**Why it matters:**
-Extreme geography reframes travel as a story of adaptation and resilience, adding depth to how places are understood and remembered.
-
----
-
-## 🕰️ History
-
-A new Explore pillar focused on **movement, power, and modern memory** — showing how human decisions and events shaped the world map over time.
-
----
-
-### 🧳 Famous Journeys & Expeditions
-
-**Dataset ID:** `historic-expeditions`
-
-This dataset traces the routes of history’s most influential journeys.
-
-**Core Concept:**
-Follow the paths of explorers, scientists, and adventurers whose travels changed global understanding.
-
-**Includes:**
-
-* Marco Polo’s trade routes
-* Magellan’s circumnavigation
-* Darwin’s voyage on the HMS Beagle
-* Polar expeditions (e.g. Shackleton)
-
-**Why it matters:**
-Travel becomes narrative-driven, allowing users to explore movement through space and time rather than static locations.
-
----
-
-### 🏛️ Rise & Fall of Empires (Capital Layers)
-
-**Dataset ID:** `historic-capitals`
-
-This dataset visualizes political power through shifting capitals across history.
-
-**Core Concept:**
-See how centers of power emerge, move, and disappear as empires rise and fall.
-
-**Includes:**
-
-* Ancient and medieval capitals
-* Successive capitals within the same empire
-* Temporal layers showing change over centuries
-
-**Why it matters:**
-It transforms the map into a historical timeline, helping users understand geopolitical evolution at a glance.
-
----
-
-### 🧱 Cold War & Modern History Sites
-
-**Dataset ID:** `cold-war-sites`
-
-This dataset focuses on recent history that still shapes today’s world.
-
-**Core Concept:**
-Explore physical remnants of 20th-century geopolitics and global tension.
-
-**Includes:**
-
-* Berlin Wall remnants
-* Missile silos and launch sites
-* Bunkers, borders, and surveillance infrastructure
-
-**Why it matters:**
-These sites connect personal memory, collective history, and modern identity — aligning strongly with TRAVLR’s Memory Ecosystem vision.
-
----
-
-**Status:** Coming Soon
-
-These datasets will be progressively introduced into Explore Mode, expanding TRAVLR’s map from a collection of places into a living, layered memory system.
+| Pillar | Dataset | Dataset ID | Core concept | Probable scale (features) |
+|---|---|---|---|---|
+| Nature | Unique Geological Formations | `unique-geology` | Rare / visually striking formations shaped by deep time | ≈ 500–2,000 |
+| Nature | Extreme Geography Points | `geographic-extremes` | The physical limits of habitation & natural conditions | ≈ 300–1,200 |
+| History | Famous Journeys & Expeditions | `historic-expeditions` | Routes of influential journeys that changed understanding | ≈ 100–800 |
+| Nature | Seasonal Nature Phenomena | `seasonal-phenomena` | “When-to-go” locations: blooms, foliage, fireflies, bioluminescence, migrations | ≈ 1,000–10,000 |
+| Urbanism / Design | Urban Revolution | `urban-revolution` | Post-industrial transformations and urban reinvention | ≈ 1,000–12,000 |
+| Culture | Pilgrimage Trails | `pilgrimage-trails` | Living pilgrimage networks (routes + rest nodes), still walked today | ≈ 500–8,000 |
+| Culture | Craft Terroirs | `craft-terroirs` | Regions where material + tradition create “only-here” crafts | ≈ 3,000–25,000 |
+| Fiction | The Witcher (Netflix) | `witcher-locations` | Real-world filming locations as depicted on screen across seasons | ≈ 120–400 |
+| Fiction | Jurassic Park / World | `jurassic-locations` | Real islands, coasts, forests used and depicted in the franchise | ≈ 50–180 |
+| Fiction | The Matrix | `matrix-locations` | Real urban locations and infrastructures shown as themselves or unnamed cities | ≈ 70–200 |
+| Fiction | Blade Runner (1982 / 2049) | `blade-runner-locations` | Real city locations and structures visible in-film | ≈ 40–120 |
+| Fiction | Star Trek (Earth-based scenes) | `star-trek-earth-locations` | Real Earth locations depicted on screen (films + series) | ≈ 80–300 |
+| Fiction | Mission: Impossible | `mission-impossible-locations` | On-location set pieces depicted directly in the films | ≈ 120–400 |
+| Fiction | Narcos (Netflix) | `narcos-locations` | Real cities, neighborhoods, and landscapes depicted on screen | ≈ 120–300 |
+| Fiction | Peaky Blinders | `peaky-blinders-locations` | Industrial-era locations depicted in the series | ≈ 80–200 |
+| Fiction | Sherlock (BBC) | `sherlock-locations` | Real London locations depicted as themselves or story settings | ≈ 70–180 |
+| Fiction | The Dark Knight Trilogy | `dark-knight-locations` | Real urban locations depicted on screen across the trilogy | ≈ 90–220 |
+| Fiction | The Bourne Series | `bourne-locations` | Real European & global city locations depicted on screen | ≈ 120–350 |
+| Fiction | The Crown | `the-crown-locations` | Real palaces, estates, cities, and interiors depicted on screen | ≈ 150–400 |
+| Fiction | Vikings | `vikings-locations` | Real-world locations depicted across the series | ≈ 120–300 |
+| Fiction | The Last of Us | `last-of-us-locations` | Real urban and rural locations depicted on screen | ≈ 80–200 |
+| Fiction | Call of Duty (Real-World Campaign Maps) | `call-of-duty-locations` | Real cities and regions depicted in campaign missions | ≈ 80–200 |
+| Fiction | Watch Dogs | `watch-dogs-locations` | Real cities recreated and depicted as themselves | ≈ 60–150 |
+| Fiction | Grand Theft Auto (Real-World References Only) | `gta-real-locations` | Real locations explicitly named or depicted (limited, verified only) | ≈ 30–80 |
+| Fiction | Tomb Raider (Reboot Trilogy) | `tomb-raider-locations` | Real archaeological and urban locations depicted on screen | ≈ 60–150 |
