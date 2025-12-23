@@ -1,0 +1,11 @@
+{
+  "id": "indiana-jones-locations",
+  "name": "Indiana Jones Filming Locations",
+  "type": "point",
+  "category": "Film & TV",
+  "index": 15,
+  "title": "Real-world adventures",
+  "description": "Key filming locations from the Indiana Jones films, spanning North Africa, Europe, and North America.",
+  "markercount": 58,
+  "production": true
+}
